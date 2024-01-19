@@ -33,7 +33,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 <font size=5><center><b> Table of Contents </b></center></font>
 
-- [Meet Ups](#Meet ups)
+- [Meet Ups](#Meet-Ups)
 - [Books](#books)
 - [Surveys](#surveys)
 - [Papers](#papers)
@@ -55,8 +55,10 @@ Thanks for your valuable contribution to the research community. 😃
 
 ---
 
-# Meet ups
+# Meet Ups
 
+| Date | Location | Host |
+| --- | --- | :---: |  --- | 
 
 
 # Books
