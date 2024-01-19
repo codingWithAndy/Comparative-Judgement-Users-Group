@@ -25,6 +25,7 @@ One advantage of comparative judgment is that it allows for a more nuanced and r
 
 There are both manual and automated ways to implement comparative judgment. Manual methods involve people making the comparisons, while automated systems use algorithms to analyze the data and derive rankings. Automated systems can efficiently handle large-scale assessments, making comparative judgment a versatile approach in various fields, including education, art, and professional evaluations.
 
+---
 
 Thanks for your valuable contribution to the research community. 😃
 
@@ -32,6 +33,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 <font size=5><center><b> Table of Contents </b></center></font>
 
+- [Meet Ups](#Meet ups)
 - [Books](#books)
 - [Surveys](#surveys)
 - [Papers](#papers)
@@ -41,12 +43,21 @@ Thanks for your valuable contribution to the research community. 😃
   - [2019](#2019)
   - [2018](#2018)
   - [2017](#2017)
-  - [Before 2017](#before-2017)
+  - [2016](#2017)
+  - [2015](#2017)
+  - [2014](#2017)
+  - [2013](#2017)
+  - [2012](#2017)
+  - [Before 2011](#before-2011)
 
 - [Turtorials](#turtorials)
 - [Tools](#tools)
 
 ---
+
+# Meet ups
+
+
 
 # Books
 
@@ -102,19 +113,16 @@ Thanks for your valuable contribution to the research community. 😃
 | --------     | :-----: |  :----: | :----: |----|----|
 
 
-
 ## 2020
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 
 
-
 ## 2019
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
-
 
 
 ## 2018
@@ -129,8 +137,52 @@ Thanks for your valuable contribution to the research community. 😃
 | --------     | :-----: |  :----: | :----: |----|----|
 
 
-## Before 2016
+## 2016
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+
+
+## 2015
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+
+
+## 2014
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+
+
+## 2013
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+
+
+## 2012
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+
+
+## Before 2011
 
 |Year| Title        | Publication |  Paper  |  Code  | Tags | Notes |
 |----| --------     | :-----: |  :----: | :----: |----|----|
+
+
+# Turtorials
+<!--
+* [Overview of Active Learning for Deep Learning](https://jacobgil.github.io/deeplearning/activelearning). Jacob Gildenblat.
+* [Active Learning from Theory to Practice](https://www.youtube.com/watch?v=_Ql5vfOPxZU). Steve Hanneke, Robert Nowak. (ICML, 2019)
+-->
+
+
+# Tools
+<!--
+* [Active-Learning-as-a-Service: An Efficient MLOps System for Data-Centric AI](https://github.com/MLSysOps/Active-Learning-as-a-Service). Huang, Yizheng and Zhang, Huaizheng and Li, Yuanming and Lau, Chiew Tong and You, Yang. (2022)
+-->
+
 
