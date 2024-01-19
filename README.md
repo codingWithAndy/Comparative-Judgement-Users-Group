@@ -7,6 +7,8 @@ This repository was set up after the inaugural <a href="https://www.ncrm.ac.uk/"
 
 The aim is...
 
+---
+
 ## What is Comparative Judgement
 
 Comparative judgment is a method used in assessment and evaluation to compare and rank different items or performances based on their perceived quality or merit. Instead of assigning absolute scores or grades to individual items, comparative judgment involves comparing pairs of items and determining which is better or of higher quality.
@@ -57,8 +59,9 @@ Thanks for your valuable contribution to the research community. 😃
 
 # Meet Ups
 
-| Date | Location | Host |
-| --- | --- | :---: |  --- | 
+| Date | Location | Focus | Host |
+| --- | :---: |  --- | --- |
+| 16-01-2024 | Loughborough University | Research Method User Group initialtion | Ian Jones |
 
 
 # Books
