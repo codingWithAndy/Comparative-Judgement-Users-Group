@@ -61,6 +61,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Date | Location | Focus | Host |
 | --- | :---: |  --- | --- |
+| X-X-2024 | Birmingham University | | Rowland Seymour |
 | 16-01-2024 | Loughborough University | Research Method User Group initialtion | Ian Jones |
 
 
@@ -186,6 +187,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 
 # Tools
+- <a href="https://www.nomoremarking.com/">No More Marking<a> - A Online Comparative Judgement Application.
 <!--
 * [Active-Learning-as-a-Service: An Efficient MLOps System for Data-Centric AI](https://github.com/MLSysOps/Active-Learning-as-a-Service). Huang, Yizheng and Zhang, Huaizheng and Li, Yuanming and Lau, Chiew Tong and You, Yang. (2022)
 -->
