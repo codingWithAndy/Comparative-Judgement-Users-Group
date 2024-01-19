@@ -24,3 +24,133 @@ Here's a simplified explanation of how comparative judgment works:
 One advantage of comparative judgment is that it allows for a more nuanced and reliable assessment by leveraging the human ability to make qualitative distinctions. It can be especially useful when evaluating complex or subjective tasks where assigning numerical scores may be challenging.
 
 There are both manual and automated ways to implement comparative judgment. Manual methods involve people making the comparisons, while automated systems use algorithms to analyze the data and derive rankings. Automated systems can efficiently handle large-scale assessments, making comparative judgment a versatile approach in various fields, including education, art, and professional evaluations.
+
+
+Thanks for your valuable contribution to the research community. 😃
+
+---
+
+<font size=5><center><b> Table of Contents </b></center></font>
+
+- [Books](#books)
+- [Surveys](#surveys)
+- [Papers](#papers)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [Before 2017](#before-2017)
+
+- [Turtorials](#turtorials)
+- [Tools](#tools)
+
+---
+
+# Books
+
+* [Chapter 22 Active Learning: A Survey. from Data Classification: Algorithms and Applications](http://charuaggarwal.net/active-survey.pdf) Charu C. Aggarwa et al.(CRC Press, 2014)
+* [Active Learning](https://www.morganclaypool.com/doi/abs/10.2200/S00429ED1V01Y201207AIM018). Burr Settles. (CMU, 2012)
+
+# Surveys
+
+| Year | Paper | Author | Publication | Code | Notes |
+| --- | --- | :---: | :---: |  --- | --- |
+| 2022 | [A Comparative Survey of Deep Active Learning](https://arxiv.org/pdf/2203.13450.pdf) | Xueying Zhan et al. | arXiv | [code](https://github.com/SineZHAN/deepALplus) |  |
+| 2021 | [A Survey on Active Deep Learning: From Model-driven to Data-driven](https://arxiv.org/abs/2101.09933) | Peng Liu et al. | CSUR |  |  |
+| 2020 | [A Survey of Active Learning for Text Classification using Deep Neural Networks](https://arxiv.org/abs/2008.07267) | Christopher Schröder et al. | arXiv || |
+| 2020 | [A Survey of Deep Active Learning](https://arxiv.org/abs/2009.00236) | Pengzhen Ren et al. | CSUR |  |  |
+| 2009 | [Active Learning Literature Survey](https://minds.wisconsin.edu/handle/1793/60660) | Settles, Burr. | University of Wisconsin-Madison Department of Computer Sciences |  |  |
+
+
+
+# Papers
+
+## 2024
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+|Entropic Open-Set Active Learning|AAAI 2024|[Paper](https://arxiv.org/abs/2312.14126)|[Code](https://github.com/bardisafa/EOAL) | Pool.| Open-world AL |
+
+## 2023
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+|Compute-Efficient Active Learning|NeurIPS 2023 Workshop ReALML|[Paper](https://openreview.net/pdf?id=G6ujG6LaKV)|[Code](https://github.com/aimotive/Compute-Efficient-Active-Learning) | Pool., Syn. | Method-agnostic framework |
+
+## 2022
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+|Active Learning Helps Pretrained Models Learn the Intended Task|NeurIPS|[paper](https://arxiv.org/abs/2204.08491)|[code](https://github.com/alextamkin/active-learning-pretrained-models)|`Pool.`||
+|Making Your First Choice: To Address Cold Start Problem in Vision Active Learning|NeurIPS workshop|[paper](https://arxiv.org/abs/2210.02442)|[code](https://github.com/c-liangyu/CSVAL)|`Pool.`| Cold-start problem|
+|Active Learning Through a Covering Lens|NeurIPS|[paper](https://arxiv.org/abs/2205.11320)|[code](https://github.com/avihu111/TypiClust)|`Pool.`| |
+|Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation|NeurIPS|[paper](https://arxiv.org/pdf/2202.06881)|[code](https://github.com/jlko/active-surrogate-estimators)|`Pool.`|Model evaluation|
+|Meta-Query-Net: Resolving Purity-Informativeness Dilemma in Open-set Active Learning|NeurIPS|[paper](https://arxiv.org/pdf/2210.07805.pdf)|[code](https://github.com/kaist-dmlab/MQNet)|`Pool.`||
+|One-Bit Active Query With Contrastive Pairs|CVPR|[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_One-Bit_Active_Query_With_Contrastive_Pairs_CVPR_2022_paper.html)|  |`Pool.`|One-bit supervision task|
+|Active label cleaning for improved dataset quality under resource constraints |Nature Communications|[paper](https://arxiv.org/abs/2109.00574)|[code](https://github.com/microsoft/InnerEye-DeepLearning/tree/1606729c7a16e1bfeb269694314212b6e2737939/InnerEye-DataQuality)|`Pool.`|Label cleaning|
+|Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation |CVPR|[paper](https://arxiv.org/abs/2111.12940)|[code](https://github.com/BIT-DA/RIPU)|`Pool.`||
+|Budget-aware Few-shot Learning via Graph Convolutional Network |arXiv|[paper](https://arxiv.org/abs/2201.02304)||`Pool.` `Meta.` `FS.`||
+|Using Self-Supervised Pretext Tasks for Active Learning |arXiv|[paper](https://arxiv.org/abs/2201.07459)|[code](https://github.com/johnsk95/PT4AL)|`Pool.` `SS.`|Cold-start problem|
+|Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach|ICLR|[paper](https://arxiv.org/abs/2106.02968)||`Pool.`| Cold-start problem|
+|Active Learning by Feature Mixing|CVPR|[paper](https://arxiv.org/abs/2203.07034)|[code](https://github.com/AminParvaneh/alpha_mix_active_learning)|`Pool.`||
+|Coherence-based Label Propagation over Time Series for Accelerated Active Learning|ICLR|[paper](https://openreview.net/forum?id=gjNcH0hj0LM)| [code](https://github.com/kaist-dmlab/TCLP) |`Pool.`|Time series|
+
+## 2024
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+| Active learning with MaskAL reduces annotation effort for training Mask R-CNN | arXiv | [paper](https://arxiv.org/abs/2112.06586) | [code](https://github.com/pieterblok/maskal) |  |  |
+
+
+## 2023
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+| Active learning with MaskAL reduces annotation effort for training Mask R-CNN | arXiv | [paper](https://arxiv.org/abs/2112.06586) | [code](https://github.com/pieterblok/maskal) |  |  |
+
+## 2022
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+| Active learning with MaskAL reduces annotation effort for training Mask R-CNN | arXiv | [paper](https://arxiv.org/abs/2112.06586) | [code](https://github.com/pieterblok/maskal) |  |  |
+
+## 2021
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+| Active learning with MaskAL reduces annotation effort for training Mask R-CNN | arXiv | [paper](https://arxiv.org/abs/2112.06586) | [code](https://github.com/pieterblok/maskal) |  |  |
+
+
+## 2020
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+
+
+
+## 2019
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+
+
+
+## 2018
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+
+
+## 2017
+
+| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: |  :----: | :----: |----|----|
+
+
+## Before 2016
+
+|Year| Title        | Publication |  Paper  |  Code  | Tags | Notes |
+|----| --------     | :-----: |  :----: | :----: |----|----|
+
