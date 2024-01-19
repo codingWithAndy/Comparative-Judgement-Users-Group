@@ -1,6 +1,6 @@
 # Comparative Judgement User Group
 
-This repository was set up after the inaugural [enter funding here] at Loughborough University, hosted by Dr Ian Jones.
+This repository was set up after the inaugural <a href="https://www.ncrm.ac.uk/">National Centre for Research Methods</a> (NCRM) at Loughborough University, hosted by Dr Ian Jones.
 
 
 ## Aim of the Repository
