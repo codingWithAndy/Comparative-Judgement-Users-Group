@@ -28,6 +28,11 @@ One advantage of comparative judgment is that it allows for a more nuanced and r
 There are both manual and automated ways to implement comparative judgment. Manual methods involve people making the comparisons, while automated systems use algorithms to analyze the data and derive rankings. Automated systems can efficiently handle large-scale assessments, making comparative judgment a versatile approach in various fields, including education, art, and professional evaluations.
 
 ---
+<font size=4><b> Tags </b></font>
+
+`Adapt.`: Adaptive Pair Selection |  `Edu.`: Education Focused         |
+
+
 
 Thanks for your valuable contribution to the research community. 😃
 
@@ -100,6 +105,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+| A Bayesian Active Learning Approach to Comparative Judgement | arXiv | [paper](https://arxiv.org/abs/2308.13292) | | `Edu.` |
 <!--
 |Compute-Efficient Active Learning|NeurIPS 2023 Workshop ReALML|[Paper](https://openreview.net/pdf?id=G6ujG6LaKV)|[Code](https://github.com/aimotive/Compute-Efficient-Active-Learning) | Pool., Syn. | Method-agnostic framework |
 -->
