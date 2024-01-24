@@ -114,6 +114,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+| Using Elo rating as a metric for comparative judgement in educational assessment | ACM | [paper](https://doi.org/10.1145/3551708.3556204) | | |
 <!--
 |Budget-aware Few-shot Learning via Graph Convolutional Network |arXiv|[paper](https://arxiv.org/abs/2201.02304)||`Pool.` `Meta.` `FS.`||
 |Using Self-Supervised Pretext Tasks for Active Learning |arXiv|[paper](https://arxiv.org/abs/2201.07459)|[code](https://github.com/johnsk95/PT4AL)|`Pool.` `SS.`|Cold-start problem|
@@ -147,12 +148,14 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+| Frozen suit: designing a changeable stiffness suit and its application to increase realism in games. | ACM | [paper](https://doi.org/10.1145/3025453.3025655) | |
 
 
 ## 2016
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+| Measuring conceptual understanding using comparative judgement. | International Journal of Research in Undergraduate Mathematics Education, 2, 141–164. | [paper](https://doi.org.uk/10.1007/s40753-016-0024-3) | |
 
 
 ## 2015
