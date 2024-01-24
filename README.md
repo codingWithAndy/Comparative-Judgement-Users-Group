@@ -66,8 +66,8 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Date | Location | Focus | Host |
 | --- | :---: |  --- | --- |
-| X-X-2024 | Birmingham University | | Rowland Seymour |
-| 16-01-2024 | Loughborough University | Research Method User Group initialtion | Ian Jones |
+| X-X-2024 | Birmingham University | | <a href="https://www.birmingham.ac.uk/staff/profiles/maths/seymour-rowland.aspx">Rowland Seymour</a> |
+| 16-01-2024 | Loughborough University | Research Method User Group initialtion | <a href="https://www.lboro.ac.uk/departments/maths-education/staff/ian-jones/">Ian Jones</a> |
 
 
 # Books
