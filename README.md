@@ -136,12 +136,13 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
-| Teaching using contextualised and decontextualised representations: Examining the case of differential calculus through a comparative judgement technique. | Research in Mathematics Education, 22, 284–303. | [paper](https://doi.org/10.1080/14794802.2019.1692060) | |
+| Teaching using contextualised and decontextualised representations: Examining the case of differential calculus through a comparative judgement technique. | Research in Mathematics Education, 22, 284–303. | [paper](https://doi.org/10.1080/14794802.2019.1692060) | | | |
 
 ## 2018
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+| The effect of adaptivity on the reliability coefficient in adaptive comparative judgement. | Assessment in Education: Principles, Policy & Practice, 26, 43–58. | [paper](https://doi.org/10.1080/0969594x.2017.1418734) |  | `Edu.` | |
 
 
 ## 2017
