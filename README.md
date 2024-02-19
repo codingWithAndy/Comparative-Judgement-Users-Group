@@ -124,12 +124,14 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+| Improving Self-Reflection Assessment Practices: Comparative Judgment as an Alternative to Rubrics. | |   | | | |
 
 
 ## 2020
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+| Comparative judgement, proof summaries and proof comprehension. | |   | | | |
 
 
 ## 2019
@@ -143,6 +145,7 @@ Thanks for your valuable contribution to the research community. 😃
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | The effect of adaptivity on the reliability coefficient in adaptive comparative judgement. | Assessment in Education: Principles, Policy & Practice, 26, 43–58. | [paper](https://doi.org/10.1080/0969594x.2017.1418734) |  | `Edu.` | |
+| Why rate when you could compare? Using the “EloChoice” package to assess pairwise comparisons of perceived physical strength. | | | |
 
 
 ## 2017
@@ -150,7 +153,7 @@ Thanks for your valuable contribution to the research community. 😃
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | Frozen suit: designing a changeable stiffness suit and its application to increase realism in games. | ACM | [paper](https://doi.org/10.1145/3025453.3025655) | |
-
+| The complexity of assessing student work using comparative judgment: The moderating role of decision accuracy.|  |   | | | |
 
 ## 2016
 
@@ -163,6 +166,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+| Is comparative judgment more efficient? An explorative study into the reliability efficiency trade-off when using rubrics or comparative judgment. | :-----: |  :----: | :----: |----|----|
 
 
 ## 2014
