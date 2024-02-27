@@ -162,13 +162,17 @@ Thanks for your valuable contribution to the research community. 😃
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | Measuring conceptual understanding using comparative judgement. | International Journal of Research in Undergraduate Mathematics Education, 2, 141–164. | [paper](https://doi.org.uk/10.1007/s40753-016-0024-3) | |
+| Fifty years of A-level mathematics: Have standards changed? |  | [paper](https://doi.org/10.1002/berj.3224) | | | |
 
 
 ## 2015
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
-| Is comparative judgment more efficient? An explorative study into the reliability efficiency trade-off when using rubrics or comparative judgment. | :-----: |  :----: | :----: |----|----|
+| Is comparative judgment more efficient? An explorative study into the reliability efficiency trade-off when using rubrics or comparative judgment. | :-----: |  :----: | 
+| The problem of assessing problem solving: Can comparative judgement help?| | [paper](https://doi.org/10.1007/s10649-015-9607-1) | | 
+| Peer assessment using comparative and absolute judgement. | | [paper](https://doi.org/10.1016/j.stueduc.2015.09.004) | | 
+:----: |----|----|
 
 
 ## 2014
@@ -176,13 +180,14 @@ Thanks for your valuable contribution to the research community. 😃
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | Peer assessment without assessment criteria. |  | [paper](https://doi.org/10.1080/03075079.2013.821974) | | | |
+| Assessing mathematical problem solving using comparative judgement. | |   | | | |
 
 
 ## 2013
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
-| Measuring conceptual understanding The case of fractions. | | | |
+| Measuring conceptual understanding The case of fractions. | | [paper](https://doi.org/10.1007/s10763-013-9497-6) | |
 
 ## 2012
 
