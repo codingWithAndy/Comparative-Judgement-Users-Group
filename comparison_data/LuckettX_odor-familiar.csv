@@ -1,0 +1,521 @@
+judge,candidate_chosen,candidate_not_chosen
+6,carvone,linalool
+9,carvone,linalool
+10,carvone,linalool
+12,carvone,linalool
+13,carvone,linalool
+14,carvone,linalool
+27,carvone,linalool
+28,carvone,linalool
+30,carvone,linalool
+33,carvone,linalool
+35,carvone,linalool
+37,carvone,linalool
+38,carvone,linalool
+39,carvone,linalool
+42,carvone,linalool
+43,carvone,linalool
+47,carvone,linalool
+54,carvone,linalool
+55,carvone,linalool
+58,carvone,linalool
+59,carvone,linalool
+64,carvone,linalool
+71,carvone,linalool
+74,carvone,linalool
+75,carvone,linalool
+77,carvone,linalool
+80,carvone,linalool
+5,carvone,PEA
+6,carvone,PEA
+10,carvone,PEA
+12,carvone,PEA
+13,carvone,PEA
+14,carvone,PEA
+15,carvone,PEA
+17,carvone,PEA
+27,carvone,PEA
+28,carvone,PEA
+29,carvone,PEA
+30,carvone,PEA
+32,carvone,PEA
+37,carvone,PEA
+38,carvone,PEA
+39,carvone,PEA
+40,carvone,PEA
+43,carvone,PEA
+47,carvone,PEA
+49,carvone,PEA
+54,carvone,PEA
+57,carvone,PEA
+59,carvone,PEA
+61,carvone,PEA
+62,carvone,PEA
+63,carvone,PEA
+64,carvone,PEA
+65,carvone,PEA
+71,carvone,PEA
+74,carvone,PEA
+75,carvone,PEA
+76,carvone,PEA
+77,carvone,PEA
+79,carvone,PEA
+80,carvone,PEA
+83,carvone,PEA
+6,carvone,pentyl acetate
+10,carvone,pentyl acetate
+12,carvone,pentyl acetate
+13,carvone,pentyl acetate
+14,carvone,pentyl acetate
+16,carvone,pentyl acetate
+26,carvone,pentyl acetate
+27,carvone,pentyl acetate
+28,carvone,pentyl acetate
+29,carvone,pentyl acetate
+30,carvone,pentyl acetate
+32,carvone,pentyl acetate
+33,carvone,pentyl acetate
+34,carvone,pentyl acetate
+37,carvone,pentyl acetate
+38,carvone,pentyl acetate
+40,carvone,pentyl acetate
+43,carvone,pentyl acetate
+47,carvone,pentyl acetate
+49,carvone,pentyl acetate
+54,carvone,pentyl acetate
+57,carvone,pentyl acetate
+59,carvone,pentyl acetate
+62,carvone,pentyl acetate
+63,carvone,pentyl acetate
+64,carvone,pentyl acetate
+65,carvone,pentyl acetate
+75,carvone,pentyl acetate
+76,carvone,pentyl acetate
+77,carvone,pentyl acetate
+79,carvone,pentyl acetate
+80,carvone,pentyl acetate
+9,carvone,vanillin
+10,carvone,vanillin
+13,carvone,vanillin
+14,carvone,vanillin
+15,carvone,vanillin
+27,carvone,vanillin
+29,carvone,vanillin
+30,carvone,vanillin
+37,carvone,vanillin
+40,carvone,vanillin
+47,carvone,vanillin
+48,carvone,vanillin
+49,carvone,vanillin
+58,carvone,vanillin
+59,carvone,vanillin
+61,carvone,vanillin
+63,carvone,vanillin
+64,carvone,vanillin
+72,carvone,vanillin
+75,carvone,vanillin
+5,linalool,carvone
+11,linalool,carvone
+15,linalool,carvone
+16,linalool,carvone
+17,linalool,carvone
+26,linalool,carvone
+29,linalool,carvone
+31,linalool,carvone
+32,linalool,carvone
+34,linalool,carvone
+36,linalool,carvone
+40,linalool,carvone
+48,linalool,carvone
+49,linalool,carvone
+57,linalool,carvone
+61,linalool,carvone
+62,linalool,carvone
+63,linalool,carvone
+65,linalool,carvone
+72,linalool,carvone
+73,linalool,carvone
+76,linalool,carvone
+79,linalool,carvone
+83,linalool,carvone
+5,linalool,PEA
+10,linalool,PEA
+11,linalool,PEA
+14,linalool,PEA
+15,linalool,PEA
+16,linalool,PEA
+17,linalool,PEA
+26,linalool,PEA
+28,linalool,PEA
+29,linalool,PEA
+30,linalool,PEA
+32,linalool,PEA
+36,linalool,PEA
+38,linalool,PEA
+39,linalool,PEA
+48,linalool,PEA
+49,linalool,PEA
+54,linalool,PEA
+57,linalool,PEA
+58,linalool,PEA
+59,linalool,PEA
+61,linalool,PEA
+65,linalool,PEA
+71,linalool,PEA
+73,linalool,PEA
+74,linalool,PEA
+76,linalool,PEA
+77,linalool,PEA
+83,linalool,PEA
+5,linalool,pentyl acetate
+9,linalool,pentyl acetate
+11,linalool,pentyl acetate
+14,linalool,pentyl acetate
+16,linalool,pentyl acetate
+17,linalool,pentyl acetate
+26,linalool,pentyl acetate
+28,linalool,pentyl acetate
+29,linalool,pentyl acetate
+32,linalool,pentyl acetate
+33,linalool,pentyl acetate
+34,linalool,pentyl acetate
+37,linalool,pentyl acetate
+38,linalool,pentyl acetate
+48,linalool,pentyl acetate
+49,linalool,pentyl acetate
+54,linalool,pentyl acetate
+55,linalool,pentyl acetate
+62,linalool,pentyl acetate
+63,linalool,pentyl acetate
+65,linalool,pentyl acetate
+72,linalool,pentyl acetate
+75,linalool,pentyl acetate
+76,linalool,pentyl acetate
+83,linalool,pentyl acetate
+10,linalool,vanillin
+11,linalool,vanillin
+12,linalool,vanillin
+15,linalool,vanillin
+29,linalool,vanillin
+30,linalool,vanillin
+33,linalool,vanillin
+36,linalool,vanillin
+39,linalool,vanillin
+48,linalool,vanillin
+49,linalool,vanillin
+58,linalool,vanillin
+61,linalool,vanillin
+64,linalool,vanillin
+72,linalool,vanillin
+79,linalool,vanillin
+9,PEA,carvone
+11,PEA,carvone
+16,PEA,carvone
+26,PEA,carvone
+31,PEA,carvone
+33,PEA,carvone
+34,PEA,carvone
+35,PEA,carvone
+36,PEA,carvone
+42,PEA,carvone
+48,PEA,carvone
+53,PEA,carvone
+55,PEA,carvone
+58,PEA,carvone
+72,PEA,carvone
+73,PEA,carvone
+6,PEA,linalool
+9,PEA,linalool
+12,PEA,linalool
+13,PEA,linalool
+27,PEA,linalool
+31,PEA,linalool
+33,PEA,linalool
+34,PEA,linalool
+35,PEA,linalool
+37,PEA,linalool
+40,PEA,linalool
+42,PEA,linalool
+43,PEA,linalool
+47,PEA,linalool
+53,PEA,linalool
+55,PEA,linalool
+62,PEA,linalool
+63,PEA,linalool
+64,PEA,linalool
+72,PEA,linalool
+75,PEA,linalool
+79,PEA,linalool
+80,PEA,linalool
+9,PEA,pentyl acetate
+10,PEA,pentyl acetate
+13,PEA,pentyl acetate
+16,PEA,pentyl acetate
+17,PEA,pentyl acetate
+26,PEA,pentyl acetate
+28,PEA,pentyl acetate
+32,PEA,pentyl acetate
+33,PEA,pentyl acetate
+34,PEA,pentyl acetate
+37,PEA,pentyl acetate
+40,PEA,pentyl acetate
+54,PEA,pentyl acetate
+59,PEA,pentyl acetate
+62,PEA,pentyl acetate
+72,PEA,pentyl acetate
+73,PEA,pentyl acetate
+75,PEA,pentyl acetate
+77,PEA,pentyl acetate
+80,PEA,pentyl acetate
+5,PEA,vanillin
+12,PEA,vanillin
+13,PEA,vanillin
+16,PEA,vanillin
+32,PEA,vanillin
+33,PEA,vanillin
+35,PEA,vanillin
+40,PEA,vanillin
+63,PEA,vanillin
+72,PEA,vanillin
+79,PEA,vanillin
+5,pentyl acetate,carvone
+9,pentyl acetate,carvone
+11,pentyl acetate,carvone
+15,pentyl acetate,carvone
+17,pentyl acetate,carvone
+31,pentyl acetate,carvone
+35,pentyl acetate,carvone
+36,pentyl acetate,carvone
+39,pentyl acetate,carvone
+42,pentyl acetate,carvone
+48,pentyl acetate,carvone
+53,pentyl acetate,carvone
+55,pentyl acetate,carvone
+58,pentyl acetate,carvone
+61,pentyl acetate,carvone
+71,pentyl acetate,carvone
+72,pentyl acetate,carvone
+73,pentyl acetate,carvone
+74,pentyl acetate,carvone
+83,pentyl acetate,carvone
+6,pentyl acetate,linalool
+10,pentyl acetate,linalool
+12,pentyl acetate,linalool
+13,pentyl acetate,linalool
+15,pentyl acetate,linalool
+27,pentyl acetate,linalool
+30,pentyl acetate,linalool
+31,pentyl acetate,linalool
+35,pentyl acetate,linalool
+36,pentyl acetate,linalool
+39,pentyl acetate,linalool
+40,pentyl acetate,linalool
+42,pentyl acetate,linalool
+43,pentyl acetate,linalool
+47,pentyl acetate,linalool
+53,pentyl acetate,linalool
+57,pentyl acetate,linalool
+58,pentyl acetate,linalool
+59,pentyl acetate,linalool
+61,pentyl acetate,linalool
+64,pentyl acetate,linalool
+71,pentyl acetate,linalool
+73,pentyl acetate,linalool
+74,pentyl acetate,linalool
+77,pentyl acetate,linalool
+79,pentyl acetate,linalool
+80,pentyl acetate,linalool
+5,pentyl acetate,PEA
+6,pentyl acetate,PEA
+11,pentyl acetate,PEA
+12,pentyl acetate,PEA
+14,pentyl acetate,PEA
+15,pentyl acetate,PEA
+27,pentyl acetate,PEA
+29,pentyl acetate,PEA
+30,pentyl acetate,PEA
+31,pentyl acetate,PEA
+35,pentyl acetate,PEA
+36,pentyl acetate,PEA
+38,pentyl acetate,PEA
+39,pentyl acetate,PEA
+42,pentyl acetate,PEA
+43,pentyl acetate,PEA
+47,pentyl acetate,PEA
+48,pentyl acetate,PEA
+49,pentyl acetate,PEA
+53,pentyl acetate,PEA
+55,pentyl acetate,PEA
+57,pentyl acetate,PEA
+58,pentyl acetate,PEA
+61,pentyl acetate,PEA
+63,pentyl acetate,PEA
+64,pentyl acetate,PEA
+65,pentyl acetate,PEA
+71,pentyl acetate,PEA
+74,pentyl acetate,PEA
+76,pentyl acetate,PEA
+79,pentyl acetate,PEA
+83,pentyl acetate,PEA
+13,pentyl acetate,vanillin
+14,pentyl acetate,vanillin
+15,pentyl acetate,vanillin
+27,pentyl acetate,vanillin
+40,pentyl acetate,vanillin
+48,pentyl acetate,vanillin
+49,pentyl acetate,vanillin
+55,pentyl acetate,vanillin
+59,pentyl acetate,vanillin
+61,pentyl acetate,vanillin
+64,pentyl acetate,vanillin
+72,pentyl acetate,vanillin
+5,vanillin,carvone
+6,vanillin,carvone
+11,vanillin,carvone
+12,vanillin,carvone
+16,vanillin,carvone
+17,vanillin,carvone
+26,vanillin,carvone
+28,vanillin,carvone
+31,vanillin,carvone
+32,vanillin,carvone
+33,vanillin,carvone
+34,vanillin,carvone
+35,vanillin,carvone
+36,vanillin,carvone
+38,vanillin,carvone
+39,vanillin,carvone
+42,vanillin,carvone
+43,vanillin,carvone
+53,vanillin,carvone
+54,vanillin,carvone
+55,vanillin,carvone
+57,vanillin,carvone
+62,vanillin,carvone
+65,vanillin,carvone
+71,vanillin,carvone
+73,vanillin,carvone
+74,vanillin,carvone
+76,vanillin,carvone
+77,vanillin,carvone
+79,vanillin,carvone
+80,vanillin,carvone
+83,vanillin,carvone
+5,vanillin,linalool
+6,vanillin,linalool
+9,vanillin,linalool
+13,vanillin,linalool
+14,vanillin,linalool
+16,vanillin,linalool
+17,vanillin,linalool
+26,vanillin,linalool
+27,vanillin,linalool
+28,vanillin,linalool
+31,vanillin,linalool
+32,vanillin,linalool
+34,vanillin,linalool
+35,vanillin,linalool
+37,vanillin,linalool
+38,vanillin,linalool
+40,vanillin,linalool
+42,vanillin,linalool
+43,vanillin,linalool
+47,vanillin,linalool
+53,vanillin,linalool
+54,vanillin,linalool
+55,vanillin,linalool
+57,vanillin,linalool
+59,vanillin,linalool
+62,vanillin,linalool
+63,vanillin,linalool
+65,vanillin,linalool
+71,vanillin,linalool
+73,vanillin,linalool
+74,vanillin,linalool
+75,vanillin,linalool
+76,vanillin,linalool
+77,vanillin,linalool
+80,vanillin,linalool
+83,vanillin,linalool
+6,vanillin,PEA
+9,vanillin,PEA
+10,vanillin,PEA
+11,vanillin,PEA
+14,vanillin,PEA
+15,vanillin,PEA
+17,vanillin,PEA
+26,vanillin,PEA
+27,vanillin,PEA
+28,vanillin,PEA
+29,vanillin,PEA
+30,vanillin,PEA
+31,vanillin,PEA
+34,vanillin,PEA
+36,vanillin,PEA
+37,vanillin,PEA
+38,vanillin,PEA
+39,vanillin,PEA
+42,vanillin,PEA
+43,vanillin,PEA
+47,vanillin,PEA
+48,vanillin,PEA
+49,vanillin,PEA
+53,vanillin,PEA
+54,vanillin,PEA
+55,vanillin,PEA
+57,vanillin,PEA
+58,vanillin,PEA
+59,vanillin,PEA
+61,vanillin,PEA
+62,vanillin,PEA
+64,vanillin,PEA
+65,vanillin,PEA
+71,vanillin,PEA
+73,vanillin,PEA
+74,vanillin,PEA
+75,vanillin,PEA
+76,vanillin,PEA
+77,vanillin,PEA
+80,vanillin,PEA
+83,vanillin,PEA
+5,vanillin,pentyl acetate
+6,vanillin,pentyl acetate
+9,vanillin,pentyl acetate
+10,vanillin,pentyl acetate
+11,vanillin,pentyl acetate
+12,vanillin,pentyl acetate
+16,vanillin,pentyl acetate
+17,vanillin,pentyl acetate
+26,vanillin,pentyl acetate
+28,vanillin,pentyl acetate
+29,vanillin,pentyl acetate
+30,vanillin,pentyl acetate
+31,vanillin,pentyl acetate
+32,vanillin,pentyl acetate
+33,vanillin,pentyl acetate
+34,vanillin,pentyl acetate
+35,vanillin,pentyl acetate
+36,vanillin,pentyl acetate
+37,vanillin,pentyl acetate
+38,vanillin,pentyl acetate
+39,vanillin,pentyl acetate
+42,vanillin,pentyl acetate
+43,vanillin,pentyl acetate
+47,vanillin,pentyl acetate
+53,vanillin,pentyl acetate
+54,vanillin,pentyl acetate
+57,vanillin,pentyl acetate
+58,vanillin,pentyl acetate
+62,vanillin,pentyl acetate
+63,vanillin,pentyl acetate
+65,vanillin,pentyl acetate
+71,vanillin,pentyl acetate
+73,vanillin,pentyl acetate
+74,vanillin,pentyl acetate
+75,vanillin,pentyl acetate
+76,vanillin,pentyl acetate
+77,vanillin,pentyl acetate
+79,vanillin,pentyl acetate
+80,vanillin,pentyl acetate
+83,vanillin,pentyl acetate
+53,linalool,carvone

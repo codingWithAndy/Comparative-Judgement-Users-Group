@@ -1,0 +1,991 @@
+session,judge,candidate_chosen,candidate_not_chosen
+1,1,Pepsi Real Sugar,Coca Cola
+1,1,Sams,Coca Cola
+1,1,Mexican Coke,Coca Cola
+1,1,Pepsi,Mexican Coke
+1,1,Pepsi,Pepsi Real Sugar
+1,2,Pepsi,Coca Cola
+1,2,RC,Coca Cola
+1,2,Pepsi,Pepsi Real Sugar
+1,2,Pepsi Real Sugar,Coca Cola
+1,2,Mexican Coke,Pepsi Real Sugar
+1,3,Sams,Coca Cola
+1,3,Coca Cola,RC
+1,3,Coca Cola,Pepsi
+1,3,Mexican Coke,Pepsi
+1,3,Pepsi,RC
+1,4,Coca Cola,Pepsi Real Sugar
+1,4,Sams,Coca Cola
+1,4,Mexican Coke,Coca Cola
+1,4,Mexican Coke,Pepsi
+1,4,Pepsi,Pepsi Real Sugar
+1,5,Pepsi,Coca Cola
+1,5,Pepsi,Pepsi Real Sugar
+1,5,Pepsi,RC
+1,5,Pepsi Real Sugar,Sams
+1,5,Pepsi,Sams
+1,6,Pepsi,Coca Cola
+1,6,Pepsi Real Sugar,Pepsi
+1,6,Sams,Pepsi
+1,6,Sams,Pepsi Real Sugar
+1,6,RC,Pepsi Real Sugar
+1,7,Mexican Coke,Coca Cola
+1,7,Pepsi,Pepsi Real Sugar
+1,7,Coca Cola,Pepsi Real Sugar
+1,7,Pepsi Real Sugar,Sams
+1,7,Pepsi Real Sugar,Mexican Coke
+1,8,Coca Cola,Pepsi
+1,8,RC,Pepsi
+1,8,Coca Cola,Pepsi Real Sugar
+1,8,Sams,Pepsi Real Sugar
+1,8,Sams,Coca Cola
+1,9,Coca Cola,Mexican Coke
+1,9,Pepsi,Coca Cola
+1,9,RC,Pepsi
+1,9,Pepsi Real Sugar,Coca Cola
+1,9,Sams,Pepsi Real Sugar
+1,10,Pepsi Real Sugar,Coca Cola
+1,10,Sams,Coca Cola
+1,10,Pepsi,Sams
+1,10,Pepsi Real Sugar,RC
+1,10,Sams,Pepsi Real Sugar
+1,11,Pepsi Real Sugar,Coca Cola
+1,11,Coca Cola,Sams
+1,11,Sams,Pepsi
+1,11,Pepsi,Mexican Coke
+1,11,Pepsi Real Sugar,RC
+1,12,Pepsi,Coca Cola
+1,12,Pepsi,Pepsi Real Sugar
+1,12,Sams,Pepsi
+1,12,RC,Pepsi Real Sugar
+1,12,Coca Cola,Sams
+1,14,Coca Cola,Pepsi Real Sugar
+1,14,Coca Cola,Mexican Coke
+1,14,Coca Cola,RC
+1,14,Pepsi,Coca Cola
+1,14,Sams,Pepsi
+1,15,Coca Cola,RC
+1,15,Pepsi,Coca Cola
+1,15,Pepsi,Mexican Coke
+1,15,Pepsi,RC
+1,15,Pepsi,Pepsi Real Sugar
+1,16,RC,Coca Cola
+1,16,Coca Cola,Pepsi
+1,16,Pepsi,Pepsi Real Sugar
+1,16,Sams,Pepsi
+1,16,Pepsi,RC
+1,17,Sams,Coca Cola
+1,17,RC,Coca Cola
+1,17,Pepsi,Coca Cola
+1,17,Pepsi,Pepsi Real Sugar
+1,17,Coca Cola,Pepsi Real Sugar
+1,18,Pepsi Real Sugar,Coca Cola
+1,18,Pepsi,Pepsi Real Sugar
+1,18,Sams,Pepsi Real Sugar
+1,18,Mexican Coke,Pepsi Real Sugar
+1,18,RC,Pepsi Real Sugar
+1,19,Pepsi,Coca Cola
+1,19,Pepsi,Mexican Coke
+1,19,Pepsi,Pepsi Real Sugar
+1,19,Mexican Coke,Pepsi Real Sugar
+1,19,Coca Cola,Sams
+1,20,Coca Cola,Pepsi
+1,20,Coca Cola,Pepsi Real Sugar
+1,20,Sams,Coca Cola
+1,20,Sams,Pepsi
+1,20,RC,Pepsi
+1,21,Coca Cola,Mexican Coke
+1,21,Pepsi Real Sugar,Coca Cola
+1,21,Sams,Coca Cola
+1,21,Sams,Pepsi
+1,21,Pepsi Real Sugar,Sams
+1,22,Mexican Coke,Coca Cola
+1,22,RC,Coca Cola
+1,22,Pepsi,Coca Cola
+1,22,Coca Cola,Pepsi Real Sugar
+1,22,Sams,Pepsi
+1,23,Coca Cola,Pepsi
+1,23,Coca Cola,RC
+1,23,Pepsi Real Sugar,Pepsi
+1,23,RC,Pepsi
+1,23,Sams,Pepsi Real Sugar
+1,24,Coca Cola,Pepsi
+1,24,Coca Cola,Pepsi Real Sugar
+1,24,Sams,Coca Cola
+1,24,Sams,Pepsi
+1,24,RC,Pepsi
+1,25,Coca Cola,Pepsi Real Sugar
+1,25,Pepsi,Pepsi Real Sugar
+1,25,Pepsi Real Sugar,Mexican Coke
+1,25,Pepsi Real Sugar,RC
+1,25,Coca Cola,Sams
+1,26,Sams,Coca Cola
+1,26,Coca Cola,Mexican Coke
+1,26,RC,Coca Cola
+1,26,Pepsi,Pepsi Real Sugar
+1,26,Mexican Coke,Pepsi
+1,27,Pepsi,Coca Cola
+1,27,Mexican Coke,Coca Cola
+1,27,Coca Cola,RC
+1,27,Mexican Coke,Pepsi
+1,27,Pepsi,RC
+1,28,Sams,Coca Cola
+1,28,Coca Cola,Mexican Coke
+1,28,Pepsi,Mexican Coke
+1,28,Coca Cola,Pepsi Real Sugar
+1,28,Pepsi,Sams
+1,29,Pepsi,Coca Cola
+1,29,Mexican Coke,Pepsi
+1,29,Pepsi Real Sugar,Pepsi
+1,29,Pepsi Real Sugar,Mexican Coke
+1,29,Sams,Coca Cola
+1,30,Coca Cola,Pepsi Real Sugar
+1,30,Pepsi,Coca Cola
+1,30,Pepsi,Pepsi Real Sugar
+1,30,Sams,Pepsi
+1,30,Sams,Pepsi Real Sugar
+1,31,Coca Cola,Pepsi
+1,31,Coca Cola,Pepsi Real Sugar
+1,31,RC,Pepsi
+1,31,Pepsi,Pepsi Real Sugar
+1,31,Pepsi Real Sugar,Mexican Coke
+1,32,Mexican Coke,Coca Cola
+1,32,Coca Cola,RC
+1,32,Pepsi,Coca Cola
+1,32,Pepsi,Pepsi Real Sugar
+1,32,Mexican Coke,Pepsi
+1,33,Pepsi Real Sugar,Pepsi
+1,33,Sams,Pepsi
+1,33,Coca Cola,Pepsi Real Sugar
+1,33,Sams,Pepsi Real Sugar
+1,33,Coca Cola,Mexican Coke
+1,34,Pepsi,Coca Cola
+1,34,Sams,Coca Cola
+1,34,Pepsi,Mexican Coke
+1,34,RC,Pepsi
+1,34,Pepsi Real Sugar,RC
+1,35,Pepsi Real Sugar,Coca Cola
+1,35,Coca Cola,Mexican Coke
+1,35,Coca Cola,RC
+1,35,Pepsi,Coca Cola
+1,35,Pepsi,Mexican Coke
+1,36,Sams,Coca Cola
+1,36,Pepsi,Pepsi Real Sugar
+1,36,Pepsi,Sams
+1,36,RC,Sams
+1,36,Mexican Coke,Coca Cola
+1,37,Coca Cola,Pepsi
+1,37,Pepsi Real Sugar,Coca Cola
+1,37,RC,Pepsi
+1,37,Pepsi Real Sugar,Pepsi
+1,37,Pepsi Real Sugar,Mexican Coke
+1,38,Sams,Coca Cola
+1,38,Mexican Coke,Coca Cola
+1,38,Coca Cola,RC
+1,38,Pepsi,Coca Cola
+1,38,Coca Cola,Pepsi Real Sugar
+1,39,Pepsi Real Sugar,Coca Cola
+1,39,Pepsi,Coca Cola
+1,39,Sams,Pepsi
+1,39,Sams,Pepsi Real Sugar
+1,39,Pepsi Real Sugar,Mexican Coke
+1,40,Coca Cola,Pepsi
+1,40,Sams,Coca Cola
+1,40,Pepsi,RC
+1,40,Coca Cola,Pepsi Real Sugar
+1,40,Pepsi Real Sugar,RC
+1,41,Coca Cola,Pepsi
+1,41,Pepsi,Pepsi Real Sugar
+1,41,RC,Pepsi
+1,41,Pepsi Real Sugar,Coca Cola
+1,41,Mexican Coke,Pepsi Real Sugar
+1,42,Sams,Coca Cola
+1,42,Pepsi,Pepsi Real Sugar
+1,42,Sams,Pepsi
+1,42,RC,Pepsi Real Sugar
+1,42,Mexican Coke,Sams
+1,43,Coca Cola,Sams
+1,43,Mexican Coke,Coca Cola
+1,43,Coca Cola,RC
+1,43,Pepsi,Mexican Coke
+1,43,Pepsi,Pepsi Real Sugar
+1,44,Coca Cola,Mexican Coke
+1,44,Mexican Coke,Pepsi
+1,44,Pepsi,Pepsi Real Sugar
+1,44,Pepsi Real Sugar,Mexican Coke
+1,44,Coca Cola,Sams
+1,45,Coca Cola,Pepsi
+1,45,Pepsi Real Sugar,Pepsi
+1,45,Coca Cola,Pepsi Real Sugar
+1,45,Sams,Pepsi Real Sugar
+1,45,Coca Cola,Mexican Coke
+1,46,Pepsi,Pepsi Real Sugar
+1,46,Mexican Coke,Pepsi Real Sugar
+1,46,Coca Cola,Sams
+1,46,Sams,Pepsi
+1,46,Mexican Coke,Sams
+1,47,Mexican Coke,Coca Cola
+1,47,RC,Coca Cola
+1,47,Pepsi,Coca Cola
+1,47,Pepsi,RC
+1,47,Pepsi Real Sugar,Coca Cola
+1,48,Pepsi,Coca Cola
+1,48,Pepsi Real Sugar,Coca Cola
+1,48,Sams,Coca Cola
+1,48,Coca Cola,RC
+1,48,Sams,Mexican Coke
+1,49,Coca Cola,Mexican Coke
+1,49,Coca Cola,RC
+1,49,Pepsi Real Sugar,Pepsi
+1,49,Coca Cola,Sams
+1,49,Sams,Pepsi
+1,50,Coca Cola,Mexican Coke
+1,50,Coca Cola,RC
+1,50,Pepsi,Pepsi Real Sugar
+1,50,Sams,Pepsi Real Sugar
+1,50,Sams,Coca Cola
+1,51,Pepsi Real Sugar,Coca Cola
+1,51,Coca Cola,Mexican Coke
+1,51,Coca Cola,RC
+1,51,Pepsi,Coca Cola
+1,51,Pepsi,RC
+1,52,Coca Cola,Pepsi
+1,52,Sams,Coca Cola
+1,52,Sams,Pepsi
+1,52,Mexican Coke,Pepsi
+1,52,RC,Pepsi
+1,53,Mexican Coke,Coca Cola
+1,53,RC,Coca Cola
+1,53,Pepsi,Coca Cola
+1,53,Pepsi,RC
+1,53,Coca Cola,Pepsi Real Sugar
+1,54,Pepsi,Pepsi Real Sugar
+1,54,Sams,Pepsi
+1,54,Pepsi,Mexican Coke
+1,54,Coca Cola,Pepsi Real Sugar
+1,54,Sams,Pepsi Real Sugar
+1,55,Sams,Coca Cola
+1,55,Pepsi Real Sugar,Pepsi
+1,55,Sams,Pepsi
+1,55,Mexican Coke,Pepsi
+1,55,Mexican Coke,Pepsi Real Sugar
+1,56,Pepsi,Coca Cola
+1,56,Coca Cola,Pepsi Real Sugar
+1,56,Mexican Coke,Pepsi Real Sugar
+1,56,Sams,Coca Cola
+1,56,Pepsi,Sams
+1,57,Pepsi Real Sugar,Coca Cola
+1,57,Mexican Coke,Coca Cola
+1,57,RC,Coca Cola
+1,57,Coca Cola,Pepsi
+1,57,Pepsi,RC
+1,58,Pepsi,Coca Cola
+1,58,Pepsi Real Sugar,Coca Cola
+1,58,Coca Cola,Sams
+1,58,Sams,Pepsi
+1,58,Pepsi,Mexican Coke
+1,59,Coca Cola,Pepsi
+1,59,Coca Cola,Pepsi Real Sugar
+1,59,Sams,Coca Cola
+1,59,Sams,Pepsi
+1,59,RC,Pepsi Real Sugar
+1,60,Pepsi,Coca Cola
+1,60,Pepsi,Pepsi Real Sugar
+1,60,Pepsi,Mexican Coke
+1,60,Coca Cola,Pepsi Real Sugar
+1,60,Sams,Pepsi Real Sugar
+1,61,Coca Cola,Pepsi Real Sugar
+1,61,Coca Cola,Pepsi
+1,61,Pepsi,RC
+1,61,Pepsi,Pepsi Real Sugar
+1,61,Pepsi Real Sugar,Mexican Coke
+1,62,Pepsi,Coca Cola
+1,62,Coca Cola,Sams
+1,62,Pepsi,RC
+1,62,Pepsi,Pepsi Real Sugar
+1,62,Pepsi,Sams
+1,63,RC,Coca Cola
+1,63,Coca Cola,Pepsi
+1,63,Pepsi,RC
+1,63,Pepsi Real Sugar,Coca Cola
+1,63,Pepsi,Pepsi Real Sugar
+1,64,Pepsi,Coca Cola
+1,64,Sams,Coca Cola
+1,64,Pepsi,RC
+1,64,Pepsi,Pepsi Real Sugar
+1,64,RC,Pepsi Real Sugar
+1,65,Pepsi,Coca Cola
+1,65,Pepsi Real Sugar,Coca Cola
+1,65,Pepsi Real Sugar,Pepsi
+1,65,Pepsi,Sams
+1,65,Pepsi Real Sugar,Sams
+1,66,Pepsi,Coca Cola
+1,66,Sams,Coca Cola
+1,66,Pepsi Real Sugar,Pepsi
+1,66,Pepsi,Mexican Coke
+1,66,Coca Cola,Pepsi Real Sugar
+1,67,Coca Cola,Mexican Coke
+1,67,Coca Cola,RC
+1,67,Pepsi,Pepsi Real Sugar
+1,67,Sams,Pepsi
+1,67,Pepsi,Mexican Coke
+1,68,Pepsi,Coca Cola
+1,68,Sams,Coca Cola
+1,68,Pepsi,Pepsi Real Sugar
+1,68,Coca Cola,Pepsi Real Sugar
+1,68,Pepsi Real Sugar,Sams
+1,69,Pepsi,Coca Cola
+1,69,Coca Cola,Pepsi Real Sugar
+1,69,Sams,Pepsi
+1,69,Sams,Pepsi Real Sugar
+1,69,RC,Pepsi Real Sugar
+1,70,Coca Cola,Mexican Coke
+1,70,Pepsi,Coca Cola
+1,70,Pepsi,Pepsi Real Sugar
+1,70,Pepsi,Mexican Coke
+1,70,Pepsi Real Sugar,Coca Cola
+1,71,Coca Cola,Mexican Coke
+1,71,Coca Cola,RC
+1,71,Pepsi,Sams
+1,71,Mexican Coke,Pepsi
+1,71,Coca Cola,Sams
+1,72,Sams,Coca Cola
+1,72,Pepsi Real Sugar,Pepsi
+1,72,Sams,Pepsi Real Sugar
+1,72,Sams,Pepsi
+1,72,Coca Cola,Mexican Coke
+1,73,Mexican Coke,Coca Cola
+1,73,RC,Coca Cola
+1,73,Pepsi,Coca Cola
+1,73,Coca Cola,Pepsi Real Sugar
+1,73,Pepsi Real Sugar,Mexican Coke
+1,74,Coca Cola,Mexican Coke
+1,74,Coca Cola,RC
+1,74,Sams,Pepsi
+1,74,Mexican Coke,Pepsi
+1,74,Coca Cola,Pepsi Real Sugar
+1,75,Coca Cola,Pepsi
+1,75,Coca Cola,Sams
+1,75,RC,Coca Cola
+1,75,Pepsi Real Sugar,Coca Cola
+1,75,Pepsi,Pepsi Real Sugar
+1,76,Coca Cola,Pepsi
+1,76,Sams,Coca Cola
+1,76,Pepsi Real Sugar,Pepsi
+1,76,Pepsi,RC
+1,76,RC,Pepsi Real Sugar
+1,77,Coca Cola,Pepsi
+1,77,Pepsi Real Sugar,Pepsi
+1,77,Pepsi Real Sugar,Coca Cola
+1,77,Coca Cola,Sams
+1,77,Pepsi Real Sugar,Sams
+1,78,Pepsi,Mexican Coke
+1,78,RC,Pepsi
+1,78,Sams,Pepsi Real Sugar
+1,78,Sams,Coca Cola
+1,78,Pepsi,Sams
+1,79,Sams,Coca Cola
+1,79,Coca Cola,Mexican Coke
+1,79,Coca Cola,RC
+1,79,Pepsi Real Sugar,Pepsi
+1,79,Sams,Pepsi Real Sugar
+1,80,Pepsi,Coca Cola
+1,80,Coca Cola,Pepsi Real Sugar
+1,80,RC,Pepsi
+1,80,Pepsi,Pepsi Real Sugar
+1,80,Sams,Pepsi Real Sugar
+1,81,Coca Cola,Pepsi Real Sugar
+1,81,Mexican Coke,Coca Cola
+1,81,RC,Coca Cola
+1,81,Coca Cola,Pepsi
+1,81,Mexican Coke,Pepsi Real Sugar
+1,82,Coca Cola,Pepsi Real Sugar
+1,82,Pepsi,Sams
+1,82,Pepsi,Mexican Coke
+1,82,Pepsi Real Sugar,RC
+1,82,Pepsi Real Sugar,Sams
+1,83,RC,Coca Cola
+1,83,Pepsi,Coca Cola
+1,83,Coca Cola,Pepsi Real Sugar
+1,83,Pepsi,Sams
+1,83,Pepsi Real Sugar,Sams
+1,84,Pepsi Real Sugar,Coca Cola
+1,84,Coca Cola,Pepsi
+1,84,Mexican Coke,Pepsi
+1,84,Pepsi Real Sugar,Pepsi
+1,84,Pepsi Real Sugar,Mexican Coke
+1,85,Sams,Coca Cola
+1,85,Coca Cola,Mexican Coke
+1,85,RC,Coca Cola
+1,85,Pepsi Real Sugar,Pepsi
+1,85,Pepsi,RC
+1,86,Pepsi,Coca Cola
+1,86,Sams,Coca Cola
+1,86,Pepsi,Pepsi Real Sugar
+1,86,RC,Pepsi
+1,86,Coca Cola,Pepsi Real Sugar
+1,87,Coca Cola,Pepsi
+1,87,Coca Cola,Pepsi Real Sugar
+1,87,Sams,Pepsi
+1,87,RC,Pepsi
+1,87,Pepsi,Pepsi Real Sugar
+1,88,Mexican Coke,Coca Cola
+1,88,Coca Cola,RC
+1,88,Coca Cola,Pepsi Real Sugar
+1,88,Sams,Pepsi Real Sugar
+1,88,Mexican Coke,Pepsi Real Sugar
+1,89,Pepsi,Sams
+1,89,Pepsi,Mexican Coke
+1,89,Coca Cola,Sams
+1,89,Sams,Pepsi Real Sugar
+1,89,Mexican Coke,Coca Cola
+1,90,Pepsi Real Sugar,Coca Cola
+1,90,Coca Cola,Mexican Coke
+1,90,Pepsi,Coca Cola
+1,90,Mexican Coke,Pepsi
+1,90,Pepsi Real Sugar,Pepsi
+1,91,Pepsi Real Sugar,Coca Cola
+1,91,Pepsi,Pepsi Real Sugar
+1,91,Pepsi,Mexican Coke
+1,91,Mexican Coke,Pepsi Real Sugar
+1,91,Pepsi Real Sugar,RC
+1,92,Coca Cola,Pepsi Real Sugar
+1,92,Pepsi,Pepsi Real Sugar
+1,92,Sams,Pepsi
+1,92,Mexican Coke,Pepsi
+1,92,RC,Pepsi Real Sugar
+1,93,Pepsi,Coca Cola
+1,93,Sams,Coca Cola
+1,93,RC,Coca Cola
+1,93,Pepsi,Mexican Coke
+1,93,Pepsi,Pepsi Real Sugar
+1,94,Mexican Coke,Coca Cola
+1,94,Pepsi,Mexican Coke
+1,94,Coca Cola,Pepsi Real Sugar
+1,94,RC,Pepsi Real Sugar
+1,94,Sams,Coca Cola
+1,95,Pepsi,Coca Cola
+1,95,Coca Cola,Pepsi Real Sugar
+1,95,Sams,Coca Cola
+1,95,Mexican Coke,Coca Cola
+1,95,RC,Coca Cola
+1,96,Pepsi,Coca Cola
+1,96,Pepsi,Pepsi Real Sugar
+1,96,Pepsi,Sams
+1,96,Coca Cola,Pepsi Real Sugar
+1,96,Coca Cola,Sams
+1,97,Coca Cola,Mexican Coke
+1,97,Pepsi,Mexican Coke
+1,97,Pepsi Real Sugar,Coca Cola
+1,97,Pepsi,Pepsi Real Sugar
+1,97,Pepsi Real Sugar,RC
+1,98,Pepsi,Coca Cola
+1,98,Sams,Coca Cola
+1,98,Coca Cola,RC
+1,98,Pepsi Real Sugar,Pepsi
+1,98,Pepsi Real Sugar,Sams
+1,99,Coca Cola,Pepsi
+1,99,Coca Cola,Pepsi Real Sugar
+1,99,Sams,Coca Cola
+1,99,Mexican Coke,Coca Cola
+1,99,Coca Cola,RC
+1,100,Coca Cola,Mexican Coke
+1,100,Coca Cola,Pepsi
+1,100,Pepsi,Pepsi Real Sugar
+1,100,Sams,Pepsi
+1,100,Pepsi,RC
+2,1,RC,Pepsi Real Sugar
+2,1,Sams,RC
+2,1,Mexican Coke,Pepsi Real Sugar
+2,1,Sams,Mexican Coke
+2,1,RC,Coca Cola
+2,2,Sams,Coca Cola
+2,2,Mexican Coke,Pepsi
+2,2,RC,Pepsi Real Sugar
+2,2,Sams,RC
+2,2,RC,Mexican Coke
+2,3,Pepsi Real Sugar,Pepsi
+2,3,Mexican Coke,Pepsi Real Sugar
+2,3,Pepsi Real Sugar,RC
+2,3,RC,Sams
+2,3,RC,Mexican Coke
+2,4,RC,Pepsi Real Sugar
+2,4,RC,Sams
+2,4,Mexican Coke,Pepsi Real Sugar
+2,4,RC,Mexican Coke
+2,4,Coca Cola,RC
+2,5,Mexican Coke,Coca Cola
+2,5,Mexican Coke,Pepsi
+2,5,Mexican Coke,Sams
+2,5,Mexican Coke,RC
+2,5,RC,Coca Cola
+2,6,Mexican Coke,Pepsi
+2,6,Mexican Coke,Pepsi Real Sugar
+2,6,RC,Mexican Coke
+2,6,RC,Coca Cola
+2,6,RC,Pepsi
+2,7,Coca Cola,Sams
+2,7,Mexican Coke,Sams
+2,7,RC,Sams
+2,7,Mexican Coke,Pepsi
+2,7,Pepsi Real Sugar,RC
+2,8,Sams,Pepsi
+2,8,Mexican Coke,Coca Cola
+2,8,Sams,Mexican Coke
+2,8,RC,Mexican Coke
+2,8,RC,Sams
+2,9,Mexican Coke,Pepsi Real Sugar
+2,9,Sams,Coca Cola
+2,9,Sams,Pepsi
+2,9,Mexican Coke,Sams
+2,9,Sams,RC
+2,10,Coca Cola,Mexican Coke
+2,10,Mexican Coke,Pepsi Real Sugar
+2,10,Sams,Mexican Coke
+2,10,Pepsi,RC
+2,10,Sams,RC
+2,11,Sams,Pepsi Real Sugar
+2,11,Coca Cola,Mexican Coke
+2,11,Mexican Coke,Pepsi Real Sugar
+2,11,Sams,Mexican Coke
+2,11,Sams,RC
+2,12,Pepsi,Mexican Coke
+2,12,Pepsi Real Sugar,Mexican Coke
+2,12,Mexican Coke,RC
+2,12,Coca Cola,RC
+2,12,RC,Pepsi
+2,14,Pepsi,Pepsi Real Sugar
+2,14,Sams,Pepsi Real Sugar
+2,14,Mexican Coke,Sams
+2,14,RC,Pepsi
+2,14,Mexican Coke,RC
+2,15,Sams,Pepsi
+2,15,Sams,Pepsi Real Sugar
+2,15,Mexican Coke,Sams
+2,15,RC,Pepsi Real Sugar
+2,15,Mexican Coke,RC
+2,16,RC,Pepsi Real Sugar
+2,16,Sams,Pepsi Real Sugar
+2,16,Mexican Coke,Pepsi
+2,16,Mexican Coke,Pepsi Real Sugar
+2,16,Mexican Coke,RC
+2,17,RC,Pepsi Real Sugar
+2,17,RC,Sams
+2,17,Mexican Coke,Pepsi
+2,17,Mexican Coke,Pepsi Real Sugar
+2,17,RC,Mexican Coke
+2,18,Sams,Coca Cola
+2,18,Mexican Coke,Coca Cola
+2,18,Mexican Coke,Pepsi
+2,18,Mexican Coke,Sams
+2,18,Sams,RC
+2,19,Pepsi,Sams
+2,19,Coca Cola,RC
+2,19,RC,Pepsi
+2,19,Pepsi Real Sugar,RC
+2,19,Mexican Coke,RC
+2,20,Sams,Pepsi Real Sugar
+2,20,Mexican Coke,Sams
+2,20,Sams,RC
+2,20,Mexican Coke,Coca Cola
+2,20,Mexican Coke,RC
+2,21,Mexican Coke,Pepsi Real Sugar
+2,21,Mexican Coke,Sams
+2,21,Pepsi,RC
+2,21,RC,Pepsi Real Sugar
+2,21,RC,Sams
+2,22,Pepsi Real Sugar,Sams
+2,22,Mexican Coke,Sams
+2,22,Pepsi,RC
+2,22,RC,Sams
+2,22,Mexican Coke,RC
+2,23,Pepsi,Sams
+2,23,Mexican Coke,Sams
+2,23,Pepsi,Mexican Coke
+2,23,Pepsi Real Sugar,RC
+2,23,Mexican Coke,RC
+2,24,Sams,Pepsi Real Sugar
+2,24,Mexican Coke,Pepsi Real Sugar
+2,24,Sams,Mexican Coke
+2,24,Sams,RC
+2,24,Coca Cola,Mexican Coke
+2,25,Coca Cola,Mexican Coke
+2,25,Mexican Coke,Pepsi
+2,25,Mexican Coke,Sams
+2,25,Coca Cola,RC
+2,25,Sams,RC
+2,26,Coca Cola,Pepsi Real Sugar
+2,26,RC,Sams
+2,26,Mexican Coke,Pepsi Real Sugar
+2,26,RC,Pepsi Real Sugar
+2,26,Mexican Coke,RC
+2,27,Pepsi Real Sugar,Pepsi
+2,27,Pepsi Real Sugar,Sams
+2,27,Sams,Pepsi
+2,27,Sams,Mexican Coke
+2,27,Mexican Coke,RC
+2,28,Sams,Pepsi Real Sugar
+2,28,Sams,Mexican Coke
+2,28,Sams,RC
+2,28,Mexican Coke,Pepsi Real Sugar
+2,28,RC,Pepsi Real Sugar
+2,29,RC,Coca Cola
+2,29,Pepsi,RC
+2,29,RC,Pepsi Real Sugar
+2,29,RC,Sams
+2,29,RC,Mexican Coke
+2,30,Coca Cola,Mexican Coke
+2,30,Sams,Mexican Coke
+2,30,RC,Mexican Coke
+2,30,RC,Coca Cola
+2,30,Pepsi,RC
+2,31,Coca Cola,Sams
+2,31,Pepsi Real Sugar,Sams
+2,31,Coca Cola,Mexican Coke
+2,31,RC,Coca Cola
+2,31,Pepsi Real Sugar,RC
+2,32,Pepsi Real Sugar,Coca Cola
+2,32,Pepsi Real Sugar,Sams
+2,32,Pepsi Real Sugar,RC
+2,32,RC,Pepsi
+2,32,RC,Mexican Coke
+2,33,Pepsi,Mexican Coke
+2,33,Sams,Mexican Coke
+2,33,RC,Mexican Coke
+2,33,Coca Cola,RC
+2,33,Sams,RC
+2,34,Pepsi,Sams
+2,34,Pepsi Real Sugar,Mexican Coke
+2,34,Sams,Mexican Coke
+2,34,RC,Mexican Coke
+2,34,RC,Sams
+2,35,RC,Pepsi
+2,35,Pepsi Real Sugar,Pepsi
+2,35,Pepsi Real Sugar,Sams
+2,35,Sams,RC
+2,35,Mexican Coke,RC
+2,36,Mexican Coke,Pepsi
+2,36,Mexican Coke,Pepsi Real Sugar
+2,36,Sams,Mexican Coke
+2,36,RC,Mexican Coke
+2,36,Coca Cola,RC
+2,37,Pepsi Real Sugar,Sams
+2,37,Mexican Coke,Coca Cola
+2,37,Mexican Coke,RC
+2,37,RC,Coca Cola
+2,37,Pepsi Real Sugar,RC
+2,38,Pepsi Real Sugar,Sams
+2,38,Pepsi Real Sugar,RC
+2,38,Sams,Pepsi
+2,38,Mexican Coke,Pepsi Real Sugar
+2,38,RC,Pepsi
+2,39,Sams,Coca Cola
+2,39,Mexican Coke,Sams
+2,39,Sams,RC
+2,39,Pepsi,RC
+2,39,RC,Pepsi Real Sugar
+2,40,Pepsi,Sams
+2,40,Sams,Pepsi Real Sugar
+2,40,Mexican Coke,Pepsi Real Sugar
+2,40,Sams,Mexican Coke
+2,40,Coca Cola,RC
+2,41,Sams,Coca Cola
+2,41,Mexican Coke,Coca Cola
+2,41,RC,Mexican Coke
+2,41,Coca Cola,RC
+2,41,RC,Pepsi Real Sugar
+2,42,Mexican Coke,Pepsi
+2,42,Pepsi Real Sugar,Mexican Coke
+2,42,RC,Pepsi
+2,42,Sams,RC
+2,42,Mexican Coke,RC
+2,43,Sams,Pepsi Real Sugar
+2,43,Sams,Pepsi
+2,43,Sams,Mexican Coke
+2,43,Sams,RC
+2,43,RC,Mexican Coke
+2,44,Pepsi,Sams
+2,44,Mexican Coke,Sams
+2,44,RC,Pepsi Real Sugar
+2,44,Sams,RC
+2,44,Mexican Coke,RC
+2,45,Pepsi,Mexican Coke
+2,45,Sams,Mexican Coke
+2,45,Mexican Coke,RC
+2,45,Coca Cola,RC
+2,45,Sams,RC
+2,46,Pepsi,Mexican Coke
+2,46,RC,Mexican Coke
+2,46,Pepsi,RC
+2,46,Pepsi Real Sugar,RC
+2,46,RC,Sams
+2,47,Pepsi,Pepsi Real Sugar
+2,47,Sams,Pepsi Real Sugar
+2,47,Pepsi Real Sugar,Mexican Coke
+2,47,Sams,Coca Cola
+2,47,Pepsi Real Sugar,RC
+2,48,Sams,RC
+2,48,Coca Cola,Mexican Coke
+2,48,Mexican Coke,Pepsi Real Sugar
+2,48,RC,Pepsi
+2,48,Pepsi Real Sugar,RC
+2,49,Pepsi,Mexican Coke
+2,49,Pepsi Real Sugar,Mexican Coke
+2,49,Sams,Mexican Coke
+2,49,Sams,RC
+2,49,RC,Mexican Coke
+2,50,Sams,Pepsi
+2,50,Pepsi,Mexican Coke
+2,50,Sams,Mexican Coke
+2,50,RC,Sams
+2,50,RC,Mexican Coke
+2,51,Pepsi Real Sugar,Pepsi
+2,51,Sams,Pepsi Real Sugar
+2,51,Mexican Coke,Pepsi
+2,51,RC,Pepsi Real Sugar
+2,51,RC,Mexican Coke
+2,52,Pepsi Real Sugar,RC
+2,52,Sams,RC
+2,52,Mexican Coke,Pepsi Real Sugar
+2,52,Mexican Coke,Sams
+2,52,Mexican Coke,RC
+2,53,Sams,Pepsi Real Sugar
+2,53,Pepsi Real Sugar,Mexican Coke
+2,53,Coca Cola,Sams
+2,53,Sams,Pepsi
+2,53,Pepsi Real Sugar,RC
+2,54,Sams,Mexican Coke
+2,54,Sams,RC
+2,54,Coca Cola,Mexican Coke
+2,54,RC,Mexican Coke
+2,54,RC,Coca Cola
+2,55,Sams,Mexican Coke
+2,55,RC,Sams
+2,55,Mexican Coke,Coca Cola
+2,55,RC,Mexican Coke
+2,55,Pepsi Real Sugar,RC
+2,56,Sams,Pepsi Real Sugar
+2,56,Sams,Mexican Coke
+2,56,Pepsi,RC
+2,56,Pepsi Real Sugar,RC
+2,56,Sams,RC
+2,57,Pepsi,Pepsi Real Sugar
+2,57,Pepsi Real Sugar,Sams
+2,57,RC,Sams
+2,57,Pepsi,Mexican Coke
+2,57,RC,Mexican Coke
+2,58,Pepsi,RC
+2,58,RC,Pepsi Real Sugar
+2,58,Sams,RC
+2,58,Mexican Coke,Pepsi Real Sugar
+2,58,Sams,Mexican Coke
+2,59,Pepsi Real Sugar,Sams
+2,59,Mexican Coke,Sams
+2,59,Pepsi Real Sugar,Mexican Coke
+2,59,RC,Coca Cola
+2,59,RC,Pepsi
+2,60,Sams,Mexican Coke
+2,60,Mexican Coke,Coca Cola
+2,60,RC,Mexican Coke
+2,60,RC,Coca Cola
+2,60,Sams,RC
+2,61,Coca Cola,Sams
+2,61,Pepsi Real Sugar,Sams
+2,61,Mexican Coke,RC
+2,61,RC,Pepsi Real Sugar
+2,61,Sams,RC
+2,62,Sams,RC
+2,62,Coca Cola,Mexican Coke
+2,62,Mexican Coke,Pepsi
+2,62,Sams,Mexican Coke
+2,62,RC,Coca Cola
+2,63,Pepsi Real Sugar,Mexican Coke
+2,63,Sams,Pepsi Real Sugar
+2,63,RC,Sams
+2,63,RC,Pepsi Real Sugar
+2,63,RC,Mexican Coke
+2,64,Sams,Pepsi
+2,64,RC,Sams
+2,64,Mexican Coke,Coca Cola
+2,64,Pepsi,Mexican Coke
+2,64,Sams,Mexican Coke
+2,65,Pepsi Real Sugar,RC
+2,65,Mexican Coke,Pepsi Real Sugar
+2,65,Mexican Coke,RC
+2,65,Coca Cola,RC
+2,65,RC,Pepsi
+2,66,Pepsi Real Sugar,RC
+2,66,Mexican Coke,Sams
+2,66,RC,Sams
+2,66,Pepsi Real Sugar,Mexican Coke
+2,66,Pepsi,RC
+2,67,Sams,Coca Cola
+2,67,Sams,Mexican Coke
+2,67,RC,Mexican Coke
+2,67,Pepsi,RC
+2,67,Sams,RC
+2,68,RC,Pepsi Real Sugar
+2,68,Sams,Mexican Coke
+2,68,RC,Sams
+2,68,Pepsi Real Sugar,Mexican Coke
+2,68,Pepsi,RC
+2,69,Coca Cola,Mexican Coke
+2,69,Mexican Coke,Pepsi Real Sugar
+2,69,Mexican Coke,RC
+2,69,RC,Coca Cola
+2,69,Pepsi,RC
+2,70,Sams,Coca Cola
+2,70,Mexican Coke,Sams
+2,70,RC,Pepsi
+2,70,RC,Pepsi Real Sugar
+2,70,Sams,RC
+2,71,Sams,Pepsi Real Sugar
+2,71,Sams,Mexican Coke
+2,71,Sams,RC
+2,71,Pepsi Real Sugar,Mexican Coke
+2,71,RC,Mexican Coke
+2,72,Pepsi,Mexican Coke
+2,72,Sams,Mexican Coke
+2,72,Mexican Coke,RC
+2,72,Coca Cola,RC
+2,72,Sams,RC
+2,73,Sams,Pepsi
+2,73,Pepsi Real Sugar,Sams
+2,73,Pepsi,Mexican Coke
+2,73,RC,Pepsi Real Sugar
+2,73,RC,Mexican Coke
+2,74,Coca Cola,Sams
+2,74,Sams,Pepsi Real Sugar
+2,74,Mexican Coke,Sams
+2,74,Pepsi Real Sugar,Mexican Coke
+2,74,Mexican Coke,RC
+2,75,RC,Pepsi Real Sugar
+2,75,Pepsi,Sams
+2,75,Sams,Pepsi Real Sugar
+2,75,Mexican Coke,Pepsi Real Sugar
+2,75,Sams,RC
+2,76,Sams,Pepsi
+2,76,Coca Cola,Mexican Coke
+2,76,Mexican Coke,Pepsi
+2,76,Sams,Mexican Coke
+2,76,Sams,RC
+2,77,Mexican Coke,Pepsi Real Sugar
+2,77,Pepsi,RC
+2,77,Pepsi Real Sugar,RC
+2,77,RC,Sams
+2,77,Mexican Coke,RC
+2,78,Mexican Coke,Sams
+2,78,Mexican Coke,Coca Cola
+2,78,RC,Mexican Coke
+2,78,RC,Coca Cola
+2,78,RC,Pepsi Real Sugar
+2,79,Pepsi,Sams
+2,79,Mexican Coke,Sams
+2,79,RC,Sams
+2,79,Pepsi,Mexican Coke
+2,79,Mexican Coke,RC
+2,80,Mexican Coke,Pepsi Real Sugar
+2,80,RC,Pepsi Real Sugar
+2,80,RC,Sams
+2,80,Mexican Coke,RC
+2,80,RC,Coca Cola
+2,81,Sams,Pepsi
+2,81,Sams,Pepsi Real Sugar
+2,81,Mexican Coke,Pepsi
+2,81,RC,Mexican Coke
+2,81,RC,Pepsi Real Sugar
+2,82,Coca Cola,Mexican Coke
+2,82,Mexican Coke,Pepsi Real Sugar
+2,82,Mexican Coke,Sams
+2,82,Mexican Coke,RC
+2,82,RC,Coca Cola
+2,83,Coca Cola,Mexican Coke
+2,83,Mexican Coke,Pepsi Real Sugar
+2,83,RC,Pepsi
+2,83,RC,Pepsi Real Sugar
+2,83,RC,Mexican Coke
+2,84,Coca Cola,Sams
+2,84,Sams,Mexican Coke
+2,84,RC,Sams
+2,84,Pepsi,RC
+2,84,Pepsi Real Sugar,RC
+2,85,Pepsi,Sams
+2,85,Sams,Mexican Coke
+2,85,RC,Sams
+2,85,Mexican Coke,Pepsi
+2,85,RC,Mexican Coke
+2,86,Sams,Pepsi Real Sugar
+2,86,RC,Pepsi Real Sugar
+2,86,Mexican Coke,Pepsi Real Sugar
+2,86,Mexican Coke,Sams
+2,86,Sams,RC
+2,87,Sams,Pepsi Real Sugar
+2,87,Mexican Coke,Pepsi Real Sugar
+2,87,RC,Pepsi Real Sugar
+2,87,RC,Mexican Coke
+2,87,Coca Cola,RC
+2,88,Sams,Coca Cola
+2,88,Sams,Pepsi
+2,88,Sams,Mexican Coke
+2,88,Pepsi,Mexican Coke
+2,88,Mexican Coke,RC
+2,89,Mexican Coke,Pepsi Real Sugar
+2,89,Mexican Coke,Sams
+2,89,Mexican Coke,RC
+2,89,Coca Cola,RC
+2,89,Sams,RC
+2,90,Sams,Coca Cola
+2,90,Sams,Mexican Coke
+2,90,RC,Sams
+2,90,RC,Pepsi
+2,90,RC,Pepsi Real Sugar
+2,91,Pepsi,Sams
+2,91,Mexican Coke,Coca Cola
+2,91,Sams,Mexican Coke
+2,91,Mexican Coke,RC
+2,91,RC,Sams
+2,92,Sams,Pepsi Real Sugar
+2,92,RC,Sams
+2,92,Mexican Coke,Pepsi Real Sugar
+2,92,Mexican Coke,Sams
+2,92,Mexican Coke,RC
+2,93,Sams,Pepsi Real Sugar
+2,93,Sams,Pepsi
+2,93,Mexican Coke,Sams
+2,93,RC,Pepsi Real Sugar
+2,93,Sams,RC
+2,94,Mexican Coke,Pepsi Real Sugar
+2,94,RC,Coca Cola
+2,94,RC,Pepsi
+2,94,Sams,RC
+2,94,RC,Mexican Coke
+2,95,Pepsi,RC
+2,95,Sams,Pepsi Real Sugar
+2,95,Mexican Coke,Pepsi Real Sugar
+2,95,Sams,Mexican Coke
+2,95,RC,Mexican Coke
+2,96,Sams,Pepsi Real Sugar
+2,96,Sams,Mexican Coke
+2,96,Coca Cola,Mexican Coke
+2,96,RC,Coca Cola
+2,96,Pepsi,RC
+2,97,Pepsi Real Sugar,Mexican Coke
+2,97,Coca Cola,RC
+2,97,RC,Pepsi
+2,97,Sams,RC
+2,97,RC,Mexican Coke
+2,98,Sams,Pepsi
+2,98,Sams,Mexican Coke
+2,98,RC,Pepsi
+2,98,RC,Pepsi Real Sugar
+2,98,RC,Sams
+2,99,Pepsi,RC
+2,99,Sams,Pepsi Real Sugar
+2,99,Pepsi,Sams
+2,99,Mexican Coke,Sams
+2,99,RC,Mexican Coke
+2,100,Coca Cola,Sams
+2,100,Sams,Pepsi Real Sugar
+2,100,Sams,RC
+2,100,Sams,Mexican Coke
+2,100,RC,Coca Cola

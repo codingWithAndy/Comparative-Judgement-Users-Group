@@ -1,0 +1,4057 @@
+judge,candidate_chosen,candidate_not_chosen
+1,Blinking Menu,Evanescent Menu
+1,Blinking Menu,Flower Menu
+1,Out-context Disappearing Menu,Blurring Menu
+1,Bolding Menu,Pushpin Menu
+1,Bowing Menu,Ephemeral Menu
+1,Bowing Menu,Greyscaling Menu
+1,Bowing Menu,Rainbow menu
+1,Bubbling Menu,Split Menu with Scrollbar
+1,Twisting Menu,Bubbling Menu
+1,Cloud Menu,Square Menu
+1,Prediction-by-bar Menu,Ephemeral Menu
+1,Evanescent Menu,Font-changing Menu
+1,Highlighting Menu,Fish-eye Menu
+1,Fish-eye Menu,Step-by-step Menu
+1,Fish-eye colored menu,Frequency-based Menu
+1,Fish-eye colored menu,Split Menu with Arrowbar
+1,Fish-eye colored menu,Temporal Menu
+1,Glowing Menu,Frequency-based Menu
+1,Polymodal Menu,Frequency-based Menu
+1,Pulsing Menu,Greyscaling Menu
+1,Greyscaling Menu,Step-by-step Menu
+1,Twisting Menu,Greyscaling Menu
+1,Heatmap Menu,Hyperbolic Menu
+1,Heatmap Menu,Italiczing Menu
+1,Prediction-by-bar Menu,Highlighting Menu
+1,Highlighting Menu,Time-based Menu
+1,Split Menu with Replication,Hyperbolic Menu
+1,Transparency Menu,Hyperbolic Menu
+1,In-context Appearing Menu,Polymodal Menu
+1,In-context Appearing Menu,Rainbow menu
+1,Prediction-by-color Menu,Italiczing Menu
+1,Pulsing Menu,Italiczing Menu
+1,Morphing Menu,Step-by-step Menu
+1,Underlying Menu,Out-context Disappearing Menu
+1,Pushpin Menu,Patined Menu
+1,Prediction-by-bar Menu,Split Menu without replication
+1,Rainbow menu,Prediction-by-color Menu
+1,Prediction-by-color Menu,Tree Menu
+1,Prediction-by-line Menu,Rating Menu
+1,Prediction-by-rainbow Menu,Rainbow menu
+1,Prediction-by-scale Menu,Split Menu with Replication
+1,Rating Menu,Probability-based Menu
+1,Pulsing Menu,Split Menu without replication
+1,Twisting Menu,Pushpin Menu
+1,Time-based Menu,Rainbow menu
+1,Underlying Menu,Rainbow menu
+1,Rating Menu,Square Menu
+1,Rating Menu,Time-based Menu
+1,Transparency Menu,Temporal Menu
+1,Transparency Menu,Tree Menu
+2,Bowing Menu,Blinking Menu
+2,Blinking Menu,Split Menu with Arrowbar
+2,Blurring Menu,Square Menu
+2,Blurring Menu,Time-based Menu
+2,Bolding Menu,Morphing Menu
+2,Bowing Menu,Cloud Menu
+2,Bowing Menu,Evanescent Menu
+2,Underlying Menu,Bowing Menu
+2,In-context Appearing Menu,Bubbling Menu
+2,Morphing Menu,Bubbling Menu
+2,Underlying Menu,Bubbling Menu
+2,Pushpin Menu,Evanescent Menu
+2,Split Menu with Arrowbar,Evanescent Menu
+2,Highlighting Menu,Fish-eye Menu
+2,Frequency-based Menu,Fish-eye colored menu
+2,Underlying Menu,Fish-eye colored menu
+2,Highlighting Menu,Flower Menu
+2,Prediction-by-color Menu,Flower Menu
+2,Split Menu with Arrowbar,Flower Menu
+2,Glowing Menu,Polymodal Menu
+2,Glowing Menu,Temporal Menu
+2,Greyscaling Menu,Pulsing Menu
+2,Greyscaling Menu,Split Menu with Scrollbar
+2,Italiczing Menu,Heatmap Menu
+2,Underlying Menu,Heatmap Menu
+2,Highlighting Menu,Step-by-step Menu
+2,Step-by-step Menu,Hyperbolic Menu
+2,Split Menu with Arrowbar,In-context Appearing Menu
+2,Italiczing Menu,Prediction-by-color Menu
+2,Pushpin Menu,Italiczing Menu
+2,Twisting Menu,Italiczing Menu
+2,Morphing Menu,Patined Menu
+2,Transparency Menu,Out-context Disappearing Menu
+2,Prediction-by-bar Menu,Temporal Menu
+2,Prediction-by-rainbow Menu,Prediction-by-color Menu
+2,Twisting Menu,Prediction-by-color Menu
+2,Rainbow menu,Prediction-by-line Menu
+2,Split Menu with Scrollbar,Prediction-by-line Menu
+2,Underlying Menu,Prediction-by-line Menu
+2,Prediction-by-scale Menu,Square Menu
+2,Transparency Menu,Prediction-by-scale Menu
+2,Twisting Menu,Rainbow menu
+2,Split Menu with Replication,Split Menu with Arrowbar
+2,Split Menu with Arrowbar,Time-based Menu
+2,Split Menu with Scrollbar,Square Menu
+2,Transparency Menu,Split Menu with Scrollbar
+2,Underlying Menu,Split Menu with Scrollbar
+2,Split Menu without replication,Square Menu
+4,Blurring Menu,Flower Menu
+4,Greyscaling Menu,Blurring Menu
+4,Pushpin Menu,Blurring Menu
+4,Blurring Menu,Rating Menu
+4,Blurring Menu,Temporal Menu
+4,Bowing Menu,Italiczing Menu
+4,Prediction-by-bar Menu,Bowing Menu
+4,Bubbling Menu,Split Menu with Scrollbar
+4,Bubbling Menu,Split Menu without replication
+4,Cloud Menu,In-context Appearing Menu
+4,Evanescent Menu,Polymodal Menu
+4,Step-by-step Menu,Evanescent Menu
+4,Prediction-by-bar Menu,Fish-eye Menu
+4,Greyscaling Menu,Flower Menu
+4,Pulsing Menu,Flower Menu
+4,Transparency Menu,Flower Menu
+4,Twisting Menu,Flower Menu
+4,Greyscaling Menu,Font-changing Menu
+4,Glowing Menu,Prediction-by-color Menu
+4,Smart Menu,Glowing Menu
+4,Split Menu with Replication,Glowing Menu
+4,Step-by-step Menu,Glowing Menu
+4,Time-based Menu,Heatmap Menu
+4,Prediction-by-scale Menu,Hyperbolic Menu
+4,Split Menu with Arrowbar,Hyperbolic Menu
+4,Pushpin Menu,In-context Appearing Menu
+4,Weared Menu,In-context Appearing Menu
+4,Prediction-by-line Menu,Italiczing Menu
+4,Rainbow menu,Out-context Disappearing Menu
+4,Rating Menu,Out-context Disappearing Menu
+4,Prediction-by-rainbow Menu,Polymodal Menu
+4,Split Menu with Arrowbar,Polymodal Menu
+4,Time-based Menu,Polymodal Menu
+4,Prediction-by-bar Menu,Rating Menu
+4,Square Menu,Prediction-by-color Menu
+4,Weared Menu,Prediction-by-color Menu
+4,Prediction-by-line Menu,Pushpin Menu
+4,Prediction-by-scale Menu,Split Menu without replication
+4,Prediction-by-scale Menu,Step-by-step Menu
+4,Pushpin Menu,Rating Menu
+4,Rating Menu,Split Menu with Arrowbar
+4,Transparency Menu,Rating Menu
+4,Rating Menu,Weared Menu
+4,Rotating Menu,Temporal Menu
+4,Step-by-step Menu,Smart Menu
+4,Time-based Menu,Split Menu with Arrowbar
+4,Split Menu with Arrowbar,Tree Menu
+4,Time-based Menu,Split Menu without replication
+4,Square Menu,Step-by-step Menu
+4,Time-based Menu,Weared Menu
+5,Cloud Menu,Blinking Menu
+5,Prediction-by-bar Menu,Blinking Menu
+5,Blurring Menu,Hyperbolic Menu
+5,Blurring Menu,Split Menu without replication
+5,Bolding Menu,Evanescent Menu
+5,Bolding Menu,In-context Appearing Menu
+5,Fish-eye Menu,Bubbling Menu
+5,Morphing Menu,Bubbling Menu
+5,Split Menu with Replication,Cloud Menu
+5,Ephemeral Menu,Step-by-step Menu
+5,Prediction-by-line Menu,Evanescent Menu
+5,Fish-eye Menu,Probability-based Menu
+5,Fish-eye Menu,Underlying Menu
+5,Fish-eye colored menu,Pulsing Menu
+5,Split Menu with Arrowbar,Font-changing Menu
+5,Highlighting Menu,Frequency-based Menu
+5,Morphing Menu,Glowing Menu
+5,Greyscaling Menu,Prediction-by-line Menu
+5,Greyscaling Menu,Square Menu
+5,Highlighting Menu,Temporal Menu
+5,Patined Menu,Hyperbolic Menu
+5,Prediction-by-bar Menu,In-context Appearing Menu
+5,Prediction-by-scale Menu,In-context Appearing Menu
+5,Italiczing Menu,Tree Menu
+5,Morphing Menu,Prediction-by-scale Menu
+5,Morphing Menu,Probability-based Menu
+5,Morphing Menu,Pulsing Menu
+5,Split Menu with Scrollbar,Out-context Disappearing Menu
+5,Patined Menu,Rating Menu
+5,Polymodal Menu,Pulsing Menu
+5,Pulsing Menu,Prediction-by-color Menu
+5,Underlying Menu,Prediction-by-color Menu
+5,Split Menu with Replication,Prediction-by-rainbow Menu
+5,Prediction-by-scale Menu,Temporal Menu
+5,Split Menu without replication,Pulsing Menu
+5,Pushpin Menu,Rating Menu
+5,Transparency Menu,Pushpin Menu
+5,Split Menu with Replication,Rotating Menu
+6,Blinking Menu,Flower Menu
+6,Frequency-based Menu,Blinking Menu
+6,Pushpin Menu,Blinking Menu
+6,Blurring Menu,Out-context Disappearing Menu
+6,Split Menu without replication,Blurring Menu
+6,Bolding Menu,Patined Menu
+6,Bolding Menu,Prediction-by-scale Menu
+6,Rating Menu,Bolding Menu
+6,Smart Menu,Bolding Menu
+6,Split Menu with Arrowbar,Bolding Menu
+6,Split Menu with Replication,Bolding Menu
+6,Pulsing Menu,Bowing Menu
+6,Bowing Menu,Transparency Menu
+6,Fish-eye Menu,Bubbling Menu
+6,Cloud Menu,Split Menu with Replication
+6,Prediction-by-rainbow Menu,Ephemeral Menu
+6,Tree Menu,Ephemeral Menu
+6,Italiczing Menu,Evanescent Menu
+6,Split Menu with Arrowbar,Evanescent Menu
+6,Fish-eye Menu,Prediction-by-scale Menu
+6,Morphing Menu,Flower Menu
+6,Flower Menu,Out-context Disappearing Menu
+6,Highlighting Menu,Frequency-based Menu
+6,Weared Menu,Glowing Menu
+6,Smart Menu,Greyscaling Menu
+6,Greyscaling Menu,Transparency Menu
+6,Morphing Menu,Heatmap Menu
+6,Prediction-by-color Menu,Heatmap Menu
+6,Highlighting Menu,Split Menu with Replication
+6,Rotating Menu,In-context Appearing Menu
+6,Rating Menu,Italiczing Menu
+6,Weared Menu,Italiczing Menu
+6,Polymodal Menu,Temporal Menu
+6,Prediction-by-rainbow Menu,Prediction-by-bar Menu
+6,Rating Menu,Prediction-by-bar Menu
+6,Prediction-by-line Menu,Prediction-by-color Menu
+6,Rating Menu,Prediction-by-line Menu
+6,Tree Menu,Prediction-by-rainbow Menu
+6,Time-based Menu,Prediction-by-scale Menu
+6,Probability-based Menu,Temporal Menu
+6,Split Menu without replication,Pushpin Menu
+6,Pushpin Menu,Temporal Menu
+6,Transparency Menu,Pushpin Menu
+6,Rainbow menu,Tree Menu
+6,Split Menu with Arrowbar,Rotating Menu
+6,Weared Menu,Rotating Menu
+6,Smart Menu,Temporal Menu
+6,Twisting Menu,Split Menu with Scrollbar
+6,Time-based Menu,Temporal Menu
+10,Blinking Menu,Hyperbolic Menu
+10,Rating Menu,Blurring Menu
+10,Blurring Menu,Step-by-step Menu
+10,Bowing Menu,Step-by-step Menu
+10,Bubbling Menu,Rainbow menu
+10,Pulsing Menu,Cloud Menu
+10,Ephemeral Menu,Font-changing Menu
+10,Highlighting Menu,Evanescent Menu
+10,Time-based Menu,Evanescent Menu
+10,Fish-eye Menu,Out-context Disappearing Menu
+10,Fish-eye Menu,Prediction-by-rainbow Menu
+10,Prediction-by-line Menu,Fish-eye colored menu
+10,Probability-based Menu,Fish-eye colored menu
+10,Split Menu with Scrollbar,Fish-eye colored menu
+10,Heatmap Menu,Flower Menu
+10,Rating Menu,Font-changing Menu
+10,Frequency-based Menu,Glowing Menu
+10,Frequency-based Menu,Heatmap Menu
+10,Greyscaling Menu,Glowing Menu
+10,Greyscaling Menu,Polymodal Menu
+10,Greyscaling Menu,Prediction-by-rainbow Menu
+10,Greyscaling Menu,Pulsing Menu
+10,Greyscaling Menu,Split Menu with Arrowbar
+10,Highlighting Menu,Probability-based Menu
+10,Split Menu with Replication,In-context Appearing Menu
+10,Twisting Menu,In-context Appearing Menu
+10,Morphing Menu,Probability-based Menu
+10,Split Menu with Arrowbar,Morphing Menu
+10,Twisting Menu,Morphing Menu
+10,Pushpin Menu,Out-context Disappearing Menu
+10,Step-by-step Menu,Out-context Disappearing Menu
+10,Probability-based Menu,Polymodal Menu
+10,Underlying Menu,Polymodal Menu
+10,Rating Menu,Prediction-by-bar Menu
+10,Prediction-by-bar Menu,Tree Menu
+10,Twisting Menu,Prediction-by-color Menu
+10,Rating Menu,Prediction-by-rainbow Menu
+10,Split Menu with Scrollbar,Prediction-by-rainbow Menu
+10,Step-by-step Menu,Prediction-by-rainbow Menu
+10,Pushpin Menu,Weared Menu
+10,Rating Menu,Rainbow menu
+10,Rainbow menu,Tree Menu
+10,Rating Menu,Underlying Menu
+10,Split Menu without replication,Smart Menu
+10,Split Menu with Replication,Square Menu
+10,Transparency Menu,Split Menu with Replication
+10,Split Menu without replication,Tree Menu
+10,Underlying Menu,Square Menu
+10,Twisting Menu,Time-based Menu
+10,Underlying Menu,Tree Menu
+11,Fish-eye Menu,Cloud Menu
+11,Evanescent Menu,Rotating Menu
+11,Square Menu,Hyperbolic Menu
+11,Tree Menu,Prediction-by-color Menu
+11,Prediction-by-scale Menu,Tree Menu
+11,Rating Menu,Twisting Menu
+11,Split Menu without replication,Time-based Menu
+11,Temporal Menu,Transparency Menu
+14,Blinking Menu,Evanescent Menu
+14,Font-changing Menu,Blinking Menu
+14,Patined Menu,Blinking Menu
+14,Blurring Menu,Smart Menu
+14,Bolding Menu,Glowing Menu
+14,Bowing Menu,Cloud Menu
+14,Prediction-by-line Menu,Bowing Menu
+14,Bowing Menu,Rotating Menu
+14,Bubbling Menu,Polymodal Menu
+14,Bubbling Menu,Weared Menu
+14,Font-changing Menu,Cloud Menu
+14,Probability-based Menu,Cloud Menu
+14,Cloud Menu,Rainbow menu
+14,Cloud Menu,Square Menu
+14,Step-by-step Menu,Cloud Menu
+14,Prediction-by-bar Menu,Evanescent Menu
+14,Rating Menu,Evanescent Menu
+14,Fish-eye Menu,Rainbow menu
+14,Fish-eye colored menu,Pushpin Menu
+14,Fish-eye colored menu,Temporal Menu
+14,Frequency-based Menu,Smart Menu
+14,Pushpin Menu,Glowing Menu
+14,Greyscaling Menu,Heatmap Menu
+14,Greyscaling Menu,Split Menu with Replication
+14,Pushpin Menu,Hyperbolic Menu
+14,In-context Appearing Menu,Prediction-by-color Menu
+14,Probability-based Menu,In-context Appearing Menu
+14,Time-based Menu,Italiczing Menu
+14,Italiczing Menu,Weared Menu
+14,Morphing Menu,Underlying Menu
+14,Prediction-by-color Menu,Polymodal Menu
+14,Prediction-by-bar Menu,Probability-based Menu
+14,Prediction-by-bar Menu,Split Menu with Arrowbar
+14,Prediction-by-bar Menu,Underlying Menu
+14,Pushpin Menu,Prediction-by-color Menu
+14,Split Menu with Replication,Prediction-by-color Menu
+14,Prediction-by-line Menu,Tree Menu
+14,Probability-based Menu,Split Menu with Scrollbar
+14,Pushpin Menu,Split Menu with Scrollbar
+14,Split Menu with Arrowbar,Square Menu
+14,Weared Menu,Split Menu with Replication
+17,Bolding Menu,Blinking Menu
+17,Highlighting Menu,Blinking Menu
+17,In-context Appearing Menu,Blurring Menu
+17,Blurring Menu,Polymodal Menu
+17,Temporal Menu,Blurring Menu
+17,Bolding Menu,Evanescent Menu
+17,Pushpin Menu,Bolding Menu
+17,Bowing Menu,Probability-based Menu
+17,Bowing Menu,Pulsing Menu
+17,In-context Appearing Menu,Bubbling Menu
+17,Fish-eye Menu,Cloud Menu
+17,Split Menu with Arrowbar,Cloud Menu
+17,Highlighting Menu,Ephemeral Menu
+17,Evanescent Menu,Prediction-by-rainbow Menu
+17,Fish-eye Menu,Square Menu
+17,In-context Appearing Menu,Fish-eye colored menu
+17,Fish-eye colored menu,Prediction-by-bar Menu
+17,Underlying Menu,Fish-eye colored menu
+17,Font-changing Menu,Frequency-based Menu
+17,Font-changing Menu,Prediction-by-color Menu
+17,Rating Menu,Font-changing Menu
+17,Font-changing Menu,Weared Menu
+17,Prediction-by-bar Menu,Frequency-based Menu
+17,Frequency-based Menu,Twisting Menu
+17,Greyscaling Menu,Heatmap Menu
+17,Greyscaling Menu,Square Menu
+17,Heatmap Menu,Rainbow menu
+17,Rating Menu,Heatmap Menu
+17,Highlighting Menu,Out-context Disappearing Menu
+17,Highlighting Menu,Prediction-by-scale Menu
+17,Highlighting Menu,Square Menu
+17,Hyperbolic Menu,Prediction-by-line Menu
+17,In-context Appearing Menu,Twisting Menu
+17,Step-by-step Menu,Morphing Menu
+17,Transparency Menu,Morphing Menu
+17,Polymodal Menu,Out-context Disappearing Menu
+17,Rating Menu,Out-context Disappearing Menu
+17,Polymodal Menu,Probability-based Menu
+17,Prediction-by-bar Menu,Prediction-by-scale Menu
+17,Pushpin Menu,Prediction-by-color Menu
+17,Transparency Menu,Prediction-by-color Menu
+17,Prediction-by-rainbow Menu,Rotating Menu
+17,Split Menu with Arrowbar,Prediction-by-rainbow Menu
+17,Twisting Menu,Prediction-by-scale Menu
+17,Split Menu without replication,Probability-based Menu
+17,Pulsing Menu,Square Menu
+17,Rainbow menu,Rotating Menu
+17,Split Menu with Scrollbar,Temporal Menu
+17,Transparency Menu,Split Menu without replication
+17,Temporal Menu,Time-based Menu
+18,Highlighting Menu,Blinking Menu
+18,Blurring Menu,Hyperbolic Menu
+18,Bolding Menu,Flower Menu
+18,Bolding Menu,Heatmap Menu
+18,Bolding Menu,Rotating Menu
+18,Bolding Menu,Temporal Menu
+18,Underlying Menu,Cloud Menu
+18,Greyscaling Menu,Evanescent Menu
+18,Evanescent Menu,Rotating Menu
+18,Fish-eye Menu,Out-context Disappearing Menu
+18,Fish-eye Menu,Prediction-by-rainbow Menu
+18,Prediction-by-line Menu,Fish-eye colored menu
+18,Fish-eye colored menu,Temporal Menu
+18,Font-changing Menu,Hyperbolic Menu
+18,Font-changing Menu,Temporal Menu
+18,Font-changing Menu,Twisting Menu
+18,Frequency-based Menu,Temporal Menu
+18,Underlying Menu,Glowing Menu
+18,Split Menu with Scrollbar,Highlighting Menu
+18,Highlighting Menu,Square Menu
+18,Prediction-by-bar Menu,Hyperbolic Menu
+18,Probability-based Menu,Hyperbolic Menu
+18,Morphing Menu,Prediction-by-rainbow Menu
+18,Morphing Menu,Rotating Menu
+18,Split Menu with Arrowbar,Polymodal Menu
+18,Prediction-by-bar Menu,Rotating Menu
+18,Prediction-by-bar Menu,Split Menu with Arrowbar
+18,Prediction-by-bar Menu,Square Menu
+18,Prediction-by-bar Menu,Twisting Menu
+18,Rating Menu,Pulsing Menu
+18,Pulsing Menu,Square Menu
+18,Split Menu with Arrowbar,Pushpin Menu
+18,Rating Menu,Tree Menu
+18,Rating Menu,Twisting Menu
+18,Smart Menu,Rotating Menu
+18,Split Menu with Arrowbar,Temporal Menu
+18,Split Menu with Scrollbar,Square Menu
+18,Split Menu with Scrollbar,Weared Menu
+19,Frequency-based Menu,Blinking Menu
+19,Split Menu with Scrollbar,Blinking Menu
+19,Blurring Menu,Prediction-by-bar Menu
+19,Bolding Menu,Hyperbolic Menu
+19,Bolding Menu,Temporal Menu
+19,Bowing Menu,Temporal Menu
+19,Font-changing Menu,Evanescent Menu
+19,Fish-eye Menu,In-context Appearing Menu
+19,Fish-eye colored menu,Patined Menu
+19,Fish-eye colored menu,Prediction-by-color Menu
+19,Split Menu with Scrollbar,Fish-eye colored menu
+19,Transparency Menu,Flower Menu
+19,Pushpin Menu,Glowing Menu
+19,Smart Menu,Glowing Menu
+19,Split Menu without replication,Heatmap Menu
+19,Highlighting Menu,Transparency Menu
+19,Probability-based Menu,Hyperbolic Menu
+19,Temporal Menu,Hyperbolic Menu
+19,Split Menu with Scrollbar,In-context Appearing Menu
+19,Time-based Menu,In-context Appearing Menu
+19,Underlying Menu,Italiczing Menu
+19,Morphing Menu,Prediction-by-color Menu
+19,Out-context Disappearing Menu,Prediction-by-bar Menu
+19,Out-context Disappearing Menu,Prediction-by-rainbow Menu
+19,Pushpin Menu,Out-context Disappearing Menu
+19,Transparency Menu,Out-context Disappearing Menu
+19,Pushpin Menu,Patined Menu
+19,Rainbow menu,Prediction-by-color Menu
+19,Time-based Menu,Prediction-by-color Menu
+19,Pushpin Menu,Prediction-by-rainbow Menu
+19,Split Menu with Scrollbar,Prediction-by-rainbow Menu
+19,Time-based Menu,Prediction-by-rainbow Menu
+19,Square Menu,Prediction-by-scale Menu
+19,Twisting Menu,Prediction-by-scale Menu
+19,Pushpin Menu,Pulsing Menu
+19,Underlying Menu,Rating Menu
+19,Split Menu with Scrollbar,Split Menu without replication
+19,Transparency Menu,Step-by-step Menu
+19,Weared Menu,Time-based Menu
+19,Transparency Menu,Twisting Menu
+19,Underlying Menu,Weared Menu
+20,Font-changing Menu,Blinking Menu
+20,Prediction-by-scale Menu,Blinking Menu
+20,Blurring Menu,Italiczing Menu
+20,Blurring Menu,Prediction-by-bar Menu
+20,Bolding Menu,Heatmap Menu
+20,Bolding Menu,Smart Menu
+20,Bowing Menu,Cloud Menu
+20,Bowing Menu,Glowing Menu
+20,Probability-based Menu,Bowing Menu
+20,Bubbling Menu,Glowing Menu
+20,Patined Menu,Bubbling Menu
+20,Split Menu with Replication,Cloud Menu
+20,Frequency-based Menu,Ephemeral Menu
+20,Pulsing Menu,Evanescent Menu
+20,Fish-eye Menu,Polymodal Menu
+20,Square Menu,Fish-eye Menu
+20,Font-changing Menu,Split Menu with Arrowbar
+20,Frequency-based Menu,Morphing Menu
+20,Smart Menu,Glowing Menu
+20,Greyscaling Menu,Probability-based Menu
+20,Greyscaling Menu,Weared Menu
+20,Heatmap Menu,Rotating Menu
+20,Square Menu,Heatmap Menu
+20,Highlighting Menu,Split Menu with Arrowbar
+20,Highlighting Menu,Temporal Menu
+20,Highlighting Menu,Twisting Menu
+20,Temporal Menu,Hyperbolic Menu
+20,Transparency Menu,Hyperbolic Menu
+20,Italiczing Menu,In-context Appearing Menu
+20,Italiczing Menu,Prediction-by-line Menu
+20,Morphing Menu,Rotating Menu
+20,Twisting Menu,Out-context Disappearing Menu
+20,Underlying Menu,Out-context Disappearing Menu
+20,Patined Menu,Temporal Menu
+20,Prediction-by-bar Menu,Polymodal Menu
+20,Square Menu,Polymodal Menu
+20,Time-based Menu,Polymodal Menu
+20,Rainbow menu,Prediction-by-bar Menu
+20,Split Menu without replication,Prediction-by-bar Menu
+20,Prediction-by-scale Menu,Prediction-by-color Menu
+20,Rating Menu,Pulsing Menu
+20,Time-based Menu,Pushpin Menu
+20,Rainbow menu,Tree Menu
+20,Split Menu with Replication,Split Menu with Arrowbar
+20,Square Menu,Split Menu with Arrowbar
+20,Underlying Menu,Split Menu with Arrowbar
+20,Temporal Menu,Split Menu without replication
+21,Blinking Menu,Greyscaling Menu
+21,Out-context Disappearing Menu,Blinking Menu
+21,Blinking Menu,Polymodal Menu
+21,Blinking Menu,Split Menu with Replication
+21,Blurring Menu,Bolding Menu
+21,Blurring Menu,Heatmap Menu
+21,Blurring Menu,Italiczing Menu
+21,Blurring Menu,Tree Menu
+21,Bolding Menu,Bubbling Menu
+21,Bolding Menu,Cloud Menu
+21,Bubbling Menu,Pushpin Menu
+21,Bubbling Menu,Step-by-step Menu
+21,Morphing Menu,Ephemeral Menu
+21,Ephemeral Menu,Prediction-by-scale Menu
+21,Evanescent Menu,Rating Menu
+21,Evanescent Menu,Rotating Menu
+21,Evanescent Menu,Step-by-step Menu
+21,Out-context Disappearing Menu,Fish-eye Menu
+21,Fish-eye Menu,Square Menu
+21,Fish-eye colored menu,Split Menu without replication
+21,Transparency Menu,Fish-eye colored menu
+21,Fish-eye colored menu,Underlying Menu
+21,Font-changing Menu,Flower Menu
+21,Flower Menu,Pushpin Menu
+21,Rainbow menu,Flower Menu
+21,Flower Menu,Split Menu with Arrowbar
+21,Probability-based Menu,Font-changing Menu
+21,Font-changing Menu,Time-based Menu
+21,Font-changing Menu,Tree Menu
+21,Rotating Menu,Frequency-based Menu
+21,Glowing Menu,Italiczing Menu
+21,Greyscaling Menu,Heatmap Menu
+21,Greyscaling Menu,Twisting Menu
+21,Greyscaling Menu,Underlying Menu
+21,Heatmap Menu,Prediction-by-rainbow Menu
+21,Highlighting Menu,Pushpin Menu
+21,In-context Appearing Menu,Hyperbolic Menu
+21,Prediction-by-bar Menu,Hyperbolic Menu
+21,Morphing Menu,Split Menu with Scrollbar
+21,Patined Menu,Rotating Menu
+21,Prediction-by-line Menu,Probability-based Menu
+21,Prediction-by-line Menu,Underlying Menu
+21,Prediction-by-scale Menu,Square Menu
+21,Probability-based Menu,Pulsing Menu
+21,Probability-based Menu,Rating Menu
+21,Pushpin Menu,Split Menu without replication
+21,Split Menu with Replication,Time-based Menu
+21,Split Menu with Replication,Tree Menu
+21,Underlying Menu,Split Menu with Scrollbar
+21,Temporal Menu,Square Menu
+24,Fish-eye Menu,Blinking Menu
+24,Temporal Menu,Blinking Menu
+24,Transparency Menu,Blinking Menu
+24,Blurring Menu,Pushpin Menu
+24,Bolding Menu,In-context Appearing Menu
+24,Bolding Menu,Rainbow menu
+24,Bowing Menu,Probability-based Menu
+24,Pushpin Menu,Bowing Menu
+24,Square Menu,Bowing Menu
+24,Patined Menu,Cloud Menu
+24,Cloud Menu,Split Menu with Scrollbar
+24,Ephemeral Menu,Underlying Menu
+24,Morphing Menu,Fish-eye Menu
+24,Fish-eye Menu,Underlying Menu
+24,Fish-eye colored menu,Pulsing Menu
+24,Temporal Menu,Fish-eye colored menu
+24,Time-based Menu,Fish-eye colored menu
+24,Flower Menu,Time-based Menu
+24,Polymodal Menu,Frequency-based Menu
+24,Frequency-based Menu,Prediction-by-rainbow Menu
+24,Frequency-based Menu,Split Menu with Arrowbar
+24,Glowing Menu,Weared Menu
+24,Greyscaling Menu,Prediction-by-line Menu
+24,Greyscaling Menu,Split Menu without replication
+24,Heatmap Menu,Patined Menu
+24,Rainbow menu,Heatmap Menu
+24,Highlighting Menu,Split Menu with Arrowbar
+24,Italiczing Menu,Hyperbolic Menu
+24,Hyperbolic Menu,Prediction-by-color Menu
+24,Hyperbolic Menu,Rotating Menu
+24,Italiczing Menu,Prediction-by-color Menu
+24,Italiczing Menu,Pulsing Menu
+24,Morphing Menu,Smart Menu
+24,Morphing Menu,Weared Menu
+24,Out-context Disappearing Menu,Split Menu with Arrowbar
+24,Out-context Disappearing Menu,Underlying Menu
+24,Smart Menu,Patined Menu
+24,Split Menu without replication,Polymodal Menu
+24,Prediction-by-color Menu,Prediction-by-scale Menu
+24,Prediction-by-rainbow Menu,Prediction-by-scale Menu
+24,Prediction-by-scale Menu,Split Menu with Arrowbar
+24,Pulsing Menu,Split Menu with Arrowbar
+24,Pushpin Menu,Weared Menu
+24,Rating Menu,Tree Menu
+24,Smart Menu,Weared Menu
+24,Step-by-step Menu,Split Menu with Scrollbar
+24,Transparency Menu,Split Menu with Scrollbar
+24,Tree Menu,Split Menu without replication
+24,Square Menu,Weared Menu
+24,Tree Menu,Step-by-step Menu
+24,Tree Menu,Weared Menu
+25,Blinking Menu,Font-changing Menu
+25,Bolding Menu,Greyscaling Menu
+25,Prediction-by-line Menu,Bolding Menu
+25,Bolding Menu,Square Menu
+25,Probability-based Menu,Bubbling Menu
+25,Step-by-step Menu,Bubbling Menu
+25,Bubbling Menu,Temporal Menu
+25,Underlying Menu,Bubbling Menu
+25,Rating Menu,Cloud Menu
+25,Ephemeral Menu,Font-changing Menu
+25,Ephemeral Menu,Hyperbolic Menu
+25,Ephemeral Menu,Prediction-by-rainbow Menu
+25,Rainbow menu,Ephemeral Menu
+25,Ephemeral Menu,Rotating Menu
+25,Square Menu,Ephemeral Menu
+25,Time-based Menu,Ephemeral Menu
+25,Prediction-by-bar Menu,Evanescent Menu
+25,Probability-based Menu,Evanescent Menu
+25,Evanescent Menu,Weared Menu
+25,Fish-eye Menu,Split Menu with Arrowbar
+25,Glowing Menu,Flower Menu
+25,Split Menu with Scrollbar,Flower Menu
+25,Font-changing Menu,Out-context Disappearing Menu
+25,Split Menu with Replication,Font-changing Menu
+25,Greyscaling Menu,Glowing Menu
+25,Pulsing Menu,Glowing Menu
+25,Glowing Menu,Rainbow menu
+25,Greyscaling Menu,Prediction-by-scale Menu
+25,Greyscaling Menu,Split Menu with Arrowbar
+25,Greyscaling Menu,Twisting Menu
+25,Split Menu with Arrowbar,Heatmap Menu
+25,Highlighting Menu,Rainbow menu
+25,Rainbow menu,Hyperbolic Menu
+25,In-context Appearing Menu,Rainbow menu
+25,Morphing Menu,Pushpin Menu
+25,Prediction-by-line Menu,Patined Menu
+25,Patined Menu,Smart Menu
+25,Rating Menu,Prediction-by-bar Menu
+25,Underlying Menu,Prediction-by-bar Menu
+25,Prediction-by-color Menu,Twisting Menu
+25,Probability-based Menu,Rotating Menu
+25,Pulsing Menu,Split Menu with Scrollbar
+25,Pushpin Menu,Split Menu with Arrowbar
+25,Time-based Menu,Rainbow menu
+25,Rating Menu,Step-by-step Menu
+25,Underlying Menu,Rating Menu
+25,Square Menu,Temporal Menu
+25,Transparency Menu,Temporal Menu
+25,Transparency Menu,Weared Menu
+28,Out-context Disappearing Menu,Bolding Menu
+28,Frequency-based Menu,Bowing Menu
+28,Cloud Menu,Frequency-based Menu
+28,Ephemeral Menu,Glowing Menu
+28,Ephemeral Menu,Prediction-by-scale Menu
+28,Fish-eye colored menu,Underlying Menu
+28,Font-changing Menu,Probability-based Menu
+28,Pushpin Menu,Font-changing Menu
+28,Heatmap Menu,Square Menu
+28,Prediction-by-line Menu,In-context Appearing Menu
+28,Out-context Disappearing Menu,Prediction-by-line Menu
+28,Transparency Menu,Prediction-by-bar Menu
+28,Prediction-by-rainbow Menu,Prediction-by-line Menu
+28,Underlying Menu,Prediction-by-rainbow Menu
+28,Pushpin Menu,Rotating Menu
+28,Smart Menu,Rainbow menu
+30,Twisting Menu,Blinking Menu
+30,Ephemeral Menu,Blurring Menu
+30,Rainbow menu,Blurring Menu
+30,Split Menu with Replication,Blurring Menu
+30,Bolding Menu,Bowing Menu
+30,Bolding Menu,Cloud Menu
+30,Bolding Menu,Square Menu
+30,Bowing Menu,Pulsing Menu
+30,Bowing Menu,Split Menu with Arrowbar
+30,Bowing Menu,Square Menu
+30,In-context Appearing Menu,Bubbling Menu
+30,Split Menu without replication,Ephemeral Menu
+30,Font-changing Menu,Fish-eye Menu
+30,Morphing Menu,Fish-eye Menu
+30,Underlying Menu,Flower Menu
+30,Font-changing Menu,Polymodal Menu
+30,Font-changing Menu,Pulsing Menu
+30,Frequency-based Menu,Rotating Menu
+30,Frequency-based Menu,Split Menu with Scrollbar
+30,Glowing Menu,Italiczing Menu
+30,Square Menu,Glowing Menu
+30,Greyscaling Menu,Polymodal Menu
+30,Greyscaling Menu,Prediction-by-rainbow Menu
+30,Greyscaling Menu,Rotating Menu
+30,Greyscaling Menu,Time-based Menu
+30,Hyperbolic Menu,Prediction-by-scale Menu
+30,Hyperbolic Menu,Rating Menu
+30,Hyperbolic Menu,Temporal Menu
+30,In-context Appearing Menu,Step-by-step Menu
+30,Split Menu without replication,Italiczing Menu
+30,Morphing Menu,Weared Menu
+30,Underlying Menu,Polymodal Menu
+30,Time-based Menu,Prediction-by-bar Menu
+30,Split Menu with Replication,Prediction-by-color Menu
+30,Split Menu without replication,Prediction-by-color Menu
+30,Transparency Menu,Prediction-by-color Menu
+30,Smart Menu,Prediction-by-rainbow Menu
+30,Transparency Menu,Prediction-by-rainbow Menu
+30,Rainbow menu,Prediction-by-scale Menu
+30,Underlying Menu,Pushpin Menu
+30,Rainbow menu,Temporal Menu
+30,Underlying Menu,Rainbow menu
+30,Rainbow menu,Weared Menu
+30,Step-by-step Menu,Rating Menu
+32,Greyscaling Menu,Blinking Menu
+32,Blurring Menu,Fish-eye Menu
+32,Blurring Menu,Prediction-by-line Menu
+32,Blurring Menu,Step-by-step Menu
+32,Bolding Menu,Frequency-based Menu
+32,Greyscaling Menu,Bubbling Menu
+32,Underlying Menu,Cloud Menu
+32,Ephemeral Menu,Heatmap Menu
+32,Evanescent Menu,Prediction-by-color Menu
+32,Evanescent Menu,Prediction-by-rainbow Menu
+32,Split Menu with Replication,Evanescent Menu
+32,Fish-eye Menu,Pulsing Menu
+32,Temporal Menu,Flower Menu
+32,Underlying Menu,Flower Menu
+32,Weared Menu,Flower Menu
+32,Greyscaling Menu,Font-changing Menu
+32,Frequency-based Menu,Glowing Menu
+32,Glowing Menu,Heatmap Menu
+32,Glowing Menu,Prediction-by-scale Menu
+32,Glowing Menu,Rotating Menu
+32,Split Menu with Replication,Glowing Menu
+32,Glowing Menu,Temporal Menu
+32,Greyscaling Menu,Italiczing Menu
+32,Greyscaling Menu,Temporal Menu
+32,Hyperbolic Menu,Prediction-by-color Menu
+32,Hyperbolic Menu,Rainbow menu
+32,Probability-based Menu,In-context Appearing Menu
+32,Pushpin Menu,In-context Appearing Menu
+32,Prediction-by-bar Menu,Italiczing Menu
+32,Morphing Menu,Square Menu
+32,Out-context Disappearing Menu,Split Menu without replication
+32,Out-context Disappearing Menu,Square Menu
+32,Patined Menu,Prediction-by-bar Menu
+32,Patined Menu,Rating Menu
+32,Patined Menu,Split Menu with Arrowbar
+32,Prediction-by-scale Menu,Polymodal Menu
+32,Prediction-by-scale Menu,Rotating Menu
+32,Transparency Menu,Pulsing Menu
+32,Weared Menu,Pulsing Menu
+32,Temporal Menu,Rotating Menu
+32,Split Menu with Replication,Temporal Menu
+32,Split Menu with Scrollbar,Weared Menu
+32,Transparency Menu,Step-by-step Menu
+32,Underlying Menu,Weared Menu
+33,Probability-based Menu,Blinking Menu
+33,Blurring Menu,Split Menu with Replication
+33,Temporal Menu,Blurring Menu
+33,Bolding Menu,Cloud Menu
+33,Bolding Menu,Twisting Menu
+33,Bubbling Menu,Glowing Menu
+33,In-context Appearing Menu,Bubbling Menu
+33,Smart Menu,Bubbling Menu
+33,Glowing Menu,Cloud Menu
+33,Greyscaling Menu,Cloud Menu
+33,Cloud Menu,Prediction-by-color Menu
+33,Pushpin Menu,Evanescent Menu
+33,Smart Menu,Evanescent Menu
+33,Weared Menu,Evanescent Menu
+33,Fish-eye Menu,Square Menu
+33,Fish-eye Menu,Twisting Menu
+33,Prediction-by-scale Menu,Fish-eye colored menu
+33,Greyscaling Menu,Flower Menu
+33,Rating Menu,Flower Menu
+33,Twisting Menu,Flower Menu
+33,Hyperbolic Menu,Font-changing Menu
+33,Italiczing Menu,Font-changing Menu
+33,Prediction-by-line Menu,Font-changing Menu
+33,Frequency-based Menu,Hyperbolic Menu
+33,Highlighting Menu,Glowing Menu
+33,Glowing Menu,Prediction-by-rainbow Menu
+33,Pushpin Menu,Glowing Menu
+33,Out-context Disappearing Menu,Heatmap Menu
+33,Highlighting Menu,Probability-based Menu
+33,Highlighting Menu,Temporal Menu
+33,Morphing Menu,Hyperbolic Menu
+33,Prediction-by-bar Menu,Hyperbolic Menu
+33,In-context Appearing Menu,Square Menu
+33,Split Menu with Replication,Italiczing Menu
+33,Morphing Menu,Split Menu with Arrowbar
+33,Underlying Menu,Polymodal Menu
+33,Prediction-by-bar Menu,Split Menu without replication
+33,Underlying Menu,Prediction-by-bar Menu
+33,Pushpin Menu,Prediction-by-color Menu
+33,Smart Menu,Prediction-by-color Menu
+33,Tree Menu,Prediction-by-rainbow Menu
+33,Probability-based Menu,Rating Menu
+33,Transparency Menu,Probability-based Menu
+33,Temporal Menu,Pulsing Menu
+33,Smart Menu,Twisting Menu
+35,Blinking Menu,Square Menu
+35,Blurring Menu,Prediction-by-bar Menu
+35,Blurring Menu,Rating Menu
+35,Bolding Menu,Prediction-by-rainbow Menu
+35,Bowing Menu,Evanescent Menu
+35,Bowing Menu,Rainbow menu
+35,Bubbling Menu,Prediction-by-color Menu
+35,Bubbling Menu,Tree Menu
+35,Fish-eye colored menu,Evanescent Menu
+35,Fish-eye Menu,In-context Appearing Menu
+35,Fish-eye Menu,Time-based Menu
+35,Underlying Menu,Fish-eye Menu
+35,Fish-eye colored menu,Heatmap Menu
+35,Fish-eye colored menu,Prediction-by-scale Menu
+35,Rating Menu,Fish-eye colored menu
+35,Highlighting Menu,Flower Menu
+35,Font-changing Menu,Out-context Disappearing Menu
+35,Font-changing Menu,Prediction-by-rainbow Menu
+35,Pushpin Menu,Font-changing Menu
+35,Split Menu with Replication,Font-changing Menu
+35,Rainbow menu,Frequency-based Menu
+35,Greyscaling Menu,Split Menu with Arrowbar
+35,Patined Menu,Heatmap Menu
+35,Rotating Menu,Hyperbolic Menu
+35,Smart Menu,Hyperbolic Menu
+35,Smart Menu,In-context Appearing Menu
+35,Split Menu without replication,In-context Appearing Menu
+35,Pushpin Menu,Italiczing Menu
+35,Morphing Menu,Probability-based Menu
+35,Morphing Menu,Step-by-step Menu
+35,Patined Menu,Smart Menu
+35,Patined Menu,Step-by-step Menu
+35,Transparency Menu,Prediction-by-color Menu
+35,Rating Menu,Prediction-by-line Menu
+35,Pushpin Menu,Prediction-by-rainbow Menu
+35,Rainbow menu,Prediction-by-scale Menu
+35,Rating Menu,Probability-based Menu
+35,Probability-based Menu,Split Menu with Arrowbar
+35,Probability-based Menu,Temporal Menu
+35,Pushpin Menu,Square Menu
+35,Split Menu with Scrollbar,Rainbow menu
+35,Smart Menu,Weared Menu
+35,Underlying Menu,Split Menu with Arrowbar
+35,Temporal Menu,Square Menu
+35,Transparency Menu,Square Menu
+36,Blinking Menu,Probability-based Menu
+36,Blinking Menu,Split Menu with Arrowbar
+36,Split Menu with Scrollbar,Blinking Menu
+36,Blurring Menu,Evanescent Menu
+36,Blurring Menu,Glowing Menu
+36,Blurring Menu,Prediction-by-color Menu
+36,Bowing Menu,Out-context Disappearing Menu
+36,Bowing Menu,Step-by-step Menu
+36,Bubbling Menu,Frequency-based Menu
+36,Bubbling Menu,Split Menu without replication
+36,Cloud Menu,Smart Menu
+36,Cloud Menu,Underlying Menu
+36,Ephemeral Menu,Time-based Menu
+36,Fish-eye colored menu,Evanescent Menu
+36,Patined Menu,Evanescent Menu
+36,Fish-eye Menu,Split Menu with Scrollbar
+36,Fish-eye colored menu,Morphing Menu
+36,Heatmap Menu,Flower Menu
+36,Font-changing Menu,Probability-based Menu
+36,Font-changing Menu,Rating Menu
+36,Font-changing Menu,Rotating Menu
+36,Font-changing Menu,Underlying Menu
+36,Patined Menu,Frequency-based Menu
+36,Greyscaling Menu,Split Menu with Arrowbar
+36,Greyscaling Menu,Split Menu without replication
+36,Underlying Menu,Heatmap Menu
+36,Highlighting Menu,Probability-based Menu
+36,Morphing Menu,Hyperbolic Menu
+36,In-context Appearing Menu,Pulsing Menu
+36,Rainbow menu,In-context Appearing Menu
+36,Weared Menu,Out-context Disappearing Menu
+36,Rainbow menu,Patined Menu
+36,Temporal Menu,Patined Menu
+36,Weared Menu,Prediction-by-bar Menu
+36,Split Menu with Replication,Prediction-by-color Menu
+36,Temporal Menu,Prediction-by-line Menu
+36,Weared Menu,Prediction-by-line Menu
+36,Prediction-by-scale Menu,Twisting Menu
+36,Pushpin Menu,Square Menu
+36,Rainbow menu,Rotating Menu
+36,Split Menu with Replication,Rainbow menu
+36,Rainbow menu,Step-by-step Menu
+36,Rainbow menu,Tree Menu
+36,Transparency Menu,Rating Menu
+36,Split Menu with Scrollbar,Smart Menu
+36,Underlying Menu,Split Menu without replication
+39,Blinking Menu,In-context Appearing Menu
+39,Fish-eye Menu,Frequency-based Menu
+39,Prediction-by-line Menu,Fish-eye colored menu
+39,Twisting Menu,Hyperbolic Menu
+39,Out-context Disappearing Menu,Pushpin Menu
+39,Probability-based Menu,Twisting Menu
+40,Blinking Menu,Rotating Menu
+40,Blurring Menu,Evanescent Menu
+40,Bowing Menu,In-context Appearing Menu
+40,Smart Menu,Bowing Menu
+40,Morphing Menu,Bubbling Menu
+40,Prediction-by-line Menu,Ephemeral Menu
+40,Italiczing Menu,Evanescent Menu
+40,Rainbow menu,Evanescent Menu
+40,Rating Menu,Evanescent Menu
+40,Split Menu without replication,Evanescent Menu
+40,Fish-eye Menu,Prediction-by-color Menu
+40,Flower Menu,Rotating Menu
+40,Font-changing Menu,Glowing Menu
+40,Transparency Menu,Glowing Menu
+40,Greyscaling Menu,Split Menu with Arrowbar
+40,Greyscaling Menu,Tree Menu
+40,Pushpin Menu,Heatmap Menu
+40,Heatmap Menu,Rotating Menu
+40,Hyperbolic Menu,Temporal Menu
+40,Hyperbolic Menu,Time-based Menu
+40,Transparency Menu,In-context Appearing Menu
+40,Italiczing Menu,Prediction-by-color Menu
+40,Probability-based Menu,Italiczing Menu
+40,Split Menu with Scrollbar,Italiczing Menu
+40,Morphing Menu,Split Menu with Arrowbar
+40,Prediction-by-rainbow Menu,Out-context Disappearing Menu
+40,Split Menu with Arrowbar,Out-context Disappearing Menu
+40,Smart Menu,Patined Menu
+40,Prediction-by-bar Menu,Step-by-step Menu
+40,Underlying Menu,Prediction-by-rainbow Menu
+40,Prediction-by-scale Menu,Square Menu
+40,Prediction-by-scale Menu,Twisting Menu
+40,Transparency Menu,Rainbow menu
+40,Rating Menu,Twisting Menu
+40,Rating Menu,Weared Menu
+40,Underlying Menu,Rotating Menu
+40,Smart Menu,Time-based Menu
+40,Split Menu with Scrollbar,Split Menu without replication
+41,Blinking Menu,Rainbow menu
+41,Blinking Menu,Split Menu with Scrollbar
+41,Bolding Menu,Square Menu
+41,Time-based Menu,Bolding Menu
+41,Transparency Menu,Bowing Menu
+41,Bowing Menu,Tree Menu
+41,Underlying Menu,Bowing Menu
+41,Bubbling Menu,Heatmap Menu
+41,Bubbling Menu,Hyperbolic Menu
+41,Polymodal Menu,Bubbling Menu
+41,Polymodal Menu,Cloud Menu
+41,Pulsing Menu,Cloud Menu
+41,Cloud Menu,Split Menu with Replication
+41,Ephemeral Menu,In-context Appearing Menu
+41,Ephemeral Menu,Split Menu with Replication
+41,Ephemeral Menu,Split Menu without replication
+41,Ephemeral Menu,Square Menu
+41,Fish-eye Menu,Pushpin Menu
+41,Fish-eye Menu,Smart Menu
+41,Fish-eye Menu,Underlying Menu
+41,Weared Menu,Fish-eye colored menu
+41,Frequency-based Menu,Prediction-by-line Menu
+41,Transparency Menu,Frequency-based Menu
+41,Highlighting Menu,Glowing Menu
+41,Prediction-by-scale Menu,Heatmap Menu
+41,Transparency Menu,Highlighting Menu
+41,Split Menu with Arrowbar,Hyperbolic Menu
+41,Smart Menu,Italiczing Menu
+41,Split Menu with Scrollbar,Italiczing Menu
+41,Morphing Menu,Prediction-by-color Menu
+41,Smart Menu,Out-context Disappearing Menu
+41,Polymodal Menu,Patined Menu
+41,Patined Menu,Rainbow menu
+41,Prediction-by-bar Menu,Prediction-by-rainbow Menu
+41,Prediction-by-line Menu,Split Menu with Scrollbar
+41,Prediction-by-line Menu,Time-based Menu
+41,Transparency Menu,Prediction-by-line Menu
+41,Underlying Menu,Prediction-by-rainbow Menu
+41,Weared Menu,Prediction-by-rainbow Menu
+41,Probability-based Menu,Time-based Menu
+41,Rating Menu,Split Menu with Arrowbar
+41,Rating Menu,Split Menu without replication
+41,Rating Menu,Temporal Menu
+41,Rating Menu,Tree Menu
+41,Temporal Menu,Step-by-step Menu
+41,Step-by-step Menu,Time-based Menu
+41,Temporal Menu,Tree Menu
+41,Weared Menu,Time-based Menu
+41,Transparency Menu,Tree Menu
+42,Blurring Menu,Glowing Menu
+42,Bolding Menu,Split Menu with Scrollbar
+42,Probability-based Menu,Bowing Menu
+42,Highlighting Menu,Ephemeral Menu
+42,Ephemeral Menu,Smart Menu
+42,Heatmap Menu,Evanescent Menu
+42,Evanescent Menu,Time-based Menu
+42,Tree Menu,Evanescent Menu
+42,Fish-eye colored menu,Out-context Disappearing Menu
+42,Glowing Menu,Flower Menu
+42,Split Menu with Arrowbar,Font-changing Menu
+42,Font-changing Menu,Tree Menu
+42,Greyscaling Menu,Frequency-based Menu
+42,Glowing Menu,Temporal Menu
+42,Twisting Menu,Glowing Menu
+42,Greyscaling Menu,Prediction-by-rainbow Menu
+42,Highlighting Menu,Heatmap Menu
+42,Heatmap Menu,Pushpin Menu
+42,Heatmap Menu,Split Menu with Replication
+42,Highlighting Menu,In-context Appearing Menu
+42,Highlighting Menu,Polymodal Menu
+42,Highlighting Menu,Underlying Menu
+42,Morphing Menu,Smart Menu
+42,Morphing Menu,Time-based Menu
+42,Patined Menu,Prediction-by-line Menu
+42,Split Menu with Scrollbar,Patined Menu
+42,Patined Menu,Time-based Menu
+42,Split Menu without replication,Polymodal Menu
+42,Prediction-by-bar Menu,Prediction-by-rainbow Menu
+42,Prediction-by-bar Menu,Tree Menu
+42,Prediction-by-color Menu,Smart Menu
+42,Prediction-by-rainbow Menu,Probability-based Menu
+42,Square Menu,Prediction-by-rainbow Menu
+42,Twisting Menu,Prediction-by-rainbow Menu
+42,Probability-based Menu,Rating Menu
+42,Probability-based Menu,Split Menu with Scrollbar
+42,Probability-based Menu,Tree Menu
+42,Time-based Menu,Pulsing Menu
+42,Rainbow menu,Tree Menu
+42,Twisting Menu,Rainbow menu
+42,Rating Menu,Split Menu with Arrowbar
+42,Split Menu with Replication,Rotating Menu
+42,Tree Menu,Rotating Menu
+42,Underlying Menu,Square Menu
+42,Temporal Menu,Time-based Menu
+42,Temporal Menu,Tree Menu
+42,Time-based Menu,Weared Menu
+42,Transparency Menu,Underlying Menu
+43,Blinking Menu,Prediction-by-rainbow Menu
+43,Split Menu with Arrowbar,Blurring Menu
+43,Glowing Menu,Bowing Menu
+43,Bubbling Menu,Font-changing Menu
+43,Greyscaling Menu,Bubbling Menu
+43,Bubbling Menu,Highlighting Menu
+43,Bubbling Menu,Transparency Menu
+43,Prediction-by-line Menu,Cloud Menu
+43,Patined Menu,Evanescent Menu
+43,Fish-eye Menu,Rotating Menu
+43,Fish-eye Menu,Step-by-step Menu
+43,Fish-eye colored menu,Heatmap Menu
+43,Hyperbolic Menu,Font-changing Menu
+43,Split Menu without replication,Frequency-based Menu
+43,Smart Menu,Glowing Menu
+43,Weared Menu,Glowing Menu
+43,Greyscaling Menu,Heatmap Menu
+43,Hyperbolic Menu,Rainbow menu
+43,Pushpin Menu,In-context Appearing Menu
+43,Split Menu with Arrowbar,In-context Appearing Menu
+43,Italiczing Menu,Rotating Menu
+43,Italiczing Menu,Time-based Menu
+43,Polymodal Menu,Square Menu
+43,Rating Menu,Prediction-by-color Menu
+43,Rating Menu,Prediction-by-rainbow Menu
+43,Probability-based Menu,Temporal Menu
+43,Rating Menu,Rotating Menu
+43,Tree Menu,Square Menu
+43,Tree Menu,Transparency Menu
+45,Heatmap Menu,Blurring Menu
+45,Bolding Menu,Prediction-by-bar Menu
+45,Bolding Menu,Split Menu with Replication
+45,Bubbling Menu,Rotating Menu
+45,Bubbling Menu,Split Menu with Replication
+45,Bubbling Menu,Transparency Menu
+45,Bubbling Menu,Twisting Menu
+45,Smart Menu,Cloud Menu
+45,Ephemeral Menu,Frequency-based Menu
+45,Step-by-step Menu,Ephemeral Menu
+45,Italiczing Menu,Evanescent Menu
+45,Evanescent Menu,Out-context Disappearing Menu
+45,Weared Menu,Evanescent Menu
+45,Fish-eye Menu,Glowing Menu
+45,Italiczing Menu,Fish-eye Menu
+45,Fish-eye Menu,Prediction-by-bar Menu
+45,Fish-eye Menu,Prediction-by-scale Menu
+45,Highlighting Menu,Fish-eye colored menu
+45,Fish-eye colored menu,Out-context Disappearing Menu
+45,Fish-eye colored menu,Split Menu with Arrowbar
+45,Fish-eye colored menu,Split Menu with Scrollbar
+45,Font-changing Menu,Greyscaling Menu
+45,Font-changing Menu,Tree Menu
+45,Transparency Menu,Frequency-based Menu
+45,Glowing Menu,Morphing Menu
+45,Prediction-by-color Menu,Glowing Menu
+45,Square Menu,Glowing Menu
+45,Greyscaling Menu,Probability-based Menu
+45,Greyscaling Menu,Rotating Menu
+45,Highlighting Menu,Transparency Menu
+45,Underlying Menu,Hyperbolic Menu
+45,In-context Appearing Menu,Rating Menu
+45,Prediction-by-bar Menu,Out-context Disappearing Menu
+45,Patined Menu,Temporal Menu
+45,Prediction-by-color Menu,Transparency Menu
+45,Prediction-by-scale Menu,Prediction-by-line Menu
+45,Smart Menu,Prediction-by-rainbow Menu
+45,Prediction-by-scale Menu,Pulsing Menu
+45,Rainbow menu,Probability-based Menu
+45,Underlying Menu,Rainbow menu
+45,Rating Menu,Smart Menu
+45,Rating Menu,Split Menu with Replication
+45,Rating Menu,Time-based Menu
+45,Smart Menu,Rotating Menu
+45,Transparency Menu,Rotating Menu
+45,Split Menu without replication,Smart Menu
+45,Twisting Menu,Split Menu with Arrowbar
+45,Weared Menu,Split Menu with Replication
+45,Temporal Menu,Split Menu with Scrollbar
+45,Split Menu without replication,Tree Menu
+46,Bubbling Menu,Blurring Menu
+46,Blurring Menu,Out-context Disappearing Menu
+46,Highlighting Menu,Bolding Menu
+46,Bolding Menu,Hyperbolic Menu
+46,Bubbling Menu,Bowing Menu
+46,Bowing Menu,Out-context Disappearing Menu
+46,Bowing Menu,Pushpin Menu
+46,Weared Menu,Bowing Menu
+46,Bubbling Menu,Morphing Menu
+46,Prediction-by-line Menu,Bubbling Menu
+46,Bubbling Menu,Prediction-by-scale Menu
+46,Ephemeral Menu,Prediction-by-rainbow Menu
+46,Smart Menu,Ephemeral Menu
+46,Ephemeral Menu,Twisting Menu
+46,Weared Menu,Ephemeral Menu
+46,Fish-eye Menu,Italiczing Menu
+46,Fish-eye Menu,Patined Menu
+46,Fish-eye Menu,Probability-based Menu
+46,Patined Menu,Fish-eye colored menu
+46,Prediction-by-line Menu,Fish-eye colored menu
+46,Transparency Menu,Flower Menu
+46,Morphing Menu,Font-changing Menu
+46,Frequency-based Menu,Split Menu with Scrollbar
+46,Glowing Menu,In-context Appearing Menu
+46,Glowing Menu,Prediction-by-rainbow Menu
+46,Greyscaling Menu,Polymodal Menu
+46,Morphing Menu,Heatmap Menu
+46,Pulsing Menu,Heatmap Menu
+46,In-context Appearing Menu,Prediction-by-color Menu
+46,Prediction-by-line Menu,Italiczing Menu
+46,Pulsing Menu,Italiczing Menu
+46,Temporal Menu,Italiczing Menu
+46,Transparency Menu,Italiczing Menu
+46,Morphing Menu,Split Menu with Arrowbar
+46,Rating Menu,Patined Menu
+46,Split Menu with Replication,Polymodal Menu
+46,Pushpin Menu,Prediction-by-color Menu
+46,Smart Menu,Prediction-by-color Menu
+46,Pushpin Menu,Prediction-by-scale Menu
+46,Probability-based Menu,Twisting Menu
+46,Pulsing Menu,Temporal Menu
+46,Rainbow menu,Split Menu with Arrowbar
+46,Split Menu without replication,Rating Menu
+46,Transparency Menu,Rotating Menu
+46,Split Menu with Replication,Smart Menu
+46,Split Menu without replication,Temporal Menu
+46,Split Menu without replication,Time-based Menu
+46,Transparency Menu,Underlying Menu
+48,Split Menu with Scrollbar,Blinking Menu
+48,Smart Menu,Blurring Menu
+48,Bolding Menu,Hyperbolic Menu
+48,Frequency-based Menu,Fish-eye Menu
+48,Greyscaling Menu,Flower Menu
+48,Frequency-based Menu,Italiczing Menu
+48,Prediction-by-scale Menu,Glowing Menu
+48,Split Menu without replication,Glowing Menu
+48,Highlighting Menu,Tree Menu
+48,Split Menu with Replication,In-context Appearing Menu
+48,Split Menu with Scrollbar,In-context Appearing Menu
+48,In-context Appearing Menu,Tree Menu
+48,Probability-based Menu,Italiczing Menu
+48,Prediction-by-line Menu,Out-context Disappearing Menu
+48,Split Menu without replication,Prediction-by-bar Menu
+48,Split Menu with Scrollbar,Prediction-by-color Menu
+48,Time-based Menu,Prediction-by-color Menu
+48,Prediction-by-line Menu,Temporal Menu
+48,Split Menu with Scrollbar,Prediction-by-rainbow Menu
+48,Split Menu without replication,Prediction-by-rainbow Menu
+48,Prediction-by-scale Menu,Temporal Menu
+48,Pushpin Menu,Weared Menu
+48,Split Menu with Arrowbar,Rainbow menu
+48,Smart Menu,Temporal Menu
+48,Split Menu with Replication,Split Menu with Arrowbar
+50,Blinking Menu,Split Menu with Replication
+50,Fish-eye Menu,Blurring Menu
+50,Blurring Menu,Heatmap Menu
+50,Blurring Menu,Hyperbolic Menu
+50,Bowing Menu,Fish-eye Menu
+50,Patined Menu,Bubbling Menu
+50,Transparency Menu,Bubbling Menu
+50,Cloud Menu,Greyscaling Menu
+50,Cloud Menu,Split Menu with Replication
+50,Cloud Menu,Time-based Menu
+50,Ephemeral Menu,Flower Menu
+50,Split Menu with Replication,Ephemeral Menu
+50,Font-changing Menu,Evanescent Menu
+50,Frequency-based Menu,Evanescent Menu
+50,Rainbow menu,Fish-eye Menu
+50,Fish-eye Menu,Rotating Menu
+50,Greyscaling Menu,Fish-eye colored menu
+50,Fish-eye colored menu,Rotating Menu
+50,Prediction-by-color Menu,Flower Menu
+50,Font-changing Menu,Highlighting Menu
+50,Font-changing Menu,Pulsing Menu
+50,Glowing Menu,Smart Menu
+50,Greyscaling Menu,Prediction-by-scale Menu
+50,Greyscaling Menu,Rainbow menu
+50,Rating Menu,Heatmap Menu
+50,Transparency Menu,Heatmap Menu
+50,Highlighting Menu,Morphing Menu
+50,Highlighting Menu,Prediction-by-color Menu
+50,Prediction-by-rainbow Menu,Hyperbolic Menu
+50,In-context Appearing Menu,Polymodal Menu
+50,Weared Menu,In-context Appearing Menu
+50,Twisting Menu,Italiczing Menu
+50,Morphing Menu,Pulsing Menu
+50,Morphing Menu,Time-based Menu
+50,Out-context Disappearing Menu,Prediction-by-bar Menu
+50,Out-context Disappearing Menu,Prediction-by-rainbow Menu
+50,Patined Menu,Smart Menu
+50,Prediction-by-line Menu,Prediction-by-bar Menu
+50,Temporal Menu,Prediction-by-bar Menu
+50,Rating Menu,Prediction-by-color Menu
+50,Prediction-by-color Menu,Tree Menu
+50,Transparency Menu,Prediction-by-line Menu
+50,Split Menu with Arrowbar,Prediction-by-rainbow Menu
+50,Transparency Menu,Probability-based Menu
+50,Time-based Menu,Rating Menu
+50,Split Menu with Scrollbar,Weared Menu
+50,Square Menu,Tree Menu
+50,Temporal Menu,Weared Menu
+50,Underlying Menu,Time-based Menu
+51,Blinking Menu,Bubbling Menu
+51,Blinking Menu,Split Menu with Scrollbar
+51,Blurring Menu,Fish-eye Menu
+51,Morphing Menu,Bolding Menu
+51,Bowing Menu,In-context Appearing Menu
+51,Transparency Menu,Bubbling Menu
+51,Italiczing Menu,Evanescent Menu
+51,Probability-based Menu,Evanescent Menu
+51,Fish-eye Menu,Split Menu with Scrollbar
+51,Fish-eye Menu,Transparency Menu
+51,Tree Menu,Fish-eye Menu
+51,Morphing Menu,Fish-eye colored menu
+51,Probability-based Menu,Fish-eye colored menu
+51,Prediction-by-bar Menu,Flower Menu
+51,Transparency Menu,Font-changing Menu
+51,Probability-based Menu,Frequency-based Menu
+51,Glowing Menu,Prediction-by-line Menu
+51,Glowing Menu,Split Menu with Arrowbar
+51,Glowing Menu,Weared Menu
+51,Greyscaling Menu,Italiczing Menu
+51,Greyscaling Menu,Square Menu
+51,Patined Menu,Highlighting Menu
+51,Highlighting Menu,Pulsing Menu
+51,Rating Menu,Highlighting Menu
+51,Highlighting Menu,Smart Menu
+51,Italiczing Menu,Square Menu
+51,Italiczing Menu,Step-by-step Menu
+51,Transparency Menu,Italiczing Menu
+51,Out-context Disappearing Menu,Rotating Menu
+51,Rainbow menu,Patined Menu
+51,Patined Menu,Tree Menu
+51,Underlying Menu,Polymodal Menu
+51,Prediction-by-bar Menu,Temporal Menu
+51,Prediction-by-scale Menu,Prediction-by-rainbow Menu
+51,Prediction-by-rainbow Menu,Split Menu with Arrowbar
+51,Prediction-by-scale Menu,Pulsing Menu
+51,Probability-based Menu,Split Menu without replication
+51,Pushpin Menu,Pulsing Menu
+51,Pulsing Menu,Step-by-step Menu
+51,Time-based Menu,Pulsing Menu
+51,Pushpin Menu,Rainbow menu
+51,Rainbow menu,Weared Menu
+51,Rating Menu,Rotating Menu
+51,Underlying Menu,Smart Menu
+51,Split Menu with Replication,Temporal Menu
+51,Step-by-step Menu,Temporal Menu
+51,Transparency Menu,Step-by-step Menu
+52,Bolding Menu,Flower Menu
+52,Rating Menu,Bolding Menu
+52,Bowing Menu,Ephemeral Menu
+52,Pushpin Menu,Bubbling Menu
+52,Frequency-based Menu,Ephemeral Menu
+52,Out-context Disappearing Menu,Ephemeral Menu
+52,Fish-eye Menu,Tree Menu
+52,Probability-based Menu,Fish-eye colored menu
+52,Font-changing Menu,Heatmap Menu
+52,Weared Menu,Frequency-based Menu
+52,Glowing Menu,Smart Menu
+52,Glowing Menu,Temporal Menu
+52,Greyscaling Menu,Tree Menu
+52,Morphing Menu,Heatmap Menu
+52,Prediction-by-bar Menu,Heatmap Menu
+52,Rating Menu,Heatmap Menu
+52,Prediction-by-bar Menu,Highlighting Menu
+52,Rating Menu,Highlighting Menu
+52,Highlighting Menu,Temporal Menu
+52,Hyperbolic Menu,Split Menu without replication
+52,Prediction-by-bar Menu,In-context Appearing Menu
+52,Rainbow menu,In-context Appearing Menu
+52,Weared Menu,In-context Appearing Menu
+52,Weared Menu,Italiczing Menu
+52,Patined Menu,Prediction-by-line Menu
+52,Patined Menu,Split Menu with Arrowbar
+52,Prediction-by-bar Menu,Polymodal Menu
+52,Prediction-by-bar Menu,Split Menu with Scrollbar
+52,Prediction-by-bar Menu,Step-by-step Menu
+52,Pushpin Menu,Prediction-by-line Menu
+52,Rainbow menu,Prediction-by-line Menu
+52,Pulsing Menu,Square Menu
+52,Pulsing Menu,Underlying Menu
+52,Pushpin Menu,Split Menu with Replication
+52,Rating Menu,Time-based Menu
+52,Twisting Menu,Rotating Menu
+52,Weared Menu,Split Menu with Replication
+52,Weared Menu,Temporal Menu
+52,Transparency Menu,Tree Menu
+54,Ephemeral Menu,Blinking Menu
+54,Bowing Menu,Blurring Menu
+54,Blurring Menu,In-context Appearing Menu
+54,Prediction-by-color Menu,Blurring Menu
+54,Blurring Menu,Split Menu with Replication
+54,Blurring Menu,Step-by-step Menu
+54,Bowing Menu,Frequency-based Menu
+54,Bowing Menu,Out-context Disappearing Menu
+54,Bowing Menu,Smart Menu
+54,Bowing Menu,Split Menu with Scrollbar
+54,Frequency-based Menu,Bubbling Menu
+54,Bubbling Menu,Smart Menu
+54,Highlighting Menu,Cloud Menu
+54,Hyperbolic Menu,Cloud Menu
+54,Italiczing Menu,Cloud Menu
+54,Evanescent Menu,Flower Menu
+54,Italiczing Menu,Evanescent Menu
+54,Fish-eye Menu,Hyperbolic Menu
+54,Prediction-by-line Menu,Fish-eye Menu
+54,Tree Menu,Flower Menu
+54,Heatmap Menu,Font-changing Menu
+54,Tree Menu,Font-changing Menu
+54,Frequency-based Menu,Time-based Menu
+54,Frequency-based Menu,Tree Menu
+54,Frequency-based Menu,Weared Menu
+54,Glowing Menu,Prediction-by-rainbow Menu
+54,Greyscaling Menu,Temporal Menu
+54,Heatmap Menu,Out-context Disappearing Menu
+54,Heatmap Menu,Prediction-by-bar Menu
+54,Heatmap Menu,Pulsing Menu
+54,Highlighting Menu,Out-context Disappearing Menu
+54,Prediction-by-rainbow Menu,Highlighting Menu
+54,Hyperbolic Menu,Morphing Menu
+54,Prediction-by-line Menu,Hyperbolic Menu
+54,In-context Appearing Menu,Prediction-by-scale Menu
+54,Italiczing Menu,Polymodal Menu
+54,Italiczing Menu,Prediction-by-rainbow Menu
+54,Italiczing Menu,Rotating Menu
+54,Patined Menu,Prediction-by-bar Menu
+54,Patined Menu,Step-by-step Menu
+54,Polymodal Menu,Step-by-step Menu
+54,Transparency Menu,Polymodal Menu
+54,Prediction-by-color Menu,Probability-based Menu
+54,Prediction-by-color Menu,Pushpin Menu
+54,Prediction-by-line Menu,Weared Menu
+54,Twisting Menu,Probability-based Menu
+54,Rating Menu,Tree Menu
+54,Split Menu without replication,Rotating Menu
+54,Split Menu with Arrowbar,Step-by-step Menu
+54,Transparency Menu,Square Menu
+55,Blinking Menu,Italiczing Menu
+55,Blinking Menu,Twisting Menu
+55,Greyscaling Menu,Blurring Menu
+55,Patined Menu,Blurring Menu
+55,Glowing Menu,Bubbling Menu
+55,In-context Appearing Menu,Bubbling Menu
+55,Bubbling Menu,Prediction-by-scale Menu
+55,Time-based Menu,Bubbling Menu
+55,Ephemeral Menu,Prediction-by-scale Menu
+55,Fish-eye colored menu,Evanescent Menu
+55,Patined Menu,Evanescent Menu
+55,Evanescent Menu,Prediction-by-color Menu
+55,Fish-eye Menu,Patined Menu
+55,Fish-eye Menu,Polymodal Menu
+55,Fish-eye Menu,Rainbow menu
+55,Fish-eye colored menu,Rating Menu
+55,Highlighting Menu,Flower Menu
+55,Pulsing Menu,Flower Menu
+55,Underlying Menu,Font-changing Menu
+55,Morphing Menu,Frequency-based Menu
+55,Patined Menu,Frequency-based Menu
+55,Glowing Menu,Heatmap Menu
+55,Glowing Menu,In-context Appearing Menu
+55,Greyscaling Menu,Italiczing Menu
+55,Greyscaling Menu,Prediction-by-scale Menu
+55,Greyscaling Menu,Step-by-step Menu
+55,Square Menu,Heatmap Menu
+55,Patined Menu,Highlighting Menu
+55,Time-based Menu,Highlighting Menu
+55,In-context Appearing Menu,Probability-based Menu
+55,Probability-based Menu,Italiczing Menu
+55,Smart Menu,Italiczing Menu
+55,Morphing Menu,Prediction-by-color Menu
+55,Out-context Disappearing Menu,Split Menu with Arrowbar
+55,Square Menu,Patined Menu
+55,Temporal Menu,Prediction-by-color Menu
+55,Rating Menu,Prediction-by-line Menu
+55,Transparency Menu,Prediction-by-line Menu
+55,Pulsing Menu,Rainbow menu
+55,Temporal Menu,Rainbow menu
+55,Smart Menu,Twisting Menu
+55,Split Menu with Replication,Split Menu with Arrowbar
+55,Split Menu with Arrowbar,Split Menu with Scrollbar
+55,Time-based Menu,Split Menu with Replication
+55,Split Menu with Scrollbar,Split Menu without replication
+55,Weared Menu,Split Menu without replication
+56,Blinking Menu,Split Menu with Replication
+56,Temporal Menu,Blinking Menu
+56,Blinking Menu,Twisting Menu
+56,Bolding Menu,Rainbow menu
+56,Rotating Menu,Bolding Menu
+56,Font-changing Menu,Bowing Menu
+56,Bowing Menu,Weared Menu
+56,Ephemeral Menu,Hyperbolic Menu
+56,Ephemeral Menu,Rating Menu
+56,Ephemeral Menu,Split Menu with Replication
+56,Hyperbolic Menu,Evanescent Menu
+56,Probability-based Menu,Fish-eye Menu
+56,Fish-eye Menu,Split Menu with Arrowbar
+56,Frequency-based Menu,Fish-eye colored menu
+56,Fish-eye colored menu,Weared Menu
+56,Transparency Menu,Flower Menu
+56,Highlighting Menu,Font-changing Menu
+56,Font-changing Menu,Tree Menu
+56,Smart Menu,Frequency-based Menu
+56,Frequency-based Menu,Split Menu with Arrowbar
+56,Glowing Menu,Square Menu
+56,Glowing Menu,Temporal Menu
+56,Prediction-by-bar Menu,Greyscaling Menu
+56,Highlighting Menu,Temporal Menu
+56,In-context Appearing Menu,Pushpin Menu
+56,In-context Appearing Menu,Rotating Menu
+56,In-context Appearing Menu,Weared Menu
+56,Rating Menu,Morphing Menu
+56,Morphing Menu,Transparency Menu
+56,Out-context Disappearing Menu,Prediction-by-rainbow Menu
+56,Temporal Menu,Out-context Disappearing Menu
+56,Out-context Disappearing Menu,Transparency Menu
+56,Prediction-by-line Menu,Patined Menu
+56,Prediction-by-scale Menu,Patined Menu
+56,Polymodal Menu,Weared Menu
+56,Prediction-by-bar Menu,Prediction-by-scale Menu
+56,Prediction-by-bar Menu,Step-by-step Menu
+56,Temporal Menu,Prediction-by-color Menu
+56,Pushpin Menu,Prediction-by-rainbow Menu
+56,Time-based Menu,Prediction-by-rainbow Menu
+56,Prediction-by-scale Menu,Split Menu with Replication
+56,Twisting Menu,Probability-based Menu
+56,Underlying Menu,Rainbow menu
+56,Rating Menu,Split Menu with Arrowbar
+56,Rating Menu,Split Menu without replication
+56,Smart Menu,Rotating Menu
+56,Underlying Menu,Split Menu with Scrollbar
+56,Weared Menu,Split Menu with Scrollbar
+56,Underlying Menu,Time-based Menu
+57,Evanescent Menu,Blinking Menu
+57,Morphing Menu,Blinking Menu
+57,Bolding Menu,Blurring Menu
+57,Smart Menu,Blurring Menu
+57,Bolding Menu,Italiczing Menu
+57,Bolding Menu,Square Menu
+57,Bolding Menu,Underlying Menu
+57,Bubbling Menu,Prediction-by-line Menu
+57,Cloud Menu,Greyscaling Menu
+57,Ephemeral Menu,Pushpin Menu
+57,Highlighting Menu,Evanescent Menu
+57,Morphing Menu,Evanescent Menu
+57,Pulsing Menu,Evanescent Menu
+57,Split Menu with Arrowbar,Evanescent Menu
+57,Fish-eye Menu,Transparency Menu
+57,Fish-eye colored menu,Heatmap Menu
+57,Fish-eye colored menu,Twisting Menu
+57,Font-changing Menu,Flower Menu
+57,Heatmap Menu,Flower Menu
+57,Prediction-by-line Menu,Flower Menu
+57,Flower Menu,Rotating Menu
+57,Font-changing Menu,Pulsing Menu
+57,Font-changing Menu,Smart Menu
+57,Prediction-by-line Menu,Frequency-based Menu
+57,Glowing Menu,Prediction-by-bar Menu
+57,Probability-based Menu,Glowing Menu
+57,Glowing Menu,Rotating Menu
+57,Greyscaling Menu,Hyperbolic Menu
+57,Pulsing Menu,Greyscaling Menu
+57,Greyscaling Menu,Rotating Menu
+57,Tree Menu,Highlighting Menu
+57,Prediction-by-line Menu,Hyperbolic Menu
+57,In-context Appearing Menu,Prediction-by-scale Menu
+57,Rating Menu,In-context Appearing Menu
+57,Morphing Menu,Smart Menu
+57,Patined Menu,Prediction-by-scale Menu
+57,Patined Menu,Split Menu with Arrowbar
+57,Polymodal Menu,Tree Menu
+57,Split Menu with Replication,Prediction-by-bar Menu
+57,Prediction-by-color Menu,Rotating Menu
+57,Split Menu with Replication,Prediction-by-rainbow Menu
+57,Smart Menu,Probability-based Menu
+57,Pulsing Menu,Split Menu with Scrollbar
+57,Rainbow menu,Tree Menu
+57,Rating Menu,Smart Menu
+57,Split Menu with Replication,Rotating Menu
+57,Transparency Menu,Split Menu with Arrowbar
+57,Split Menu with Replication,Split Menu without replication
+58,Blurring Menu,Italiczing Menu
+58,Blurring Menu,Rating Menu
+58,Blurring Menu,Split Menu with Arrowbar
+58,Blurring Menu,Split Menu with Scrollbar
+58,Blurring Menu,Temporal Menu
+58,Bolding Menu,Frequency-based Menu
+58,Bolding Menu,Split Menu without replication
+58,Bowing Menu,Bubbling Menu
+58,Italiczing Menu,Bubbling Menu
+58,Cloud Menu,Greyscaling Menu
+58,Highlighting Menu,Cloud Menu
+58,Pushpin Menu,Cloud Menu
+58,Prediction-by-line Menu,Ephemeral Menu
+58,Prediction-by-rainbow Menu,Evanescent Menu
+58,Step-by-step Menu,Fish-eye Menu
+58,Temporal Menu,Fish-eye Menu
+58,Greyscaling Menu,Fish-eye colored menu
+58,Probability-based Menu,Fish-eye colored menu
+58,Glowing Menu,Prediction-by-rainbow Menu
+58,Step-by-step Menu,Heatmap Menu
+58,Highlighting Menu,Patined Menu
+58,Pulsing Menu,Hyperbolic Menu
+58,Underlying Menu,Italiczing Menu
+58,Pushpin Menu,Morphing Menu
+58,Underlying Menu,Morphing Menu
+58,Rainbow menu,Out-context Disappearing Menu
+58,Split Menu without replication,Patined Menu
+58,Temporal Menu,Patined Menu
+58,Polymodal Menu,Split Menu with Scrollbar
+58,Pulsing Menu,Tree Menu
+58,Square Menu,Rainbow menu
+58,Rating Menu,Weared Menu
+58,Square Menu,Rotating Menu
+58,Rotating Menu,Step-by-step Menu
+58,Transparency Menu,Rotating Menu
+58,Smart Menu,Split Menu with Replication
+58,Split Menu with Arrowbar,Square Menu
+58,Square Menu,Split Menu with Scrollbar
+58,Step-by-step Menu,Temporal Menu
+58,Transparency Menu,Twisting Menu
+58,Underlying Menu,Weared Menu
+60,Blinking Menu,Blurring Menu
+60,Blinking Menu,Weared Menu
+60,Blurring Menu,Rotating Menu
+60,Probability-based Menu,Bowing Menu
+60,Split Menu with Replication,Bowing Menu
+60,Bubbling Menu,Highlighting Menu
+60,Underlying Menu,Bubbling Menu
+60,Cloud Menu,Fish-eye colored menu
+60,Greyscaling Menu,Cloud Menu
+60,Prediction-by-bar Menu,Cloud Menu
+60,Cloud Menu,Probability-based Menu
+60,Ephemeral Menu,Twisting Menu
+60,Highlighting Menu,Evanescent Menu
+60,Smart Menu,Fish-eye Menu
+60,Fish-eye colored menu,Rotating Menu
+60,Fish-eye colored menu,Split Menu with Arrowbar
+60,Twisting Menu,Fish-eye colored menu
+60,Prediction-by-bar Menu,Flower Menu
+60,Font-changing Menu,Step-by-step Menu
+60,Font-changing Menu,Tree Menu
+60,Split Menu with Scrollbar,Frequency-based Menu
+60,Frequency-based Menu,Time-based Menu
+60,Glowing Menu,Italiczing Menu
+60,Greyscaling Menu,Morphing Menu
+60,Greyscaling Menu,Prediction-by-rainbow Menu
+60,Greyscaling Menu,Rating Menu
+60,Italiczing Menu,Heatmap Menu
+60,Prediction-by-scale Menu,Heatmap Menu
+60,Transparency Menu,Heatmap Menu
+60,Highlighting Menu,Prediction-by-color Menu
+60,Highlighting Menu,Transparency Menu
+60,Prediction-by-bar Menu,Hyperbolic Menu
+60,Split Menu with Replication,Hyperbolic Menu
+60,Transparency Menu,Hyperbolic Menu
+60,Weared Menu,In-context Appearing Menu
+60,Split Menu with Replication,Morphing Menu
+60,Weared Menu,Patined Menu
+60,Split Menu without replication,Polymodal Menu
+60,Prediction-by-bar Menu,Split Menu with Scrollbar
+60,Prediction-by-bar Menu,Time-based Menu
+60,Prediction-by-color Menu,Pulsing Menu
+60,Smart Menu,Prediction-by-color Menu
+60,Prediction-by-line Menu,Pushpin Menu
+60,Prediction-by-line Menu,Split Menu with Arrowbar
+60,Prediction-by-line Menu,Weared Menu
+60,Prediction-by-rainbow Menu,Time-based Menu
+60,Prediction-by-scale Menu,Smart Menu
+60,Probability-based Menu,Transparency Menu
+60,Probability-based Menu,Twisting Menu
+60,Rating Menu,Pulsing Menu
+60,Smart Menu,Pulsing Menu
+60,Pushpin Menu,Step-by-step Menu
+60,Split Menu with Replication,Split Menu with Arrowbar
+60,Split Menu with Scrollbar,Square Menu
+60,Split Menu with Scrollbar,Time-based Menu
+60,Transparency Menu,Split Menu with Scrollbar
+60,Weared Menu,Split Menu with Scrollbar
+60,Underlying Menu,Temporal Menu
+62,Blinking Menu,Bolding Menu
+62,Blinking Menu,Flower Menu
+62,Blinking Menu,Rainbow menu
+62,Fish-eye Menu,Blurring Menu
+62,Blurring Menu,Pushpin Menu
+62,Bolding Menu,Probability-based Menu
+62,Prediction-by-rainbow Menu,Bubbling Menu
+62,Cloud Menu,Patined Menu
+62,Cloud Menu,Probability-based Menu
+62,Cloud Menu,Weared Menu
+62,Ephemeral Menu,Font-changing Menu
+62,Frequency-based Menu,Ephemeral Menu
+62,Morphing Menu,Ephemeral Menu
+62,Ephemeral Menu,Out-context Disappearing Menu
+62,Ephemeral Menu,Split Menu with Arrowbar
+62,Evanescent Menu,Prediction-by-color Menu
+62,Evanescent Menu,Tree Menu
+62,Fish-eye Menu,Glowing Menu
+62,Fish-eye colored menu,Prediction-by-line Menu
+62,Prediction-by-rainbow Menu,Flower Menu
+62,Rating Menu,Flower Menu
+62,Glowing Menu,Font-changing Menu
+62,Italiczing Menu,Font-changing Menu
+62,Split Menu with Scrollbar,Font-changing Menu
+62,Frequency-based Menu,Prediction-by-color Menu
+62,Pulsing Menu,Frequency-based Menu
+62,Frequency-based Menu,Smart Menu
+62,Glowing Menu,Smart Menu
+62,Square Menu,Glowing Menu
+62,Greyscaling Menu,Prediction-by-scale Menu
+62,Highlighting Menu,Heatmap Menu
+62,Heatmap Menu,Rotating Menu
+62,Hyperbolic Menu,Prediction-by-line Menu
+62,Prediction-by-bar Menu,In-context Appearing Menu
+62,Morphing Menu,Out-context Disappearing Menu
+62,Morphing Menu,Pushpin Menu
+62,Transparency Menu,Morphing Menu
+62,Split Menu with Replication,Out-context Disappearing Menu
+62,Patined Menu,Smart Menu
+62,Prediction-by-bar Menu,Tree Menu
+62,Prediction-by-color Menu,Probability-based Menu
+62,Rating Menu,Prediction-by-rainbow Menu
+62,Tree Menu,Pushpin Menu
+62,Time-based Menu,Tree Menu
+62,Time-based Menu,Underlying Menu
+62,Twisting Menu,Transparency Menu
+62,Transparency Menu,Underlying Menu
+62,Transparency Menu,Weared Menu
+65,Blurring Menu,Blinking Menu
+65,Bowing Menu,Blinking Menu
+65,Blinking Menu,Polymodal Menu
+65,Time-based Menu,Blinking Menu
+65,Blurring Menu,Bubbling Menu
+65,Blurring Menu,Out-context Disappearing Menu
+65,Blurring Menu,Patined Menu
+65,Blurring Menu,Twisting Menu
+65,Bolding Menu,In-context Appearing Menu
+65,Prediction-by-bar Menu,Bolding Menu
+65,Bolding Menu,Time-based Menu
+65,Morphing Menu,Bowing Menu
+65,Prediction-by-scale Menu,Bubbling Menu
+65,Pushpin Menu,Bubbling Menu
+65,Cloud Menu,Flower Menu
+65,Cloud Menu,Tree Menu
+65,Heatmap Menu,Evanescent Menu
+65,Italiczing Menu,Evanescent Menu
+65,Weared Menu,Evanescent Menu
+65,Frequency-based Menu,Fish-eye Menu
+65,Fish-eye colored menu,Twisting Menu
+65,Prediction-by-bar Menu,Flower Menu
+65,Prediction-by-bar Menu,Font-changing Menu
+65,Frequency-based Menu,Glowing Menu
+65,Greyscaling Menu,Frequency-based Menu
+65,Frequency-based Menu,Italiczing Menu
+65,In-context Appearing Menu,Heatmap Menu
+65,Highlighting Menu,Rainbow menu
+65,Highlighting Menu,Rotating Menu
+65,Highlighting Menu,Smart Menu
+65,Rating Menu,In-context Appearing Menu
+65,Out-context Disappearing Menu,Italiczing Menu
+65,Italiczing Menu,Smart Menu
+65,Morphing Menu,Time-based Menu
+65,Transparency Menu,Patined Menu
+65,Prediction-by-bar Menu,Polymodal Menu
+65,Split Menu with Scrollbar,Polymodal Menu
+65,Prediction-by-bar Menu,Prediction-by-color Menu
+65,Prediction-by-bar Menu,Prediction-by-rainbow Menu
+65,Rating Menu,Prediction-by-bar Menu
+65,Prediction-by-line Menu,Time-based Menu
+65,Prediction-by-rainbow Menu,Smart Menu
+65,Prediction-by-scale Menu,Smart Menu
+65,Pushpin Menu,Probability-based Menu
+65,Probability-based Menu,Underlying Menu
+65,Weared Menu,Probability-based Menu
+65,Pulsing Menu,Square Menu
+65,Split Menu with Scrollbar,Rainbow menu
+65,Split Menu with Replication,Time-based Menu
+65,Transparency Menu,Step-by-step Menu
+67,Hyperbolic Menu,Blinking Menu
+67,Italiczing Menu,Blurring Menu
+67,Blurring Menu,Split Menu with Scrollbar
+67,Bolding Menu,Probability-based Menu
+67,Underlying Menu,Bolding Menu
+67,Bowing Menu,Prediction-by-scale Menu
+67,Tree Menu,Bowing Menu
+67,Bubbling Menu,Prediction-by-rainbow Menu
+67,Hyperbolic Menu,Ephemeral Menu
+67,Fish-eye Menu,Glowing Menu
+67,Tree Menu,Flower Menu
+67,Font-changing Menu,Pushpin Menu
+67,Frequency-based Menu,Hyperbolic Menu
+67,Frequency-based Menu,Split Menu with Scrollbar
+67,Split Menu with Replication,Glowing Menu
+67,Step-by-step Menu,Glowing Menu
+67,Greyscaling Menu,Weared Menu
+67,In-context Appearing Menu,Rotating Menu
+67,Split Menu without replication,In-context Appearing Menu
+67,Transparency Menu,In-context Appearing Menu
+67,Morphing Menu,Pulsing Menu
+67,Split Menu without replication,Morphing Menu
+67,Time-based Menu,Out-context Disappearing Menu
+67,Pulsing Menu,Split Menu with Arrowbar
+67,Square Menu,Rainbow menu
+67,Rainbow menu,Twisting Menu
+67,Square Menu,Split Menu with Arrowbar
+67,Transparency Menu,Split Menu with Replication
+67,Transparency Menu,Split Menu with Scrollbar
+67,Square Menu,Step-by-step Menu
+67,Tree Menu,Step-by-step Menu
+68,Bolding Menu,Blinking Menu
+68,Morphing Menu,Blinking Menu
+68,Out-context Disappearing Menu,Blinking Menu
+68,Patined Menu,Blinking Menu
+68,Step-by-step Menu,Blinking Menu
+68,Bowing Menu,Fish-eye colored menu
+68,Bowing Menu,Hyperbolic Menu
+68,Bowing Menu,Prediction-by-color Menu
+68,Bubbling Menu,Ephemeral Menu
+68,Bubbling Menu,Evanescent Menu
+68,Bubbling Menu,Rotating Menu
+68,Cloud Menu,Ephemeral Menu
+68,Cloud Menu,Evanescent Menu
+68,Cloud Menu,Font-changing Menu
+68,Cloud Menu,Twisting Menu
+68,Ephemeral Menu,Polymodal Menu
+68,Evanescent Menu,Prediction-by-line Menu
+68,Evanescent Menu,Underlying Menu
+68,Fish-eye Menu,Frequency-based Menu
+68,Fish-eye colored menu,In-context Appearing Menu
+68,Fish-eye colored menu,Rainbow menu
+68,In-context Appearing Menu,Flower Menu
+68,Prediction-by-bar Menu,Flower Menu
+68,Glowing Menu,Font-changing Menu
+68,In-context Appearing Menu,Frequency-based Menu
+68,Out-context Disappearing Menu,Glowing Menu
+68,Probability-based Menu,Glowing Menu
+68,Italiczing Menu,Heatmap Menu
+68,Patined Menu,Heatmap Menu
+68,Highlighting Menu,Patined Menu
+68,Rainbow menu,Highlighting Menu
+68,Rainbow menu,Hyperbolic Menu
+68,Weared Menu,Hyperbolic Menu
+68,Patined Menu,Polymodal Menu
+68,Prediction-by-bar Menu,Rotating Menu
+68,Prediction-by-line Menu,Rotating Menu
+68,Pulsing Menu,Prediction-by-scale Menu
+68,Rainbow menu,Prediction-by-scale Menu
+68,Prediction-by-scale Menu,Square Menu
+68,Pushpin Menu,Rotating Menu
+68,Pushpin Menu,Weared Menu
+68,Rating Menu,Split Menu with Scrollbar
+68,Temporal Menu,Rotating Menu
+68,Split Menu with Replication,Split Menu without replication
+68,Temporal Menu,Split Menu without replication
+68,Weared Menu,Step-by-step Menu
+68,Time-based Menu,Weared Menu
+68,Weared Menu,Tree Menu
+69,Bolding Menu,Italiczing Menu
+69,Bolding Menu,Step-by-step Menu
+69,Highlighting Menu,Bowing Menu
+69,Bubbling Menu,In-context Appearing Menu
+69,Bubbling Menu,Split Menu without replication
+69,Transparency Menu,Bubbling Menu
+69,Ephemeral Menu,Fish-eye colored menu
+69,Heatmap Menu,Ephemeral Menu
+69,Prediction-by-line Menu,Ephemeral Menu
+69,Prediction-by-line Menu,Fish-eye colored menu
+69,Probability-based Menu,Fish-eye colored menu
+69,Flower Menu,Pulsing Menu
+69,Frequency-based Menu,Morphing Menu
+69,Frequency-based Menu,Twisting Menu
+69,Glowing Menu,Weared Menu
+69,Prediction-by-color Menu,Heatmap Menu
+69,Highlighting Menu,Italiczing Menu
+69,Highlighting Menu,Morphing Menu
+69,Highlighting Menu,Prediction-by-scale Menu
+69,In-context Appearing Menu,Rotating Menu
+69,In-context Appearing Menu,Temporal Menu
+69,In-context Appearing Menu,Weared Menu
+69,Rainbow menu,Morphing Menu
+69,Rating Menu,Prediction-by-bar Menu
+69,Rating Menu,Prediction-by-line Menu
+69,Prediction-by-rainbow Menu,Step-by-step Menu
+69,Twisting Menu,Prediction-by-scale Menu
+69,Smart Menu,Probability-based Menu
+69,Probability-based Menu,Step-by-step Menu
+69,Pushpin Menu,Temporal Menu
+69,Rainbow menu,Step-by-step Menu
+69,Rating Menu,Square Menu
+69,Split Menu with Replication,Temporal Menu
+69,Twisting Menu,Split Menu with Scrollbar
+70,Blinking Menu,Polymodal Menu
+70,Blinking Menu,Prediction-by-rainbow Menu
+70,Blinking Menu,Step-by-step Menu
+70,Blurring Menu,Prediction-by-color Menu
+70,Ephemeral Menu,Bolding Menu
+70,Pushpin Menu,Bolding Menu
+70,Bowing Menu,Out-context Disappearing Menu
+70,Bowing Menu,Probability-based Menu
+70,Bowing Menu,Pulsing Menu
+70,Bubbling Menu,Flower Menu
+70,Bubbling Menu,Out-context Disappearing Menu
+70,Prediction-by-color Menu,Bubbling Menu
+70,Smart Menu,Bubbling Menu
+70,Cloud Menu,Temporal Menu
+70,Prediction-by-line Menu,Evanescent Menu
+70,Fish-eye Menu,Patined Menu
+70,Prediction-by-scale Menu,Fish-eye Menu
+70,Fish-eye Menu,Pushpin Menu
+70,Flower Menu,Polymodal Menu
+70,Frequency-based Menu,Split Menu with Arrowbar
+70,Frequency-based Menu,Step-by-step Menu
+70,Tree Menu,Frequency-based Menu
+70,Glowing Menu,Weared Menu
+70,Rainbow menu,Greyscaling Menu
+70,Greyscaling Menu,Underlying Menu
+70,Heatmap Menu,Prediction-by-rainbow Menu
+70,Heatmap Menu,Split Menu with Replication
+70,Highlighting Menu,Split Menu with Scrollbar
+70,Hyperbolic Menu,Underlying Menu
+70,Rating Menu,In-context Appearing Menu
+70,Pushpin Menu,Italiczing Menu
+70,Split Menu with Scrollbar,Italiczing Menu
+70,Morphing Menu,Split Menu without replication
+70,Out-context Disappearing Menu,Step-by-step Menu
+70,Square Menu,Polymodal Menu
+70,Prediction-by-color Menu,Prediction-by-line Menu
+70,Pushpin Menu,Prediction-by-rainbow Menu
+70,Rotating Menu,Probability-based Menu
+70,Pulsing Menu,Weared Menu
+70,Smart Menu,Split Menu with Replication
+70,Time-based Menu,Square Menu
+70,Tree Menu,Weared Menu
+73,Fish-eye Menu,Rating Menu
+73,Fish-eye Menu,Transparency Menu
+73,Font-changing Menu,Rainbow menu
+73,Font-changing Menu,Weared Menu
+73,Patined Menu,Pulsing Menu
+73,Tree Menu,Polymodal Menu
+73,Step-by-step Menu,Smart Menu
+73,Split Menu with Arrowbar,Tree Menu
+73,Step-by-step Menu,Split Menu with Replication
+73,Step-by-step Menu,Split Menu with Scrollbar
+73,Weared Menu,Square Menu
+74,Heatmap Menu,Blinking Menu
+74,Blinking Menu,Split Menu with Arrowbar
+74,Blurring Menu,Pushpin Menu
+74,Blurring Menu,Twisting Menu
+74,Evanescent Menu,Bolding Menu
+74,Bolding Menu,Rotating Menu
+74,Bolding Menu,Split Menu with Replication
+74,Cloud Menu,Probability-based Menu
+74,Evanescent Menu,Prediction-by-color Menu
+74,Fish-eye Menu,Prediction-by-line Menu
+74,Flower Menu,Out-context Disappearing Menu
+74,Flower Menu,Pulsing Menu
+74,Time-based Menu,Font-changing Menu
+74,Polymodal Menu,Glowing Menu
+74,Temporal Menu,Greyscaling Menu
+74,Underlying Menu,Hyperbolic Menu
+74,Split Menu without replication,In-context Appearing Menu
+74,Italiczing Menu,Rating Menu
+74,Polymodal Menu,Square Menu
+74,Prediction-by-bar Menu,Split Menu with Arrowbar
+74,Rating Menu,Prediction-by-color Menu
+74,Prediction-by-color Menu,Step-by-step Menu
+74,Smart Menu,Probability-based Menu
+74,Pulsing Menu,Rotating Menu
+74,Time-based Menu,Pushpin Menu
+74,Pushpin Menu,Transparency Menu
+74,Split Menu with Scrollbar,Rotating Menu
+74,Twisting Menu,Smart Menu
+74,Underlying Menu,Split Menu with Scrollbar
+76,Bolding Menu,Blinking Menu
+76,Prediction-by-color Menu,Blinking Menu
+76,Bowing Menu,Rainbow menu
+76,Smart Menu,Bowing Menu
+76,Bubbling Menu,Tree Menu
+76,Fish-eye Menu,Cloud Menu
+76,Cloud Menu,Out-context Disappearing Menu
+76,Prediction-by-bar Menu,Cloud Menu
+76,Split Menu without replication,Cloud Menu
+76,Ephemeral Menu,Flower Menu
+76,Italiczing Menu,Ephemeral Menu
+76,Square Menu,Ephemeral Menu
+76,Time-based Menu,Ephemeral Menu
+76,Patined Menu,Evanescent Menu
+76,Polymodal Menu,Evanescent Menu
+76,Fish-eye Menu,Out-context Disappearing Menu
+76,Prediction-by-scale Menu,Fish-eye Menu
+76,Prediction-by-scale Menu,Flower Menu
+76,Font-changing Menu,Patined Menu
+76,Morphing Menu,Glowing Menu
+76,Pulsing Menu,Glowing Menu
+76,Pushpin Menu,Glowing Menu
+76,Smart Menu,Glowing Menu
+76,Heatmap Menu,Pulsing Menu
+76,Highlighting Menu,Out-context Disappearing Menu
+76,Highlighting Menu,Pulsing Menu
+76,Highlighting Menu,Rotating Menu
+76,Prediction-by-color Menu,Hyperbolic Menu
+76,Rating Menu,Hyperbolic Menu
+76,Split Menu without replication,Hyperbolic Menu
+76,Smart Menu,In-context Appearing Menu
+76,Step-by-step Menu,In-context Appearing Menu
+76,Morphing Menu,Prediction-by-scale Menu
+76,Split Menu without replication,Polymodal Menu
+76,Prediction-by-color Menu,Rotating Menu
+76,Smart Menu,Prediction-by-rainbow Menu
+76,Probability-based Menu,Rotating Menu
+76,Rating Menu,Pulsing Menu
+76,Underlying Menu,Pulsing Menu
+76,Rating Menu,Twisting Menu
+76,Tree Menu,Rotating Menu
+76,Split Menu with Replication,Tree Menu
+76,Split Menu with Scrollbar,Step-by-step Menu
+76,Split Menu with Scrollbar,Tree Menu
+76,Split Menu without replication,Step-by-step Menu
+76,Transparency Menu,Twisting Menu
+78,Blinking Menu,Rainbow menu
+78,Blinking Menu,Split Menu with Scrollbar
+78,Blinking Menu,Transparency Menu
+78,Blurring Menu,Heatmap Menu
+78,Rotating Menu,Blurring Menu
+78,Bolding Menu,Frequency-based Menu
+78,Bolding Menu,Out-context Disappearing Menu
+78,Bowing Menu,Heatmap Menu
+78,Bowing Menu,Pushpin Menu
+78,Cloud Menu,Frequency-based Menu
+78,In-context Appearing Menu,Cloud Menu
+78,Cloud Menu,Prediction-by-color Menu
+78,Temporal Menu,Cloud Menu
+78,Ephemeral Menu,Weared Menu
+78,Evanescent Menu,Pushpin Menu
+78,Rotating Menu,Evanescent Menu
+78,Transparency Menu,Evanescent Menu
+78,Fish-eye Menu,Flower Menu
+78,Temporal Menu,Fish-eye Menu
+78,Pushpin Menu,Font-changing Menu
+78,Temporal Menu,Font-changing Menu
+78,Heatmap Menu,Frequency-based Menu
+78,Rating Menu,Frequency-based Menu
+78,Glowing Menu,Smart Menu
+78,Greyscaling Menu,Hyperbolic Menu
+78,Heatmap Menu,Morphing Menu
+78,Heatmap Menu,Weared Menu
+78,Highlighting Menu,Prediction-by-color Menu
+78,Highlighting Menu,Transparency Menu
+78,Underlying Menu,Highlighting Menu
+78,Prediction-by-line Menu,Hyperbolic Menu
+78,In-context Appearing Menu,Prediction-by-rainbow Menu
+78,In-context Appearing Menu,Probability-based Menu
+78,Morphing Menu,Polymodal Menu
+78,Underlying Menu,Morphing Menu
+78,Patined Menu,Split Menu with Replication
+78,Patined Menu,Square Menu
+78,Rotating Menu,Prediction-by-bar Menu
+78,Prediction-by-line Menu,Rainbow menu
+78,Rotating Menu,Prediction-by-scale Menu
+78,Pulsing Menu,Step-by-step Menu
+78,Pulsing Menu,Underlying Menu
+78,Underlying Menu,Pushpin Menu
+78,Rainbow menu,Split Menu without replication
+78,Rating Menu,Step-by-step Menu
+78,Underlying Menu,Split Menu with Arrowbar
+78,Underlying Menu,Split Menu with Replication
+78,Underlying Menu,Step-by-step Menu
+78,Tree Menu,Time-based Menu
+80,Bowing Menu,Blinking Menu
+80,Prediction-by-scale Menu,Blinking Menu
+80,Blurring Menu,Ephemeral Menu
+80,Prediction-by-bar Menu,Cloud Menu
+80,Fish-eye Menu,Ephemeral Menu
+80,Highlighting Menu,Fish-eye Menu
+80,Prediction-by-bar Menu,Fish-eye colored menu
+80,Probability-based Menu,Fish-eye colored menu
+80,Split Menu with Replication,Frequency-based Menu
+80,Prediction-by-scale Menu,Glowing Menu
+80,Glowing Menu,Tree Menu
+80,Greyscaling Menu,Hyperbolic Menu
+80,Highlighting Menu,Split Menu with Arrowbar
+80,Split Menu with Scrollbar,Italiczing Menu
+80,Rating Menu,Smart Menu
+80,Split Menu with Arrowbar,Temporal Menu
+80,Underlying Menu,Temporal Menu
+81,Prediction-by-color Menu,Blinking Menu
+81,Blinking Menu,Prediction-by-line Menu
+81,Probability-based Menu,Blinking Menu
+81,Blinking Menu,Temporal Menu
+81,Greyscaling Menu,Blurring Menu
+81,Blurring Menu,Rotating Menu
+81,Bolding Menu,Fish-eye colored menu
+81,Prediction-by-bar Menu,Bolding Menu
+81,Probability-based Menu,Bubbling Menu
+81,Pulsing Menu,Cloud Menu
+81,Ephemeral Menu,Flower Menu
+81,Italiczing Menu,Ephemeral Menu
+81,Heatmap Menu,Evanescent Menu
+81,Morphing Menu,Evanescent Menu
+81,Prediction-by-line Menu,Evanescent Menu
+81,Highlighting Menu,Fish-eye colored menu
+81,Fish-eye colored menu,Italiczing Menu
+81,Fish-eye colored menu,Pulsing Menu
+81,Hyperbolic Menu,Flower Menu
+81,In-context Appearing Menu,Font-changing Menu
+81,Transparency Menu,Font-changing Menu
+81,Frequency-based Menu,Rotating Menu
+81,Greyscaling Menu,Split Menu with Replication
+81,Heatmap Menu,Italiczing Menu
+81,Rating Menu,Heatmap Menu
+81,Heatmap Menu,Weared Menu
+81,Highlighting Menu,Split Menu with Scrollbar
+81,Hyperbolic Menu,Prediction-by-color Menu
+81,Hyperbolic Menu,Prediction-by-line Menu
+81,Pushpin Menu,Hyperbolic Menu
+81,Step-by-step Menu,In-context Appearing Menu
+81,Italiczing Menu,Polymodal Menu
+81,Prediction-by-bar Menu,Italiczing Menu
+81,Pulsing Menu,Italiczing Menu
+81,Out-context Disappearing Menu,Rotating Menu
+81,Pulsing Menu,Patined Menu
+81,Prediction-by-line Menu,Smart Menu
+81,Prediction-by-rainbow Menu,Temporal Menu
+81,Pushpin Menu,Twisting Menu
+81,Temporal Menu,Rotating Menu
+81,Step-by-step Menu,Smart Menu
+81,Square Menu,Split Menu with Arrowbar
+81,Time-based Menu,Split Menu with Arrowbar
+81,Split Menu with Replication,Weared Menu
+81,Tree Menu,Split Menu without replication
+81,Underlying Menu,Split Menu without replication
+81,Split Menu without replication,Weared Menu
+81,Time-based Menu,Transparency Menu
+81,Time-based Menu,Weared Menu
+81,Transparency Menu,Weared Menu
+82,Blinking Menu,Hyperbolic Menu
+82,Blinking Menu,Polymodal Menu
+82,Blinking Menu,Temporal Menu
+82,Morphing Menu,Blurring Menu
+82,Prediction-by-color Menu,Blurring Menu
+82,Rating Menu,Blurring Menu
+82,Blurring Menu,Transparency Menu
+82,Bubbling Menu,Bolding Menu
+82,Pushpin Menu,Bolding Menu
+82,Pulsing Menu,Bubbling Menu
+82,Bubbling Menu,Square Menu
+82,Cloud Menu,Hyperbolic Menu
+82,Cloud Menu,Tree Menu
+82,Cloud Menu,Twisting Menu
+82,Split Menu without replication,Ephemeral Menu
+82,Evanescent Menu,Fish-eye Menu
+82,Evanescent Menu,Hyperbolic Menu
+82,Prediction-by-scale Menu,Flower Menu
+82,Flower Menu,Rainbow menu
+82,Flower Menu,Split Menu without replication
+82,In-context Appearing Menu,Font-changing Menu
+82,Font-changing Menu,Italiczing Menu
+82,Twisting Menu,Font-changing Menu
+82,Frequency-based Menu,Morphing Menu
+82,Frequency-based Menu,Weared Menu
+82,Glowing Menu,Greyscaling Menu
+82,Heatmap Menu,Prediction-by-rainbow Menu
+82,Probability-based Menu,Highlighting Menu
+82,Underlying Menu,Highlighting Menu
+82,Polymodal Menu,Hyperbolic Menu
+82,Transparency Menu,Hyperbolic Menu
+82,Morphing Menu,In-context Appearing Menu
+82,Rating Menu,Italiczing Menu
+82,Italiczing Menu,Temporal Menu
+82,Morphing Menu,Prediction-by-rainbow Menu
+82,Tree Menu,Out-context Disappearing Menu
+82,Out-context Disappearing Menu,Weared Menu
+82,Rainbow menu,Prediction-by-color Menu
+82,Prediction-by-line Menu,Time-based Menu
+82,Prediction-by-rainbow Menu,Probability-based Menu
+82,Prediction-by-scale Menu,Split Menu with Arrowbar
+82,Probability-based Menu,Pulsing Menu
+82,Pushpin Menu,Step-by-step Menu
+82,Split Menu with Scrollbar,Rotating Menu
+82,Smart Menu,Step-by-step Menu
+82,Twisting Menu,Split Menu with Arrowbar
+82,Underlying Menu,Step-by-step Menu
+82,Temporal Menu,Time-based Menu
+84,Split Menu without replication,Blinking Menu
+84,Bowing Menu,Blurring Menu
+84,Font-changing Menu,Blurring Menu
+84,Prediction-by-scale Menu,Blurring Menu
+84,Probability-based Menu,Blurring Menu
+84,Transparency Menu,Blurring Menu
+84,Bolding Menu,Cloud Menu
+84,Bolding Menu,Morphing Menu
+84,Bowing Menu,Prediction-by-rainbow Menu
+84,Flower Menu,Bubbling Menu
+84,Bubbling Menu,Glowing Menu
+84,Split Menu without replication,Bubbling Menu
+84,Tree Menu,Bubbling Menu
+84,Twisting Menu,Cloud Menu
+84,Font-changing Menu,Ephemeral Menu
+84,Prediction-by-color Menu,Ephemeral Menu
+84,Weared Menu,Evanescent Menu
+84,Rating Menu,Fish-eye Menu
+84,Glowing Menu,Fish-eye colored menu
+84,Prediction-by-bar Menu,Fish-eye colored menu
+84,Split Menu with Arrowbar,Fish-eye colored menu
+84,Flower Menu,Heatmap Menu
+84,Font-changing Menu,Greyscaling Menu
+84,Font-changing Menu,Out-context Disappearing Menu
+84,Frequency-based Menu,Weared Menu
+84,Tree Menu,Glowing Menu
+84,Underlying Menu,Greyscaling Menu
+84,Highlighting Menu,Twisting Menu
+84,Split Menu with Replication,In-context Appearing Menu
+84,Underlying Menu,Italiczing Menu
+84,Pushpin Menu,Morphing Menu
+84,Morphing Menu,Temporal Menu
+84,Weared Menu,Morphing Menu
+84,Split Menu with Scrollbar,Patined Menu
+84,Prediction-by-bar Menu,Polymodal Menu
+84,Prediction-by-bar Menu,Split Menu without replication
+84,Pulsing Menu,Prediction-by-color Menu
+84,Prediction-by-color Menu,Split Menu with Arrowbar
+84,Transparency Menu,Prediction-by-color Menu
+84,Transparency Menu,Prediction-by-rainbow Menu
+84,Split Menu with Arrowbar,Pulsing Menu
+84,Transparency Menu,Rainbow menu
+84,Rating Menu,Split Menu with Arrowbar
+84,Rating Menu,Split Menu without replication
+84,Split Menu with Replication,Square Menu
+84,Split Menu with Scrollbar,Temporal Menu
+84,Square Menu,Step-by-step Menu
+84,Time-based Menu,Square Menu
+84,Transparency Menu,Temporal Menu
+84,Tree Menu,Transparency Menu
+85,Smart Menu,Blurring Menu
+85,Blurring Menu,Temporal Menu
+85,Highlighting Menu,Bolding Menu
+85,Bowing Menu,Glowing Menu
+85,Highlighting Menu,Bowing Menu
+85,Cloud Menu,Fish-eye Menu
+85,Cloud Menu,Hyperbolic Menu
+85,Cloud Menu,Weared Menu
+85,Fish-eye Menu,Prediction-by-rainbow Menu
+85,Split Menu without replication,Fish-eye Menu
+85,Fish-eye colored menu,Font-changing Menu
+85,Fish-eye colored menu,In-context Appearing Menu
+85,Out-context Disappearing Menu,Fish-eye colored menu
+85,Pushpin Menu,Fish-eye colored menu
+85,Underlying Menu,Fish-eye colored menu
+85,Fish-eye colored menu,Weared Menu
+85,Italiczing Menu,Flower Menu
+85,Font-changing Menu,Pulsing Menu
+85,Font-changing Menu,Tree Menu
+85,Frequency-based Menu,Polymodal Menu
+85,Frequency-based Menu,Prediction-by-line Menu
+85,Frequency-based Menu,Prediction-by-rainbow Menu
+85,Glowing Menu,Morphing Menu
+85,Glowing Menu,Tree Menu
+85,Greyscaling Menu,Split Menu without replication
+85,Heatmap Menu,Prediction-by-line Menu
+85,Temporal Menu,Highlighting Menu
+85,Rainbow menu,Hyperbolic Menu
+85,Italiczing Menu,Pulsing Menu
+85,Morphing Menu,Rotating Menu
+85,Temporal Menu,Morphing Menu
+85,Out-context Disappearing Menu,Prediction-by-line Menu
+85,Transparency Menu,Out-context Disappearing Menu
+85,Polymodal Menu,Prediction-by-color Menu
+85,Prediction-by-rainbow Menu,Polymodal Menu
+85,Polymodal Menu,Prediction-by-scale Menu
+85,Probability-based Menu,Polymodal Menu
+85,Underlying Menu,Prediction-by-color Menu
+85,Prediction-by-line Menu,Rotating Menu
+85,Split Menu without replication,Prediction-by-rainbow Menu
+85,Split Menu with Scrollbar,Prediction-by-scale Menu
+85,Underlying Menu,Probability-based Menu
+85,Pushpin Menu,Split Menu without replication
+85,Pushpin Menu,Weared Menu
+85,Temporal Menu,Rainbow menu
+85,Split Menu with Scrollbar,Twisting Menu
+85,Step-by-step Menu,Tree Menu
+85,Underlying Menu,Step-by-step Menu
+85,Transparency Menu,Tree Menu
+85,Transparency Menu,Twisting Menu
+86,Italiczing Menu,Blinking Menu
+86,Split Menu with Replication,Blinking Menu
+86,Pushpin Menu,Blurring Menu
+86,Blurring Menu,Square Menu
+86,Bolding Menu,Prediction-by-rainbow Menu
+86,Probability-based Menu,Bolding Menu
+86,Bowing Menu,Prediction-by-color Menu
+86,Bowing Menu,Pulsing Menu
+86,Bubbling Menu,Cloud Menu
+86,Ephemeral Menu,Hyperbolic Menu
+86,Ephemeral Menu,Prediction-by-rainbow Menu
+86,Probability-based Menu,Ephemeral Menu
+86,Patined Menu,Fish-eye colored menu
+86,Rainbow menu,Fish-eye colored menu
+86,Rating Menu,Fish-eye colored menu
+86,Split Menu with Scrollbar,Fish-eye colored menu
+86,Underlying Menu,Fish-eye colored menu
+86,Patined Menu,Flower Menu
+86,Font-changing Menu,Heatmap Menu
+86,Font-changing Menu,Prediction-by-color Menu
+86,Font-changing Menu,Split Menu with Scrollbar
+86,Frequency-based Menu,Out-context Disappearing Menu
+86,Frequency-based Menu,Prediction-by-color Menu
+86,Temporal Menu,Glowing Menu
+86,Highlighting Menu,Hyperbolic Menu
+86,Highlighting Menu,In-context Appearing Menu
+86,Highlighting Menu,Pushpin Menu
+86,In-context Appearing Menu,Prediction-by-scale Menu
+86,In-context Appearing Menu,Rating Menu
+86,Prediction-by-bar Menu,Italiczing Menu
+86,Prediction-by-bar Menu,Prediction-by-scale Menu
+86,Prediction-by-bar Menu,Twisting Menu
+86,Probability-based Menu,Split Menu with Replication
+86,Probability-based Menu,Weared Menu
+86,Split Menu with Arrowbar,Pulsing Menu
+86,Pushpin Menu,Twisting Menu
+86,Rating Menu,Square Menu
+86,Split Menu with Replication,Temporal Menu
+86,Split Menu without replication,Step-by-step Menu
+86,Time-based Menu,Step-by-step Menu
+86,Time-based Menu,Temporal Menu
+86,Time-based Menu,Weared Menu
+86,Tree Menu,Twisting Menu
+87,Out-context Disappearing Menu,Blinking Menu
+87,Patined Menu,Blinking Menu
+87,Blurring Menu,Evanescent Menu
+87,Blurring Menu,Underlying Menu
+87,Bolding Menu,Smart Menu
+87,Bowing Menu,Patined Menu
+87,Pushpin Menu,Bowing Menu
+87,Glowing Menu,Cloud Menu
+87,Italiczing Menu,Cloud Menu
+87,Cloud Menu,Rotating Menu
+87,Font-changing Menu,Evanescent Menu
+87,Highlighting Menu,Evanescent Menu
+87,Polymodal Menu,Evanescent Menu
+87,Evanescent Menu,Time-based Menu
+87,Evanescent Menu,Tree Menu
+87,Highlighting Menu,Fish-eye Menu
+87,Fish-eye Menu,Split Menu with Scrollbar
+87,Fish-eye Menu,Time-based Menu
+87,Fish-eye colored menu,Out-context Disappearing Menu
+87,Transparency Menu,Fish-eye colored menu
+87,Flower Menu,Rotating Menu
+87,Font-changing Menu,Smart Menu
+87,Font-changing Menu,Square Menu
+87,Prediction-by-line Menu,Glowing Menu
+87,Rainbow menu,Glowing Menu
+87,Rating Menu,Glowing Menu
+87,Greyscaling Menu,Out-context Disappearing Menu
+87,Greyscaling Menu,Step-by-step Menu
+87,Highlighting Menu,Prediction-by-rainbow Menu
+87,Highlighting Menu,Pulsing Menu
+87,Highlighting Menu,Split Menu with Replication
+87,Prediction-by-color Menu,Hyperbolic Menu
+87,Prediction-by-color Menu,In-context Appearing Menu
+87,Patined Menu,Out-context Disappearing Menu
+87,Probability-based Menu,Out-context Disappearing Menu
+87,Polymodal Menu,Split Menu with Replication
+87,Polymodal Menu,Square Menu
+87,Underlying Menu,Prediction-by-bar Menu
+87,Prediction-by-color Menu,Smart Menu
+87,Prediction-by-color Menu,Split Menu with Arrowbar
+87,Prediction-by-color Menu,Twisting Menu
+87,Rating Menu,Prediction-by-line Menu
+87,Step-by-step Menu,Prediction-by-rainbow Menu
+87,Transparency Menu,Probability-based Menu
+87,Transparency Menu,Pulsing Menu
+87,Rating Menu,Smart Menu
+87,Rating Menu,Step-by-step Menu
+87,Step-by-step Menu,Rotating Menu
+87,Twisting Menu,Temporal Menu
+87,Weared Menu,Time-based Menu
+90,Bubbling Menu,Blinking Menu
+90,Blinking Menu,Tree Menu
+90,Blurring Menu,Fish-eye Menu
+90,Prediction-by-color Menu,Blurring Menu
+90,Blurring Menu,Split Menu with Scrollbar
+90,Split Menu with Arrowbar,Bowing Menu
+90,Bubbling Menu,Glowing Menu
+90,Pushpin Menu,Bubbling Menu
+90,Cloud Menu,Italiczing Menu
+90,Highlighting Menu,Evanescent Menu
+90,Pushpin Menu,Evanescent Menu
+90,Evanescent Menu,Split Menu without replication
+90,Fish-eye Menu,Flower Menu
+90,Morphing Menu,Fish-eye Menu
+90,Split Menu with Replication,Fish-eye Menu
+90,Underlying Menu,Fish-eye Menu
+90,Split Menu with Replication,Fish-eye colored menu
+90,Underlying Menu,Fish-eye colored menu
+90,Prediction-by-rainbow Menu,Flower Menu
+90,Underlying Menu,Font-changing Menu
+90,Frequency-based Menu,Split Menu with Replication
+90,Rating Menu,Glowing Menu
+90,Transparency Menu,Glowing Menu
+90,Glowing Menu,Twisting Menu
+90,Highlighting Menu,Prediction-by-scale Menu
+90,Split Menu with Replication,In-context Appearing Menu
+90,Italiczing Menu,Rotating Menu
+90,Morphing Menu,Time-based Menu
+90,Patined Menu,Square Menu
+90,Prediction-by-color Menu,Smart Menu
+90,Prediction-by-color Menu,Twisting Menu
+90,Prediction-by-color Menu,Underlying Menu
+90,Prediction-by-line Menu,Smart Menu
+90,Prediction-by-rainbow Menu,Pulsing Menu
+90,Split Menu with Scrollbar,Prediction-by-scale Menu
+90,Pushpin Menu,Rotating Menu
+90,Pushpin Menu,Step-by-step Menu
+90,Rating Menu,Split Menu with Scrollbar
+90,Rating Menu,Underlying Menu
+90,Rating Menu,Weared Menu
+90,Rotating Menu,Time-based Menu
+90,Underlying Menu,Smart Menu
+90,Temporal Menu,Twisting Menu
+90,Underlying Menu,Twisting Menu
+92,Fish-eye Menu,Blinking Menu
+92,Rating Menu,Blinking Menu
+92,Split Menu with Replication,Blinking Menu
+92,Greyscaling Menu,Bolding Menu
+92,Bowing Menu,Evanescent Menu
+92,Bowing Menu,Prediction-by-rainbow Menu
+92,Bowing Menu,Temporal Menu
+92,Bubbling Menu,In-context Appearing Menu
+92,Bubbling Menu,Italiczing Menu
+92,Bubbling Menu,Temporal Menu
+92,Frequency-based Menu,Cloud Menu
+92,Ephemeral Menu,Rainbow menu
+92,Time-based Menu,Ephemeral Menu
+92,Pulsing Menu,Flower Menu
+92,Rating Menu,Font-changing Menu
+92,Frequency-based Menu,Temporal Menu
+92,Underlying Menu,In-context Appearing Menu
+92,Split Menu with Replication,Morphing Menu
+92,Square Menu,Morphing Menu
+92,Time-based Menu,Morphing Menu
+92,Transparency Menu,Out-context Disappearing Menu
+92,Time-based Menu,Polymodal Menu
+92,Rating Menu,Prediction-by-color Menu
+92,Time-based Menu,Prediction-by-line Menu
+92,Split Menu with Scrollbar,Prediction-by-rainbow Menu
+92,Prediction-by-scale Menu,Temporal Menu
+92,Pushpin Menu,Split Menu with Replication
+92,Split Menu without replication,Split Menu with Scrollbar
+92,Split Menu with Scrollbar,Step-by-step Menu
+92,Square Menu,Step-by-step Menu
+93,Frequency-based Menu,Blurring Menu
+93,Blurring Menu,Split Menu with Arrowbar
+93,Blurring Menu,Split Menu with Replication
+93,Prediction-by-color Menu,Bolding Menu
+93,Temporal Menu,Bolding Menu
+93,Bolding Menu,Underlying Menu
+93,Prediction-by-rainbow Menu,Bowing Menu
+93,Bowing Menu,Underlying Menu
+93,Bubbling Menu,Prediction-by-line Menu
+93,Font-changing Menu,Ephemeral Menu
+93,Ephemeral Menu,Prediction-by-bar Menu
+93,Ephemeral Menu,Step-by-step Menu
+93,Time-based Menu,Ephemeral Menu
+93,Evanescent Menu,Pushpin Menu
+93,Underlying Menu,Evanescent Menu
+93,Fish-eye Menu,Highlighting Menu
+93,Fish-eye Menu,Polymodal Menu
+93,Fish-eye Menu,Prediction-by-bar Menu
+93,Fish-eye Menu,Split Menu without replication
+93,Fish-eye colored menu,Step-by-step Menu
+93,Fish-eye colored menu,Temporal Menu
+93,Fish-eye colored menu,Time-based Menu
+93,Fish-eye colored menu,Twisting Menu
+93,Font-changing Menu,Highlighting Menu
+93,Heatmap Menu,Frequency-based Menu
+93,Morphing Menu,Frequency-based Menu
+93,Glowing Menu,Prediction-by-bar Menu
+93,Smart Menu,Glowing Menu
+93,Greyscaling Menu,Probability-based Menu
+93,Smart Menu,Heatmap Menu
+93,Temporal Menu,Heatmap Menu
+93,Transparency Menu,Heatmap Menu
+93,Underlying Menu,Hyperbolic Menu
+93,Split Menu with Replication,In-context Appearing Menu
+93,Morphing Menu,Out-context Disappearing Menu
+93,Morphing Menu,Smart Menu
+93,Morphing Menu,Split Menu without replication
+93,Split Menu with Arrowbar,Out-context Disappearing Menu
+93,Transparency Menu,Out-context Disappearing Menu
+93,Polymodal Menu,Split Menu with Scrollbar
+93,Prediction-by-color Menu,Prediction-by-scale Menu
+93,Prediction-by-rainbow Menu,Rainbow menu
+93,Temporal Menu,Prediction-by-scale Menu
+93,Probability-based Menu,Smart Menu
+93,Pulsing Menu,Split Menu with Scrollbar
+93,Rating Menu,Tree Menu
+93,Split Menu with Scrollbar,Rotating Menu
+93,Time-based Menu,Rotating Menu
+93,Split Menu with Replication,Split Menu without replication
+93,Tree Menu,Step-by-step Menu
+95,Pushpin Menu,Blurring Menu
+95,Bolding Menu,Greyscaling Menu
+95,Bolding Menu,Step-by-step Menu
+95,Bowing Menu,Polymodal Menu
+95,Prediction-by-bar Menu,Bowing Menu
+95,Morphing Menu,Cloud Menu
+95,Flower Menu,Ephemeral Menu
+95,Ephemeral Menu,Tree Menu
+95,Evanescent Menu,Prediction-by-line Menu
+95,Transparency Menu,Evanescent Menu
+95,Fish-eye colored menu,Frequency-based Menu
+95,Glowing Menu,Fish-eye colored menu
+95,Fish-eye colored menu,Morphing Menu
+95,Fish-eye colored menu,Probability-based Menu
+95,Font-changing Menu,Probability-based Menu
+95,Font-changing Menu,Split Menu without replication
+95,Prediction-by-scale Menu,Frequency-based Menu
+95,Pulsing Menu,Frequency-based Menu
+95,Heatmap Menu,Split Menu with Arrowbar
+95,Heatmap Menu,Tree Menu
+95,Heatmap Menu,Twisting Menu
+95,Highlighting Menu,Tree Menu
+95,Hyperbolic Menu,Rotating Menu
+95,Hyperbolic Menu,Split Menu with Scrollbar
+95,Split Menu with Arrowbar,Italiczing Menu
+95,Italiczing Menu,Square Menu
+95,Prediction-by-bar Menu,Morphing Menu
+95,Prediction-by-bar Menu,Out-context Disappearing Menu
+95,Rotating Menu,Out-context Disappearing Menu
+95,Split Menu with Replication,Patined Menu
+95,Prediction-by-bar Menu,Prediction-by-rainbow Menu
+95,Prediction-by-color Menu,Square Menu
+95,Prediction-by-line Menu,Rotating Menu
+95,Square Menu,Prediction-by-line Menu
+95,Prediction-by-scale Menu,Split Menu with Scrollbar
+95,Prediction-by-scale Menu,Tree Menu
+95,Rainbow menu,Pulsing Menu
+95,Pulsing Menu,Tree Menu
+95,Pushpin Menu,Split Menu with Arrowbar
+95,Pushpin Menu,Underlying Menu
+95,Rainbow menu,Split Menu with Arrowbar
+95,Underlying Menu,Smart Menu
+95,Split Menu with Replication,Tree Menu
+95,Split Menu with Scrollbar,Temporal Menu
+95,Split Menu without replication,Tree Menu
+95,Underlying Menu,Split Menu without replication
+95,Underlying Menu,Time-based Menu
+96,Blinking Menu,Fish-eye Menu
+96,Blinking Menu,Flower Menu
+96,Twisting Menu,Blinking Menu
+96,Blurring Menu,Out-context Disappearing Menu
+96,Bolding Menu,Time-based Menu
+96,Bolding Menu,Transparency Menu
+96,Ephemeral Menu,Bowing Menu
+96,Square Menu,Bowing Menu
+96,Font-changing Menu,Bubbling Menu
+96,Probability-based Menu,Bubbling Menu
+96,Cloud Menu,Prediction-by-bar Menu
+96,Rainbow menu,Cloud Menu
+96,Highlighting Menu,Ephemeral Menu
+96,Italiczing Menu,Ephemeral Menu
+96,Ephemeral Menu,Split Menu with Scrollbar
+96,Twisting Menu,Ephemeral Menu
+96,Out-context Disappearing Menu,Evanescent Menu
+96,Evanescent Menu,Split Menu without replication
+96,Patined Menu,Fish-eye Menu
+96,Underlying Menu,Fish-eye Menu
+96,Fish-eye Menu,Fish-eye colored menu
+96,Glowing Menu,Fish-eye colored menu
+96,Rating Menu,Fish-eye colored menu
+96,Fish-eye colored menu,Split Menu with Replication
+96,Font-changing Menu,Tree Menu
+96,Transparency Menu,Frequency-based Menu
+96,Square Menu,Glowing Menu
+96,Transparency Menu,Heatmap Menu
+96,Highlighting Menu,Underlying Menu
+96,Prediction-by-rainbow Menu,Hyperbolic Menu
+96,Probability-based Menu,In-context Appearing Menu
+96,Probability-based Menu,Morphing Menu
+96,Out-context Disappearing Menu,Split Menu with Scrollbar
+96,Patined Menu,Weared Menu
+96,Underlying Menu,Prediction-by-color Menu
+96,Prediction-by-line Menu,Split Menu with Replication
+96,Prediction-by-rainbow Menu,Rotating Menu
+96,Square Menu,Prediction-by-rainbow Menu
+96,Split Menu without replication,Prediction-by-scale Menu
+96,Probability-based Menu,Smart Menu
+96,Probability-based Menu,Split Menu with Arrowbar
+96,Pulsing Menu,Pushpin Menu
+96,Pulsing Menu,Rating Menu
+96,Square Menu,Pulsing Menu
+96,Pushpin Menu,Smart Menu
+96,Square Menu,Rating Menu
+96,Transparency Menu,Split Menu with Arrowbar
+96,Split Menu with Scrollbar,Split Menu without replication
+97,Blinking Menu,Morphing Menu
+97,Underlying Menu,Blinking Menu
+97,Highlighting Menu,Blurring Menu
+97,Blurring Menu,Morphing Menu
+97,Bolding Menu,Bubbling Menu
+97,Frequency-based Menu,Bolding Menu
+97,Split Menu with Replication,Bolding Menu
+97,Cloud Menu,Bowing Menu
+97,Bowing Menu,Pulsing Menu
+97,Bubbling Menu,Evanescent Menu
+97,Bubbling Menu,Greyscaling Menu
+97,Split Menu with Replication,Bubbling Menu
+97,Bubbling Menu,Temporal Menu
+97,Underlying Menu,Bubbling Menu
+97,Pushpin Menu,Cloud Menu
+97,Evanescent Menu,Time-based Menu
+97,Transparency Menu,Evanescent Menu
+97,Fish-eye Menu,Weared Menu
+97,Split Menu with Scrollbar,Flower Menu
+97,Font-changing Menu,Probability-based Menu
+97,Font-changing Menu,Temporal Menu
+97,Transparency Menu,Frequency-based Menu
+97,Step-by-step Menu,Glowing Menu
+97,Patined Menu,Heatmap Menu
+97,Rating Menu,Heatmap Menu
+97,Prediction-by-scale Menu,Hyperbolic Menu
+97,Hyperbolic Menu,Tree Menu
+97,In-context Appearing Menu,Polymodal Menu
+97,Probability-based Menu,In-context Appearing Menu
+97,Italiczing Menu,Square Menu
+97,Patined Menu,Pulsing Menu
+97,Patined Menu,Split Menu with Arrowbar
+97,Square Menu,Polymodal Menu
+97,Underlying Menu,Prediction-by-color Menu
+97,Probability-based Menu,Prediction-by-line Menu
+97,Split Menu with Arrowbar,Probability-based Menu
+97,Pulsing Menu,Rainbow menu
+97,Pulsing Menu,Temporal Menu
+97,Transparency Menu,Pulsing Menu
+97,Rainbow menu,Rating Menu
+97,Time-based Menu,Rating Menu
+97,Step-by-step Menu,Rotating Menu
+97,Square Menu,Split Menu with Arrowbar
+97,Underlying Menu,Split Menu without replication
+97,Square Menu,Underlying Menu
+99,Blinking Menu,Frequency-based Menu
+99,Evanescent Menu,Bolding Menu
+99,Smart Menu,Bolding Menu
+99,Bubbling Menu,Rating Menu
+99,Evanescent Menu,Fish-eye colored menu
+99,Evanescent Menu,Out-context Disappearing Menu
+99,Step-by-step Menu,Fish-eye Menu
+99,Smart Menu,Fish-eye colored menu
+99,Flower Menu,Time-based Menu
+99,Prediction-by-line Menu,Frequency-based Menu
+99,Split Menu with Scrollbar,Frequency-based Menu
+99,Glowing Menu,Prediction-by-bar Menu
+99,Split Menu without replication,Glowing Menu
+99,Highlighting Menu,Twisting Menu
+99,Split Menu with Replication,Hyperbolic Menu
+99,Morphing Menu,Prediction-by-color Menu
+99,Out-context Disappearing Menu,Prediction-by-rainbow Menu
+99,Step-by-step Menu,Out-context Disappearing Menu
+99,Polymodal Menu,Temporal Menu
+99,Time-based Menu,Prediction-by-bar Menu
+99,Split Menu without replication,Prediction-by-color Menu
+99,Split Menu without replication,Prediction-by-rainbow Menu
+99,Probability-based Menu,Weared Menu
+99,Tree Menu,Rainbow menu
+99,Time-based Menu,Rating Menu
+99,Split Menu with Replication,Rotating Menu
+99,Split Menu without replication,Rotating Menu
+99,Smart Menu,Time-based Menu
+99,Square Menu,Twisting Menu
+99,Step-by-step Menu,Temporal Menu
+101,Step-by-step Menu,Blurring Menu
+101,Bowing Menu,Flower Menu
+101,Ephemeral Menu,Time-based Menu
+101,Fish-eye Menu,Flower Menu
+101,In-context Appearing Menu,Fish-eye Menu
+101,Highlighting Menu,Split Menu with Arrowbar
+101,Morphing Menu,Hyperbolic Menu
+101,In-context Appearing Menu,Probability-based Menu
+101,Patined Menu,Transparency Menu
+101,Weared Menu,Prediction-by-line Menu
+101,Tree Menu,Pushpin Menu
+101,Smart Menu,Rating Menu
+101,Split Menu without replication,Tree Menu
+102,Blinking Menu,Hyperbolic Menu
+102,Font-changing Menu,Blurring Menu
+102,Split Menu with Arrowbar,Bubbling Menu
+102,Cloud Menu,Prediction-by-rainbow Menu
+102,Fish-eye Menu,Highlighting Menu
+102,Temporal Menu,Fish-eye Menu
+102,Fish-eye colored menu,In-context Appearing Menu
+102,Frequency-based Menu,Prediction-by-line Menu
+102,Square Menu,Glowing Menu
+102,Heatmap Menu,Prediction-by-line Menu
+102,Heatmap Menu,Twisting Menu
+102,Highlighting Menu,Rating Menu
+102,Out-context Disappearing Menu,Hyperbolic Menu
+102,Patined Menu,In-context Appearing Menu
+102,In-context Appearing Menu,Underlying Menu
+102,Transparency Menu,Italiczing Menu
+102,Morphing Menu,Split Menu without replication
+102,Morphing Menu,Square Menu
+102,Out-context Disappearing Menu,Rotating Menu
+102,Out-context Disappearing Menu,Smart Menu
+102,Out-context Disappearing Menu,Underlying Menu
+102,Patined Menu,Pulsing Menu
+102,Patined Menu,Tree Menu
+102,Transparency Menu,Polymodal Menu
+102,Transparency Menu,Prediction-by-line Menu
+102,Smart Menu,Prediction-by-rainbow Menu
+102,Transparency Menu,Prediction-by-scale Menu
+102,Smart Menu,Pulsing Menu
+102,Split Menu with Scrollbar,Pulsing Menu
+102,Smart Menu,Underlying Menu
+102,Step-by-step Menu,Split Menu without replication
+102,Split Menu without replication,Weared Menu
+102,Square Menu,Weared Menu
+102,Transparency Menu,Step-by-step Menu
+103,Blurring Menu,Fish-eye Menu
+103,Frequency-based Menu,Bolding Menu
+103,Font-changing Menu,Bowing Menu
+103,Bubbling Menu,Prediction-by-line Menu
+103,Twisting Menu,Bubbling Menu
+103,Ephemeral Menu,Frequency-based Menu
+103,Ephemeral Menu,Hyperbolic Menu
+103,Flower Menu,Glowing Menu
+103,Font-changing Menu,Highlighting Menu
+103,Font-changing Menu,Rating Menu
+103,Temporal Menu,Greyscaling Menu
+103,In-context Appearing Menu,Weared Menu
+103,Transparency Menu,Patined Menu
+103,Probability-based Menu,Twisting Menu
+103,Split Menu without replication,Rainbow menu
+103,Rainbow menu,Weared Menu
+103,Transparency Menu,Underlying Menu
+110,Blinking Menu,Bubbling Menu
+110,Blinking Menu,Glowing Menu
+110,Patined Menu,Blinking Menu
+110,Pulsing Menu,Blinking Menu
+110,Blinking Menu,Square Menu
+110,Transparency Menu,Blinking Menu
+110,Blinking Menu,Tree Menu
+110,Blurring Menu,Prediction-by-rainbow Menu
+110,Smart Menu,Blurring Menu
+110,Bolding Menu,Fish-eye colored menu
+110,Bolding Menu,Italiczing Menu
+110,Bowing Menu,Out-context Disappearing Menu
+110,Bowing Menu,Prediction-by-line Menu
+110,Frequency-based Menu,Bubbling Menu
+110,Cloud Menu,Font-changing Menu
+110,Pushpin Menu,Cloud Menu
+110,Smart Menu,Ephemeral Menu
+110,Underlying Menu,Ephemeral Menu
+110,Fish-eye Menu,Out-context Disappearing Menu
+110,Fish-eye Menu,Fish-eye colored menu
+110,Probability-based Menu,Fish-eye colored menu
+110,Twisting Menu,Fish-eye colored menu
+110,Underlying Menu,Flower Menu
+110,Split Menu with Replication,Font-changing Menu
+110,Underlying Menu,Font-changing Menu
+110,Greyscaling Menu,Temporal Menu
+110,Prediction-by-line Menu,Heatmap Menu
+110,Step-by-step Menu,Heatmap Menu
+110,Underlying Menu,Hyperbolic Menu
+110,In-context Appearing Menu,Morphing Menu
+110,Rainbow menu,In-context Appearing Menu
+110,Polymodal Menu,Italiczing Menu
+110,Smart Menu,Italiczing Menu
+110,Probability-based Menu,Out-context Disappearing Menu
+110,Rating Menu,Out-context Disappearing Menu
+110,Step-by-step Menu,Patined Menu
+110,Patined Menu,Underlying Menu
+110,Split Menu with Replication,Prediction-by-bar Menu
+110,Split Menu with Scrollbar,Prediction-by-rainbow Menu
+110,Step-by-step Menu,Prediction-by-rainbow Menu
+110,Prediction-by-rainbow Menu,Temporal Menu
+110,Underlying Menu,Prediction-by-rainbow Menu
+110,Probability-based Menu,Prediction-by-scale Menu
+110,Probability-based Menu,Rainbow menu
+110,Pushpin Menu,Split Menu without replication
+110,Rating Menu,Split Menu with Arrowbar
+110,Rating Menu,Time-based Menu
+110,Split Menu without replication,Split Menu with Arrowbar
+110,Split Menu with Arrowbar,Weared Menu
+110,Step-by-step Menu,Time-based Menu
+114,Bolding Menu,Blinking Menu
+114,Morphing Menu,Blinking Menu
+114,Patined Menu,Blinking Menu
+114,Temporal Menu,Blinking Menu
+114,Bolding Menu,Time-based Menu
+114,Prediction-by-rainbow Menu,Bowing Menu
+114,In-context Appearing Menu,Cloud Menu
+114,Cloud Menu,Rainbow menu
+114,Split Menu with Replication,Cloud Menu
+114,Ephemeral Menu,Time-based Menu
+114,Evanescent Menu,Temporal Menu
+114,Fish-eye colored menu,Prediction-by-color Menu
+114,Fish-eye colored menu,Square Menu
+114,Greyscaling Menu,Flower Menu
+114,In-context Appearing Menu,Flower Menu
+114,Morphing Menu,Flower Menu
+114,Patined Menu,Flower Menu
+114,Font-changing Menu,Prediction-by-color Menu
+114,Greyscaling Menu,Frequency-based Menu
+114,Frequency-based Menu,Weared Menu
+114,Greyscaling Menu,Prediction-by-line Menu
+114,Greyscaling Menu,Square Menu
+114,Heatmap Menu,Polymodal Menu
+114,Transparency Menu,Hyperbolic Menu
+114,Split Menu with Replication,In-context Appearing Menu
+114,Pushpin Menu,Morphing Menu
+114,Morphing Menu,Rotating Menu
+114,Morphing Menu,Temporal Menu
+114,Morphing Menu,Transparency Menu
+114,Transparency Menu,Out-context Disappearing Menu
+114,Out-context Disappearing Menu,Twisting Menu
+114,Patined Menu,Prediction-by-scale Menu
+114,Split Menu with Replication,Patined Menu
+114,Square Menu,Prediction-by-scale Menu
+114,Pushpin Menu,Temporal Menu
+114,Split Menu with Replication,Rotating Menu
+114,Split Menu with Scrollbar,Rotating Menu
+114,Step-by-step Menu,Rotating Menu
+115,Bolding Menu,Square Menu
+115,Probability-based Menu,Bowing Menu
+115,Bowing Menu,Rotating Menu
+115,Fish-eye Menu,Cloud Menu
+115,Polymodal Menu,Cloud Menu
+115,Prediction-by-rainbow Menu,Cloud Menu
+115,Fish-eye Menu,Step-by-step Menu
+115,Highlighting Menu,Font-changing Menu
+115,Frequency-based Menu,Temporal Menu
+115,Frequency-based Menu,Twisting Menu
+115,Greyscaling Menu,Out-context Disappearing Menu
+115,Greyscaling Menu,Twisting Menu
+115,Heatmap Menu,Prediction-by-bar Menu
+115,Heatmap Menu,Split Menu with Replication
+115,Probability-based Menu,Hyperbolic Menu
+115,Morphing Menu,Pulsing Menu
+115,Prediction-by-rainbow Menu,Out-context Disappearing Menu
+115,Polymodal Menu,Twisting Menu
+115,Prediction-by-color Menu,Temporal Menu
+115,Probability-based Menu,Prediction-by-line Menu
+115,Split Menu without replication,Prediction-by-rainbow Menu
+115,Split Menu with Replication,Rating Menu
+115,Transparency Menu,Split Menu with Arrowbar
+115,Transparency Menu,Time-based Menu
+117,Blinking Menu,Bowing Menu
+117,Blinking Menu,Split Menu without replication
+117,Square Menu,Blurring Menu
+117,Bolding Menu,Prediction-by-color Menu
+117,Bolding Menu,Time-based Menu
+117,Bowing Menu,Highlighting Menu
+117,Bowing Menu,Split Menu with Arrowbar
+117,Fish-eye colored menu,Bubbling Menu
+117,Bubbling Menu,Temporal Menu
+117,Font-changing Menu,Cloud Menu
+117,Cloud Menu,In-context Appearing Menu
+117,Cloud Menu,Probability-based Menu
+117,Cloud Menu,Split Menu with Arrowbar
+117,Greyscaling Menu,Evanescent Menu
+117,Rainbow menu,Flower Menu
+117,Split Menu with Scrollbar,Flower Menu
+117,Flower Menu,Twisting Menu
+117,Font-changing Menu,Square Menu
+117,Glowing Menu,Prediction-by-line Menu
+117,Greyscaling Menu,Prediction-by-bar Menu
+117,Heatmap Menu,Time-based Menu
+117,Highlighting Menu,Out-context Disappearing Menu
+117,Highlighting Menu,Prediction-by-line Menu
+117,Highlighting Menu,Smart Menu
+117,In-context Appearing Menu,Pulsing Menu
+117,Split Menu with Replication,In-context Appearing Menu
+117,Weared Menu,Italiczing Menu
+117,Morphing Menu,Weared Menu
+117,Rainbow menu,Out-context Disappearing Menu
+117,Probability-based Menu,Patined Menu
+117,Split Menu with Arrowbar,Patined Menu
+117,Split Menu with Arrowbar,Prediction-by-bar Menu
+117,Temporal Menu,Prediction-by-bar Menu
+117,Prediction-by-line Menu,Prediction-by-color Menu
+117,Twisting Menu,Prediction-by-rainbow Menu
+117,Temporal Menu,Prediction-by-scale Menu
+117,Underlying Menu,Prediction-by-scale Menu
+117,Pushpin Menu,Probability-based Menu
+117,Probability-based Menu,Split Menu with Replication
+117,Pulsing Menu,Weared Menu
+117,Rainbow menu,Twisting Menu
+117,Rating Menu,Split Menu with Arrowbar
+117,Transparency Menu,Smart Menu
+117,Underlying Menu,Smart Menu
+117,Split Menu with Replication,Square Menu
+117,Underlying Menu,Split Menu without replication
+117,Twisting Menu,Square Menu
+117,Temporal Menu,Time-based Menu
+117,Transparency Menu,Twisting Menu
+118,Glowing Menu,Blinking Menu
+118,Blurring Menu,Bolding Menu
+118,Glowing Menu,Blurring Menu
+118,Blurring Menu,Rotating Menu
+118,Bowing Menu,Bolding Menu
+118,Bolding Menu,Fish-eye colored menu
+118,Bolding Menu,Pushpin Menu
+118,Highlighting Menu,Bowing Menu
+118,In-context Appearing Menu,Bowing Menu
+118,Bowing Menu,Temporal Menu
+118,Frequency-based Menu,Bubbling Menu
+118,Bubbling Menu,Polymodal Menu
+118,Split Menu with Replication,Bubbling Menu
+118,Cloud Menu,Prediction-by-scale Menu
+118,Out-context Disappearing Menu,Evanescent Menu
+118,Evanescent Menu,Rotating Menu
+118,Prediction-by-line Menu,Flower Menu
+118,Greyscaling Menu,Font-changing Menu
+118,Font-changing Menu,Prediction-by-rainbow Menu
+118,Frequency-based Menu,Square Menu
+118,Prediction-by-bar Menu,Highlighting Menu
+118,Highlighting Menu,Pulsing Menu
+118,Smart Menu,Highlighting Menu
+118,In-context Appearing Menu,Polymodal Menu
+118,In-context Appearing Menu,Rainbow menu
+118,Smart Menu,Italiczing Menu
+118,Out-context Disappearing Menu,Prediction-by-color Menu
+118,Out-context Disappearing Menu,Prediction-by-line Menu
+118,Patined Menu,Prediction-by-rainbow Menu
+118,Pulsing Menu,Patined Menu
+118,Transparency Menu,Patined Menu
+118,Prediction-by-bar Menu,Polymodal Menu
+118,Prediction-by-bar Menu,Step-by-step Menu
+118,Step-by-step Menu,Prediction-by-rainbow Menu
+118,Transparency Menu,Prediction-by-rainbow Menu
+118,Tree Menu,Prediction-by-rainbow Menu
+118,Split Menu with Arrowbar,Prediction-by-scale Menu
+118,Split Menu with Arrowbar,Probability-based Menu
+118,Step-by-step Menu,Probability-based Menu
+118,Pushpin Menu,Step-by-step Menu
+118,Pushpin Menu,Weared Menu
+118,Split Menu with Replication,Split Menu with Scrollbar
+118,Split Menu with Replication,Square Menu
+118,Split Menu with Replication,Time-based Menu
+118,Split Menu with Scrollbar,Time-based Menu
+118,Split Menu without replication,Weared Menu
+118,Step-by-step Menu,Twisting Menu
+118,Temporal Menu,Twisting Menu
+118,Underlying Menu,Time-based Menu
+118,Transparency Menu,Weared Menu
+119,Blinking Menu,Pushpin Menu
+119,Split Menu with Scrollbar,Blinking Menu
+119,Blinking Menu,Time-based Menu
+119,Temporal Menu,Blurring Menu
+119,Bowing Menu,In-context Appearing Menu
+119,Bubbling Menu,Frequency-based Menu
+119,Bubbling Menu,Heatmap Menu
+119,Cloud Menu,Pushpin Menu
+119,Ephemeral Menu,Heatmap Menu
+119,Polymodal Menu,Evanescent Menu
+119,Greyscaling Menu,Fish-eye Menu
+119,Fish-eye Menu,Split Menu without replication
+119,Prediction-by-scale Menu,Fish-eye colored menu
+119,Smart Menu,Fish-eye colored menu
+119,Fish-eye colored menu,Split Menu with Scrollbar
+119,Underlying Menu,Fish-eye colored menu
+119,Font-changing Menu,Flower Menu
+119,Split Menu with Scrollbar,Flower Menu
+119,Frequency-based Menu,Font-changing Menu
+119,Font-changing Menu,Pushpin Menu
+119,Frequency-based Menu,Heatmap Menu
+119,Temporal Menu,Frequency-based Menu
+119,Glowing Menu,In-context Appearing Menu
+119,Glowing Menu,Split Menu with Replication
+119,Temporal Menu,Glowing Menu
+119,Prediction-by-rainbow Menu,Heatmap Menu
+119,Prediction-by-scale Menu,Heatmap Menu
+119,Highlighting Menu,Prediction-by-line Menu
+119,Prediction-by-line Menu,Hyperbolic Menu
+119,Smart Menu,Hyperbolic Menu
+119,In-context Appearing Menu,Italiczing Menu
+119,Underlying Menu,In-context Appearing Menu
+119,Polymodal Menu,Morphing Menu
+119,Time-based Menu,Out-context Disappearing Menu
+119,Patined Menu,Prediction-by-line Menu
+119,Patined Menu,Step-by-step Menu
+119,Polymodal Menu,Split Menu with Arrowbar
+119,Prediction-by-bar Menu,Step-by-step Menu
+119,Prediction-by-color Menu,Time-based Menu
+119,Transparency Menu,Prediction-by-line Menu
+119,Step-by-step Menu,Prediction-by-rainbow Menu
+119,Weared Menu,Prediction-by-rainbow Menu
+119,Probability-based Menu,Prediction-by-scale Menu
+119,Probability-based Menu,Rotating Menu
+119,Pushpin Menu,Split Menu with Arrowbar
+119,Transparency Menu,Pushpin Menu
+119,Split Menu with Replication,Square Menu
+119,Weared Menu,Split Menu with Replication
+119,Split Menu with Scrollbar,Step-by-step Menu
+119,Twisting Menu,Transparency Menu
+120,Blinking Menu,Square Menu
+120,Fish-eye Menu,Blurring Menu
+120,Bolding Menu,Prediction-by-line Menu
+120,Frequency-based Menu,Bubbling Menu
+120,Highlighting Menu,Cloud Menu
+120,Cloud Menu,In-context Appearing Menu
+120,Transparency Menu,Cloud Menu
+120,Font-changing Menu,Ephemeral Menu
+120,Morphing Menu,Ephemeral Menu
+120,Ephemeral Menu,Prediction-by-scale Menu
+120,Ephemeral Menu,Square Menu
+120,Ephemeral Menu,Transparency Menu
+120,Twisting Menu,Ephemeral Menu
+120,Highlighting Menu,Evanescent Menu
+120,Fish-eye Menu,Probability-based Menu
+120,Split Menu with Arrowbar,Fish-eye Menu
+120,Glowing Menu,Fish-eye colored menu
+120,Fish-eye colored menu,Italiczing Menu
+120,Time-based Menu,Fish-eye colored menu
+120,Hyperbolic Menu,Flower Menu
+120,Prediction-by-line Menu,Font-changing Menu
+120,Font-changing Menu,Rating Menu
+120,Split Menu with Replication,Font-changing Menu
+120,Font-changing Menu,Tree Menu
+120,Frequency-based Menu,Rotating Menu
+120,Frequency-based Menu,Twisting Menu
+120,Glowing Menu,Polymodal Menu
+120,Greyscaling Menu,Pulsing Menu
+120,Greyscaling Menu,Transparency Menu
+120,Heatmap Menu,Temporal Menu
+120,Transparency Menu,Heatmap Menu
+120,Highlighting Menu,Morphing Menu
+120,Highlighting Menu,Prediction-by-color Menu
+120,Split Menu with Scrollbar,Highlighting Menu
+120,Highlighting Menu,Transparency Menu
+120,Rating Menu,Hyperbolic Menu
+120,Underlying Menu,Hyperbolic Menu
+120,Pulsing Menu,Italiczing Menu
+120,Step-by-step Menu,Italiczing Menu
+120,Morphing Menu,Rainbow menu
+120,Pulsing Menu,Out-context Disappearing Menu
+120,Patined Menu,Square Menu
+120,Prediction-by-line Menu,Polymodal Menu
+120,Probability-based Menu,Prediction-by-bar Menu
+120,Time-based Menu,Prediction-by-color Menu
+120,Transparency Menu,Prediction-by-scale Menu
+120,Twisting Menu,Prediction-by-scale Menu
+120,Pulsing Menu,Weared Menu
+120,Split Menu with Replication,Rating Menu
+120,Underlying Menu,Split Menu with Replication
+123,Out-context Disappearing Menu,Blinking Menu
+123,Blinking Menu,Prediction-by-bar Menu
+123,Blinking Menu,Rainbow menu
+123,Frequency-based Menu,Blurring Menu
+123,Blurring Menu,Rainbow menu
+123,Time-based Menu,Blurring Menu
+123,Transparency Menu,Blurring Menu
+123,Twisting Menu,Blurring Menu
+123,Fish-eye colored menu,Bowing Menu
+123,Pulsing Menu,Bowing Menu
+123,Bowing Menu,Rainbow menu
+123,Step-by-step Menu,Bowing Menu
+123,Bubbling Menu,Cloud Menu
+123,Bubbling Menu,Greyscaling Menu
+123,Glowing Menu,Cloud Menu
+123,Pulsing Menu,Cloud Menu
+123,Cloud Menu,Square Menu
+123,Fish-eye Menu,Ephemeral Menu
+123,Ephemeral Menu,Font-changing Menu
+123,Ephemeral Menu,Prediction-by-line Menu
+123,Morphing Menu,Evanescent Menu
+123,Fish-eye Menu,Heatmap Menu
+123,Pulsing Menu,Flower Menu
+123,Split Menu with Scrollbar,Flower Menu
+123,Prediction-by-bar Menu,Font-changing Menu
+123,Font-changing Menu,Prediction-by-rainbow Menu
+123,Pushpin Menu,Font-changing Menu
+123,Twisting Menu,Glowing Menu
+123,Greyscaling Menu,Italiczing Menu
+123,Morphing Menu,Heatmap Menu
+123,Transparency Menu,Heatmap Menu
+123,Highlighting Menu,Morphing Menu
+123,Highlighting Menu,Tree Menu
+123,Highlighting Menu,Twisting Menu
+123,Pushpin Menu,Hyperbolic Menu
+123,Split Menu with Arrowbar,Hyperbolic Menu
+123,Morphing Menu,Split Menu with Scrollbar
+123,Rating Menu,Patined Menu
+123,Split Menu with Arrowbar,Patined Menu
+123,Polymodal Menu,Time-based Menu
+123,Prediction-by-line Menu,Prediction-by-color Menu
+123,Prediction-by-line Menu,Underlying Menu
+123,Rating Menu,Probability-based Menu
+123,Step-by-step Menu,Probability-based Menu
+123,Pushpin Menu,Split Menu without replication
+123,Step-by-step Menu,Rainbow menu
+123,Rating Menu,Split Menu with Arrowbar
+123,Smart Menu,Split Menu with Replication
+123,Smart Menu,Square Menu
+125,Bowing Menu,Blinking Menu
+125,Cloud Menu,Blinking Menu
+125,Glowing Menu,Blinking Menu
+125,Transparency Menu,Blinking Menu
+125,Fish-eye Menu,Blurring Menu
+125,Bolding Menu,Morphing Menu
+125,Bowing Menu,Cloud Menu
+125,Bowing Menu,Flower Menu
+125,Bowing Menu,Frequency-based Menu
+125,Heatmap Menu,Bowing Menu
+125,Bubbling Menu,Hyperbolic Menu
+125,Probability-based Menu,Cloud Menu
+125,Underlying Menu,Cloud Menu
+125,Square Menu,Evanescent Menu
+125,Weared Menu,Evanescent Menu
+125,Fish-eye Menu,Glowing Menu
+125,Fish-eye Menu,Prediction-by-line Menu
+125,Fish-eye Menu,Split Menu with Arrowbar
+125,Fish-eye colored menu,Transparency Menu
+125,Highlighting Menu,Flower Menu
+125,Flower Menu,Weared Menu
+125,Font-changing Menu,Italiczing Menu
+125,Patined Menu,Font-changing Menu
+125,Font-changing Menu,Pushpin Menu
+125,Weared Menu,Font-changing Menu
+125,Rainbow menu,Frequency-based Menu
+125,Patined Menu,Glowing Menu
+125,Greyscaling Menu,Hyperbolic Menu
+125,Greyscaling Menu,Transparency Menu
+125,Morphing Menu,Highlighting Menu
+125,Prediction-by-color Menu,Hyperbolic Menu
+125,Square Menu,Hyperbolic Menu
+125,Morphing Menu,Twisting Menu
+125,Out-context Disappearing Menu,Rating Menu
+125,Split Menu with Arrowbar,Patined Menu
+125,Prediction-by-bar Menu,Pulsing Menu
+125,Step-by-step Menu,Prediction-by-color Menu
+125,Prediction-by-line Menu,Square Menu
+125,Smart Menu,Prediction-by-rainbow Menu
+125,Rating Menu,Pulsing Menu
+125,Smart Menu,Pushpin Menu
+125,Rating Menu,Rainbow menu
+125,Rainbow menu,Weared Menu
+125,Split Menu without replication,Rating Menu
+125,Split Menu without replication,Split Menu with Replication
+128,Frequency-based Menu,Split Menu with Arrowbar
+130,Greyscaling Menu,Blinking Menu
+130,Time-based Menu,Blinking Menu
+130,Bowing Menu,Blurring Menu
+130,Bowing Menu,Font-changing Menu
+130,Bowing Menu,Prediction-by-bar Menu
+130,Bowing Menu,Rainbow menu
+130,Fish-eye colored menu,Ephemeral Menu
+130,Evanescent Menu,Hyperbolic Menu
+130,Fish-eye Menu,Glowing Menu
+130,Fish-eye Menu,Split Menu with Arrowbar
+130,Fish-eye Menu,Split Menu with Replication
+130,Transparency Menu,Fish-eye Menu
+130,Fish-eye Menu,Weared Menu
+130,Fish-eye colored menu,Pulsing Menu
+130,Pushpin Menu,Font-changing Menu
+130,Rating Menu,Font-changing Menu
+130,Greyscaling Menu,Hyperbolic Menu
+130,Greyscaling Menu,Split Menu with Replication
+130,Highlighting Menu,In-context Appearing Menu
+130,In-context Appearing Menu,Step-by-step Menu
+130,Step-by-step Menu,Morphing Menu
+130,Prediction-by-line Menu,Out-context Disappearing Menu
+130,Smart Menu,Prediction-by-color Menu
+130,Prediction-by-rainbow Menu,Split Menu with Arrowbar
+130,Rating Menu,Prediction-by-scale Menu
+130,Pushpin Menu,Split Menu without replication
+130,Underlying Menu,Rotating Menu
+130,Smart Menu,Temporal Menu
+133,Bowing Menu,Twisting Menu
+133,Cloud Menu,Tree Menu
+133,Flower Menu,Ephemeral Menu
+133,Out-context Disappearing Menu,Ephemeral Menu
+133,Fish-eye Menu,Pulsing Menu
+133,Glowing Menu,Morphing Menu
+133,Morphing Menu,Prediction-by-bar Menu
+133,Prediction-by-rainbow Menu,Tree Menu
+133,Rainbow menu,Temporal Menu
+133,Split Menu with Arrowbar,Twisting Menu
+133,Split Menu with Arrowbar,Weared Menu
+133,Transparency Menu,Split Menu with Replication
+133,Transparency Menu,Split Menu with Scrollbar
+135,Split Menu with Scrollbar,Blurring Menu
+135,Bowing Menu,Heatmap Menu
+135,Pushpin Menu,Bowing Menu
+135,Bubbling Menu,Italiczing Menu
+135,Glowing Menu,Flower Menu
+135,Prediction-by-rainbow Menu,Frequency-based Menu
+135,Pushpin Menu,Heatmap Menu
+135,Pulsing Menu,Prediction-by-rainbow Menu
+135,Transparency Menu,Rotating Menu
+137,Bolding Menu,Blinking Menu
+137,Fish-eye colored menu,Blinking Menu
+137,Highlighting Menu,Blinking Menu
+137,Blinking Menu,Hyperbolic Menu
+137,Bolding Menu,Fish-eye colored menu
+137,Patined Menu,Bolding Menu
+137,Bolding Menu,Weared Menu
+137,Bowing Menu,Pulsing Menu
+137,Bowing Menu,Tree Menu
+137,Highlighting Menu,Bubbling Menu
+137,Bubbling Menu,Weared Menu
+137,Cloud Menu,Evanescent Menu
+137,Fish-eye colored menu,Ephemeral Menu
+137,Rainbow menu,Ephemeral Menu
+137,Evanescent Menu,Split Menu with Arrowbar
+137,Evanescent Menu,Temporal Menu
+137,Twisting Menu,Evanescent Menu
+137,Fish-eye Menu,Prediction-by-color Menu
+137,Fish-eye colored menu,Morphing Menu
+137,Fish-eye colored menu,Weared Menu
+137,Glowing Menu,Frequency-based Menu
+137,Greyscaling Menu,Frequency-based Menu
+137,Frequency-based Menu,Square Menu
+137,Glowing Menu,Square Menu
+137,Greyscaling Menu,Morphing Menu
+137,Rating Menu,Heatmap Menu
+137,Highlighting Menu,Hyperbolic Menu
+137,Highlighting Menu,Out-context Disappearing Menu
+137,Highlighting Menu,Square Menu
+137,Patined Menu,Italiczing Menu
+137,Italiczing Menu,Prediction-by-rainbow Menu
+137,Transparency Menu,Italiczing Menu
+137,Italiczing Menu,Twisting Menu
+137,Patined Menu,Prediction-by-rainbow Menu
+137,Weared Menu,Polymodal Menu
+137,Prediction-by-bar Menu,Rainbow menu
+137,Prediction-by-bar Menu,Split Menu with Scrollbar
+137,Probability-based Menu,Prediction-by-line Menu
+137,Prediction-by-rainbow Menu,Rotating Menu
+137,Pulsing Menu,Temporal Menu
+137,Pushpin Menu,Split Menu with Scrollbar
+137,Rainbow menu,Split Menu with Replication
+137,Smart Menu,Step-by-step Menu
+137,Smart Menu,Underlying Menu
+137,Split Menu with Replication,Split Menu with Arrowbar
+137,Transparency Menu,Time-based Menu
+144,Frequency-based Menu,Blurring Menu
+144,Patined Menu,Blurring Menu
+144,Bowing Menu,Split Menu with Scrollbar
+144,Rainbow menu,Bubbling Menu
+144,Transparency Menu,Ephemeral Menu
+144,Rating Menu,Evanescent Menu
+144,Fish-eye colored menu,Flower Menu
+144,In-context Appearing Menu,Hyperbolic Menu
+144,In-context Appearing Menu,Pulsing Menu
+144,Split Menu with Arrowbar,In-context Appearing Menu
+144,Split Menu with Scrollbar,Patined Menu
+144,Pulsing Menu,Polymodal Menu
+144,Prediction-by-bar Menu,Split Menu with Arrowbar
+144,Prediction-by-rainbow Menu,Twisting Menu
+144,Square Menu,Prediction-by-scale Menu
+144,Probability-based Menu,Tree Menu
+144,Pushpin Menu,Pulsing Menu
+144,Pushpin Menu,Underlying Menu
+147,Blurring Menu,Pushpin Menu
+147,Font-changing Menu,Fish-eye Menu
+147,Fish-eye colored menu,Tree Menu
+147,Highlighting Menu,Prediction-by-bar Menu
+147,Italiczing Menu,Time-based Menu
+147,Prediction-by-bar Menu,Rotating Menu
+147,Transparency Menu,Smart Menu
+148,Blurring Menu,Cloud Menu
+148,Font-changing Menu,Blurring Menu
+148,Greyscaling Menu,Bubbling Menu
+148,Temporal Menu,Ephemeral Menu
+148,Hyperbolic Menu,Tree Menu
+148,Prediction-by-color Menu,In-context Appearing Menu
+148,Pushpin Menu,Italiczing Menu
+148,Tree Menu,Italiczing Menu
+148,Weared Menu,Out-context Disappearing Menu
+148,Prediction-by-scale Menu,Patined Menu
+148,Prediction-by-color Menu,Tree Menu
+148,Split Menu without replication,Prediction-by-rainbow Menu
+148,Probability-based Menu,Transparency Menu
+149,Blinking Menu,Bolding Menu
+149,Blinking Menu,Rotating Menu
+149,Blurring Menu,Bubbling Menu
+149,Prediction-by-color Menu,Blurring Menu
+149,Blurring Menu,Prediction-by-scale Menu
+149,Bolding Menu,Prediction-by-scale Menu
+149,Bowing Menu,In-context Appearing Menu
+149,Bowing Menu,Rainbow menu
+149,Split Menu without replication,Bowing Menu
+149,Square Menu,Cloud Menu
+149,Ephemeral Menu,Evanescent Menu
+149,Prediction-by-scale Menu,Ephemeral Menu
+149,Tree Menu,Evanescent Menu
+149,Hyperbolic Menu,Fish-eye Menu
+149,Fish-eye Menu,Smart Menu
+149,Split Menu with Replication,Fish-eye Menu
+149,Fish-eye Menu,Twisting Menu
+149,Flower Menu,Font-changing Menu
+149,Hyperbolic Menu,Flower Menu
+149,Flower Menu,Morphing Menu
+149,Smart Menu,Flower Menu
+149,Split Menu without replication,Flower Menu
+149,Prediction-by-scale Menu,Font-changing Menu
+149,Probability-based Menu,Font-changing Menu
+149,Glowing Menu,Frequency-based Menu
+149,Temporal Menu,Heatmap Menu
+149,Highlighting Menu,Prediction-by-color Menu
+149,Highlighting Menu,Pushpin Menu
+149,Highlighting Menu,Twisting Menu
+149,In-context Appearing Menu,Hyperbolic Menu
+149,In-context Appearing Menu,Probability-based Menu
+149,Split Menu with Arrowbar,In-context Appearing Menu
+149,Italiczing Menu,Rotating Menu
+149,Split Menu with Arrowbar,Italiczing Menu
+149,Tree Menu,Italiczing Menu
+149,Split Menu with Replication,Morphing Menu
+149,Prediction-by-color Menu,Out-context Disappearing Menu
+149,Step-by-step Menu,Out-context Disappearing Menu
+149,Tree Menu,Prediction-by-bar Menu
+149,Prediction-by-color Menu,Prediction-by-rainbow Menu
+149,Prediction-by-scale Menu,Prediction-by-color Menu
+149,Underlying Menu,Prediction-by-line Menu
+149,Pulsing Menu,Tree Menu
+149,Pulsing Menu,Underlying Menu
+149,Transparency Menu,Rating Menu
+149,Split Menu with Arrowbar,Tree Menu
+149,Step-by-step Menu,Split Menu with Replication
+149,Step-by-step Menu,Weared Menu
+151,Blurring Menu,Polymodal Menu
+151,Bolding Menu,Split Menu without replication
+151,Fish-eye colored menu,Frequency-based Menu
+151,Split Menu with Arrowbar,Flower Menu
+151,Square Menu,Flower Menu
+151,Heatmap Menu,Tree Menu
+151,Split Menu without replication,Out-context Disappearing Menu
+151,Time-based Menu,Prediction-by-bar Menu
+151,Prediction-by-line Menu,Smart Menu
+152,Blinking Menu,Blurring Menu
+152,Smart Menu,Blinking Menu
+152,Weared Menu,Blinking Menu
+152,Rating Menu,Blurring Menu
+152,Blurring Menu,Smart Menu
+152,Bolding Menu,Fish-eye colored menu
+152,Bolding Menu,Hyperbolic Menu
+152,Patined Menu,Bolding Menu
+152,Rating Menu,Bolding Menu
+152,Bolding Menu,Smart Menu
+152,Bowing Menu,Frequency-based Menu
+152,Bowing Menu,Polymodal Menu
+152,Bowing Menu,Prediction-by-scale Menu
+152,Bowing Menu,Split Menu with Arrowbar
+152,Bowing Menu,Split Menu with Scrollbar
+152,Bubbling Menu,Morphing Menu
+152,Bubbling Menu,Prediction-by-color Menu
+152,Bubbling Menu,Rainbow menu
+152,Greyscaling Menu,Cloud Menu
+152,Morphing Menu,Cloud Menu
+152,Ephemeral Menu,Time-based Menu
+152,Frequency-based Menu,Evanescent Menu
+152,Evanescent Menu,Heatmap Menu
+152,Prediction-by-bar Menu,Evanescent Menu
+152,Fish-eye Menu,Italiczing Menu
+152,Fish-eye Menu,Rating Menu
+152,Italiczing Menu,Flower Menu
+152,Flower Menu,Split Menu with Scrollbar
+152,Frequency-based Menu,Morphing Menu
+152,Glowing Menu,Square Menu
+152,Greyscaling Menu,Smart Menu
+152,Greyscaling Menu,Transparency Menu
+152,Greyscaling Menu,Tree Menu
+152,Probability-based Menu,Heatmap Menu
+152,Split Menu with Replication,Heatmap Menu
+152,Highlighting Menu,Rating Menu
+152,Italiczing Menu,Morphing Menu
+152,Polymodal Menu,Square Menu
+152,Temporal Menu,Prediction-by-color Menu
+152,Prediction-by-line Menu,Step-by-step Menu
+152,Rainbow menu,Prediction-by-rainbow Menu
+152,Rating Menu,Prediction-by-rainbow Menu
+152,Smart Menu,Prediction-by-scale Menu
+152,Split Menu with Replication,Prediction-by-scale Menu
+152,Tree Menu,Pulsing Menu
+152,Split Menu without replication,Rainbow menu
+152,Tree Menu,Split Menu with Arrowbar
+152,Tree Menu,Temporal Menu
+152,Weared Menu,Temporal Menu
+154,Out-context Disappearing Menu,Ephemeral Menu
+154,Fish-eye colored menu,Heatmap Menu
+154,Time-based Menu,Split Menu with Replication
+156,Blinking Menu,Fish-eye colored menu
+156,Greyscaling Menu,Blinking Menu
+156,Split Menu with Arrowbar,Blinking Menu
+156,Polymodal Menu,Blurring Menu
+156,Bowing Menu,Rotating Menu
+156,Bubbling Menu,Italiczing Menu
+156,Split Menu with Scrollbar,Bubbling Menu
+156,Cloud Menu,Fish-eye colored menu
+156,Cloud Menu,Heatmap Menu
+156,Time-based Menu,Cloud Menu
+156,Ephemeral Menu,Glowing Menu
+156,Underlying Menu,Ephemeral Menu
+156,Evanescent Menu,Italiczing Menu
+156,Time-based Menu,Evanescent Menu
+156,Pushpin Menu,Fish-eye colored menu
+156,Split Menu with Scrollbar,Fish-eye colored menu
+156,Step-by-step Menu,Fish-eye colored menu
+156,Flower Menu,Twisting Menu
+156,Prediction-by-line Menu,Font-changing Menu
+156,Pushpin Menu,Font-changing Menu
+156,Transparency Menu,Font-changing Menu
+156,Frequency-based Menu,Patined Menu
+156,Underlying Menu,Frequency-based Menu
+156,Temporal Menu,Glowing Menu
+156,Greyscaling Menu,Polymodal Menu
+156,Greyscaling Menu,Rainbow menu
+156,Greyscaling Menu,Underlying Menu
+156,Out-context Disappearing Menu,In-context Appearing Menu
+156,Patined Menu,Italiczing Menu
+156,Weared Menu,Morphing Menu
+156,Prediction-by-line Menu,Rainbow menu
+156,Prediction-by-line Menu,Smart Menu
+156,Prediction-by-line Menu,Split Menu with Replication
+156,Prediction-by-line Menu,Tree Menu
+156,Pushpin Menu,Square Menu
+156,Pushpin Menu,Temporal Menu
+156,Split Menu with Replication,Rainbow menu
+156,Time-based Menu,Rainbow menu
+156,Square Menu,Rotating Menu
+156,Smart Menu,Time-based Menu
+156,Step-by-step Menu,Temporal Menu
+156,Underlying Menu,Step-by-step Menu
+156,Temporal Menu,Underlying Menu
+161,Prediction-by-line Menu,Blinking Menu
+161,Bubbling Menu,Morphing Menu
+161,Cloud Menu,Prediction-by-color Menu
+161,Cloud Menu,Prediction-by-line Menu
+161,Fish-eye Menu,Fish-eye colored menu
+161,Greyscaling Menu,Split Menu with Replication
+161,In-context Appearing Menu,Split Menu without replication
+161,Italiczing Menu,Split Menu with Replication
+161,Rainbow menu,Patined Menu
+161,Prediction-by-bar Menu,Smart Menu
+161,Square Menu,Prediction-by-color Menu
+161,Pushpin Menu,Rotating Menu
+161,Split Menu with Arrowbar,Transparency Menu
+163,Blinking Menu,Fish-eye colored menu
+163,Blinking Menu,Rotating Menu
+163,Blurring Menu,Ephemeral Menu
+163,Blurring Menu,Flower Menu
+163,Prediction-by-bar Menu,Bolding Menu
+163,Bolding Menu,Split Menu with Scrollbar
+163,Font-changing Menu,Bowing Menu
+163,Rainbow menu,Bowing Menu
+163,Greyscaling Menu,Bubbling Menu
+163,Smart Menu,Bubbling Menu
+163,Split Menu without replication,Bubbling Menu
+163,Ephemeral Menu,Split Menu with Scrollbar
+163,Evanescent Menu,Rotating Menu
+163,Fish-eye Menu,Prediction-by-bar Menu
+163,Split Menu with Replication,Flower Menu
+163,Split Menu without replication,Flower Menu
+163,Font-changing Menu,Rainbow menu
+163,Frequency-based Menu,Temporal Menu
+163,Underlying Menu,Frequency-based Menu
+163,Glowing Menu,Heatmap Menu
+163,Glowing Menu,Out-context Disappearing Menu
+163,Prediction-by-bar Menu,Glowing Menu
+163,Rating Menu,Glowing Menu
+163,Greyscaling Menu,Patined Menu
+163,Greyscaling Menu,Temporal Menu
+163,Underlying Menu,Heatmap Menu
+163,Highlighting Menu,Hyperbolic Menu
+163,Highlighting Menu,Polymodal Menu
+163,Morphing Menu,Hyperbolic Menu
+163,Hyperbolic Menu,Prediction-by-rainbow Menu
+163,Split Menu with Replication,Hyperbolic Menu
+163,Twisting Menu,In-context Appearing Menu
+163,Morphing Menu,Italiczing Menu
+163,Italiczing Menu,Split Menu with Arrowbar
+163,Italiczing Menu,Twisting Menu
+163,Morphing Menu,Patined Menu
+163,Morphing Menu,Step-by-step Menu
+163,Morphing Menu,Underlying Menu
+163,Prediction-by-bar Menu,Prediction-by-line Menu
+163,Prediction-by-bar Menu,Prediction-by-rainbow Menu
+163,Prediction-by-bar Menu,Probability-based Menu
+163,Pulsing Menu,Twisting Menu
+163,Rainbow menu,Pushpin Menu
+163,Rating Menu,Rainbow menu
+163,Rotating Menu,Weared Menu
+163,Smart Menu,Twisting Menu
+163,Underlying Menu,Split Menu with Arrowbar
+163,Temporal Menu,Twisting Menu
+178,Blinking Menu,Evanescent Menu
+178,Split Menu without replication,Blinking Menu
+178,Hyperbolic Menu,Blurring Menu
+178,Prediction-by-scale Menu,Bolding Menu
+178,Bolding Menu,Rotating Menu
+178,Greyscaling Menu,Bowing Menu
+178,Bowing Menu,Rainbow menu
+178,Bowing Menu,Split Menu with Arrowbar
+178,Cloud Menu,Evanescent Menu
+178,Cloud Menu,Polymodal Menu
+178,Cloud Menu,Rotating Menu
+178,Ephemeral Menu,Pulsing Menu
+178,Ephemeral Menu,Time-based Menu
+178,Evanescent Menu,Rating Menu
+178,Fish-eye Menu,Highlighting Menu
+178,Highlighting Menu,Fish-eye colored menu
+178,Prediction-by-scale Menu,Fish-eye colored menu
+178,Highlighting Menu,Flower Menu
+178,Split Menu with Replication,Frequency-based Menu
+178,Italiczing Menu,Glowing Menu
+178,Probability-based Menu,Glowing Menu
+178,Split Menu with Replication,Glowing Menu
+178,Glowing Menu,Square Menu
+178,Glowing Menu,Weared Menu
+178,Greyscaling Menu,Out-context Disappearing Menu
+178,Out-context Disappearing Menu,Heatmap Menu
+178,Hyperbolic Menu,Probability-based Menu
+178,Pulsing Menu,In-context Appearing Menu
+178,Transparency Menu,In-context Appearing Menu
+178,Italiczing Menu,Square Menu
+178,Morphing Menu,Rotating Menu
+178,Transparency Menu,Morphing Menu
+178,Patined Menu,Prediction-by-bar Menu
+178,Smart Menu,Patined Menu
+178,Patined Menu,Twisting Menu
+178,Prediction-by-line Menu,Twisting Menu
+178,Pushpin Menu,Step-by-step Menu
+178,Split Menu with Arrowbar,Rainbow menu
+178,Split Menu with Replication,Rainbow menu
+178,Time-based Menu,Rainbow menu
+178,Split Menu with Arrowbar,Rotating Menu
+178,Split Menu with Replication,Weared Menu
+178,Tree Menu,Split Menu with Scrollbar
+180,Rating Menu,Blinking Menu
+180,Step-by-step Menu,Blinking Menu
+180,Frequency-based Menu,Blurring Menu
+180,In-context Appearing Menu,Blurring Menu
+180,Prediction-by-scale Menu,Blurring Menu
+180,Smart Menu,Blurring Menu
+180,Fish-eye Menu,Bolding Menu
+180,Prediction-by-bar Menu,Bolding Menu
+180,Prediction-by-color Menu,Bolding Menu
+180,Bubbling Menu,Temporal Menu
+180,Bubbling Menu,Time-based Menu
+180,Bubbling Menu,Weared Menu
+180,Prediction-by-scale Menu,Cloud Menu
+180,Smart Menu,Cloud Menu
+180,Flower Menu,Ephemeral Menu
+180,Prediction-by-bar Menu,Ephemeral Menu
+180,Prediction-by-scale Menu,Ephemeral Menu
+180,Fish-eye Menu,Evanescent Menu
+180,Pushpin Menu,Evanescent Menu
+180,Fish-eye colored menu,Patined Menu
+180,Flower Menu,Split Menu with Scrollbar
+180,Font-changing Menu,Temporal Menu
+180,Frequency-based Menu,Greyscaling Menu
+180,Out-context Disappearing Menu,Frequency-based Menu
+180,Frequency-based Menu,Split Menu without replication
+180,Heatmap Menu,Weared Menu
+180,Highlighting Menu,Weared Menu
+180,Pushpin Menu,Hyperbolic Menu
+180,Split Menu without replication,Hyperbolic Menu
+180,Twisting Menu,Hyperbolic Menu
+180,Prediction-by-bar Menu,In-context Appearing Menu
+180,Smart Menu,In-context Appearing Menu
+180,Prediction-by-line Menu,Italiczing Menu
+180,Rainbow menu,Italiczing Menu
+180,Tree Menu,Morphing Menu
+180,Twisting Menu,Morphing Menu
+180,Out-context Disappearing Menu,Transparency Menu
+180,Patined Menu,Weared Menu
+180,Prediction-by-bar Menu,Prediction-by-color Menu
+180,Prediction-by-line Menu,Temporal Menu
+180,Prediction-by-scale Menu,Time-based Menu
+180,Square Menu,Pulsing Menu
+180,Split Menu with Scrollbar,Rainbow menu
+180,Rating Menu,Split Menu with Replication
+180,Underlying Menu,Rotating Menu
+180,Smart Menu,Weared Menu
+180,Underlying Menu,Split Menu with Replication
+180,Transparency Menu,Split Menu without replication
+180,Square Menu,Temporal Menu
+180,Step-by-step Menu,Underlying Menu
+181,Prediction-by-line Menu,Blurring Menu
+181,Bowing Menu,Pulsing Menu
+181,Bowing Menu,Step-by-step Menu
+181,Pushpin Menu,Evanescent Menu
+181,Heatmap Menu,Font-changing Menu
+181,Frequency-based Menu,Glowing Menu
+181,Glowing Menu,In-context Appearing Menu
+181,Glowing Menu,Prediction-by-bar Menu
+181,Highlighting Menu,Prediction-by-rainbow Menu
+181,Prediction-by-rainbow Menu,Time-based Menu
+181,Pushpin Menu,Weared Menu
+181,Step-by-step Menu,Rainbow menu
+185,Bowing Menu,Blurring Menu
+185,Bolding Menu,Evanescent Menu
+185,Bolding Menu,Polymodal Menu
+185,Bolding Menu,Prediction-by-rainbow Menu
+185,Split Menu with Replication,Bolding Menu
+185,Transparency Menu,Bolding Menu
+185,Bowing Menu,Fish-eye colored menu
+185,Bowing Menu,Rotating Menu
+185,Bowing Menu,Time-based Menu
+185,Glowing Menu,Bubbling Menu
+185,Temporal Menu,Bubbling Menu
+185,Glowing Menu,Cloud Menu
+185,Fish-eye Menu,Highlighting Menu
+185,Fish-eye Menu,In-context Appearing Menu
+185,Fish-eye Menu,Weared Menu
+185,Tree Menu,Fish-eye colored menu
+185,Highlighting Menu,Font-changing Menu
+185,Frequency-based Menu,Morphing Menu
+185,Pushpin Menu,Frequency-based Menu
+185,Pulsing Menu,Glowing Menu
+185,Greyscaling Menu,Polymodal Menu
+185,Greyscaling Menu,Split Menu with Replication
+185,Prediction-by-color Menu,Heatmap Menu
+185,Prediction-by-rainbow Menu,Hyperbolic Menu
+185,In-context Appearing Menu,Prediction-by-color Menu
+185,In-context Appearing Menu,Square Menu
+185,In-context Appearing Menu,Twisting Menu
+185,Morphing Menu,Pushpin Menu
+185,Morphing Menu,Split Menu with Arrowbar
+185,Prediction-by-bar Menu,Out-context Disappearing Menu
+185,Transparency Menu,Out-context Disappearing Menu
+185,Patined Menu,Rotating Menu
+185,Transparency Menu,Patined Menu
+185,Probability-based Menu,Polymodal Menu
+185,Rating Menu,Prediction-by-bar Menu
+185,Prediction-by-line Menu,Split Menu with Replication
+185,Prediction-by-line Menu,Split Menu without replication
+185,Prediction-by-line Menu,Tree Menu
+185,Prediction-by-scale Menu,Transparency Menu
+185,Probability-based Menu,Rotating Menu
+185,Probability-based Menu,Temporal Menu
+185,Pulsing Menu,Rotating Menu
+185,Pulsing Menu,Split Menu with Arrowbar
+185,Rating Menu,Temporal Menu
+185,Rating Menu,Time-based Menu
+185,Smart Menu,Temporal Menu
+185,Time-based Menu,Smart Menu
+185,Split Menu with Scrollbar,Split Menu with Replication
+185,Underlying Menu,Split Menu without replication
+187,Blurring Menu,Cloud Menu
+187,Frequency-based Menu,Blurring Menu
+187,Patined Menu,Blurring Menu
+187,Pushpin Menu,Blurring Menu
+187,Pushpin Menu,Bolding Menu
+187,Bowing Menu,Cloud Menu
+187,Greyscaling Menu,Bowing Menu
+187,Probability-based Menu,Bowing Menu
+187,Bowing Menu,Split Menu with Arrowbar
+187,Temporal Menu,Bowing Menu
+187,Bowing Menu,Tree Menu
+187,Underlying Menu,Bubbling Menu
+187,In-context Appearing Menu,Cloud Menu
+187,Underlying Menu,Cloud Menu
+187,Italiczing Menu,Ephemeral Menu
+187,Rating Menu,Ephemeral Menu
+187,Prediction-by-scale Menu,Evanescent Menu
+187,Fish-eye Menu,Morphing Menu
+187,Fish-eye Menu,Rainbow menu
+187,Rating Menu,Fish-eye Menu
+187,Fish-eye colored menu,In-context Appearing Menu
+187,Time-based Menu,Fish-eye colored menu
+187,Highlighting Menu,Flower Menu
+187,Rainbow menu,Flower Menu
+187,Rating Menu,Flower Menu
+187,Split Menu with Arrowbar,Font-changing Menu
+187,Frequency-based Menu,Hyperbolic Menu
+187,Split Menu with Replication,Frequency-based Menu
+187,Twisting Menu,Frequency-based Menu
+187,Glowing Menu,Time-based Menu
+187,Greyscaling Menu,Italiczing Menu
+187,Pushpin Menu,Heatmap Menu
+187,Highlighting Menu,Prediction-by-scale Menu
+187,Highlighting Menu,Rating Menu
+187,Step-by-step Menu,Highlighting Menu
+187,Prediction-by-line Menu,Hyperbolic Menu
+187,In-context Appearing Menu,Polymodal Menu
+187,In-context Appearing Menu,Tree Menu
+187,Twisting Menu,In-context Appearing Menu
+187,Split Menu without replication,Italiczing Menu
+187,Morphing Menu,Split Menu with Replication
+187,Morphing Menu,Transparency Menu
+187,Transparency Menu,Out-context Disappearing Menu
+187,Patined Menu,Weared Menu
+187,Polymodal Menu,Rotating Menu
+187,Split Menu without replication,Prediction-by-color Menu
+187,Split Menu with Replication,Prediction-by-scale Menu
+187,Probability-based Menu,Rating Menu
+187,Time-based Menu,Probability-based Menu
+187,Rating Menu,Pulsing Menu
+188,Bolding Menu,Ephemeral Menu
+188,Rainbow menu,Weared Menu
+192,Blurring Menu,Blinking Menu
+192,Blinking Menu,Cloud Menu
+192,Flower Menu,Blinking Menu
+192,Blinking Menu,Split Menu without replication
+192,Blurring Menu,Polymodal Menu
+192,Blurring Menu,Rainbow menu
+192,Bolding Menu,In-context Appearing Menu
+192,Bowing Menu,Underlying Menu
+192,Bubbling Menu,Prediction-by-line Menu
+192,Smart Menu,Bubbling Menu
+192,Flower Menu,Cloud Menu
+192,Cloud Menu,Rating Menu
+192,Cloud Menu,Step-by-step Menu
+192,Ephemeral Menu,Split Menu with Arrowbar
+192,Highlighting Menu,Evanescent Menu
+192,Prediction-by-color Menu,Evanescent Menu
+192,Transparency Menu,Evanescent Menu
+192,Flower Menu,Fish-eye colored menu
+192,Fish-eye colored menu,Prediction-by-rainbow Menu
+192,Fish-eye colored menu,Rotating Menu
+192,Greyscaling Menu,Flower Menu
+192,Flower Menu,Probability-based Menu
+192,Glowing Menu,Temporal Menu
+192,Greyscaling Menu,Rainbow menu
+192,Highlighting Menu,In-context Appearing Menu
+192,Highlighting Menu,Morphing Menu
+192,Patined Menu,Highlighting Menu
+192,Pushpin Menu,In-context Appearing Menu
+192,Temporal Menu,Italiczing Menu
+192,Patined Menu,Morphing Menu
+192,Prediction-by-scale Menu,Morphing Menu
+192,Out-context Disappearing Menu,Patined Menu
+192,Out-context Disappearing Menu,Square Menu
+192,Pushpin Menu,Polymodal Menu
+192,Temporal Menu,Prediction-by-rainbow Menu
+192,Prediction-by-scale Menu,Step-by-step Menu
+192,Transparency Menu,Probability-based Menu
+192,Probability-based Menu,Underlying Menu
+192,Weared Menu,Probability-based Menu
+192,Pulsing Menu,Tree Menu
+192,Split Menu with Arrowbar,Rotating Menu
+192,Smart Menu,Underlying Menu
+192,Weared Menu,Smart Menu
+192,Split Menu with Replication,Square Menu
+192,Weared Menu,Square Menu
+192,Twisting Menu,Step-by-step Menu
+193,Blurring Menu,Blinking Menu
+193,Blinking Menu,Bubbling Menu
+193,Blinking Menu,Flower Menu
+193,Blinking Menu,Heatmap Menu
+193,Smart Menu,Blinking Menu
+193,Blinking Menu,Square Menu
+193,Blurring Menu,In-context Appearing Menu
+193,Blurring Menu,Split Menu with Arrowbar
+193,Greyscaling Menu,Bolding Menu
+193,Fish-eye Menu,Bubbling Menu
+193,Bubbling Menu,Fish-eye colored menu
+193,Bubbling Menu,Hyperbolic Menu
+193,Cloud Menu,Rotating Menu
+193,Cloud Menu,Square Menu
+193,Ephemeral Menu,Prediction-by-rainbow Menu
+193,Ephemeral Menu,Underlying Menu
+193,Evanescent Menu,Prediction-by-rainbow Menu
+193,Evanescent Menu,Prediction-by-scale Menu
+193,Fish-eye Menu,Prediction-by-rainbow Menu
+193,Probability-based Menu,Fish-eye colored menu
+193,Rainbow menu,Flower Menu
+193,Tree Menu,Flower Menu
+193,Glowing Menu,Square Menu
+193,Italiczing Menu,Heatmap Menu
+193,Highlighting Menu,Hyperbolic Menu
+193,Highlighting Menu,Split Menu without replication
+193,Out-context Disappearing Menu,In-context Appearing Menu
+193,In-context Appearing Menu,Twisting Menu
+193,Morphing Menu,Split Menu with Replication
+193,Transparency Menu,Patined Menu
+193,Polymodal Menu,Rotating Menu
+193,Smart Menu,Prediction-by-color Menu
+193,Prediction-by-line Menu,Prediction-by-scale Menu
+193,Smart Menu,Prediction-by-rainbow Menu
+193,Temporal Menu,Probability-based Menu
+193,Pulsing Menu,Rotating Menu
+193,Pulsing Menu,Step-by-step Menu
+193,Smart Menu,Split Menu with Replication
+193,Split Menu without replication,Smart Menu
+193,Smart Menu,Weared Menu
+193,Tree Menu,Square Menu
+193,Transparency Menu,Weared Menu
+195,Split Menu with Replication,Tree Menu
+196,Blurring Menu,Fish-eye Menu
+196,Blurring Menu,Flower Menu
+196,Square Menu,Blurring Menu
+196,Transparency Menu,Blurring Menu
+196,Bolding Menu,Temporal Menu
+196,Square Menu,Bowing Menu
+196,Underlying Menu,Bowing Menu
+196,Frequency-based Menu,Bubbling Menu
+196,Evanescent Menu,Cloud Menu
+196,Flower Menu,Cloud Menu
+196,Transparency Menu,Cloud Menu
+196,Ephemeral Menu,Split Menu without replication
+196,Time-based Menu,Ephemeral Menu
+196,Evanescent Menu,Smart Menu
+196,Prediction-by-scale Menu,Fish-eye Menu
+196,Split Menu with Replication,Fish-eye Menu
+196,Prediction-by-bar Menu,Fish-eye colored menu
+196,Square Menu,Fish-eye colored menu
+196,Time-based Menu,Fish-eye colored menu
+196,Underlying Menu,Font-changing Menu
+196,Glowing Menu,Polymodal Menu
+196,Prediction-by-line Menu,Glowing Menu
+196,Glowing Menu,Split Menu with Arrowbar
+196,Greyscaling Menu,In-context Appearing Menu
+196,Greyscaling Menu,Polymodal Menu
+196,Greyscaling Menu,Tree Menu
+196,Split Menu with Replication,Heatmap Menu
+196,Highlighting Menu,Rainbow menu
+196,Highlighting Menu,Rotating Menu
+196,Polymodal Menu,Hyperbolic Menu
+196,Underlying Menu,In-context Appearing Menu
+196,Square Menu,Italiczing Menu
+196,Patined Menu,Morphing Menu
+196,Out-context Disappearing Menu,Prediction-by-color Menu
+196,Out-context Disappearing Menu,Split Menu without replication
+196,Transparency Menu,Patined Menu
+196,Prediction-by-rainbow Menu,Polymodal Menu
+196,Rainbow menu,Polymodal Menu
+196,Underlying Menu,Polymodal Menu
+196,Prediction-by-line Menu,Rainbow menu
+196,Prediction-by-scale Menu,Split Menu with Replication
+196,Pushpin Menu,Pulsing Menu
+196,Split Menu without replication,Pulsing Menu
+196,Pulsing Menu,Tree Menu
+196,Rating Menu,Pushpin Menu
+196,Pushpin Menu,Twisting Menu
+196,Rating Menu,Step-by-step Menu
+196,Time-based Menu,Smart Menu
+196,Tree Menu,Split Menu with Arrowbar
+196,Split Menu without replication,Split Menu with Scrollbar
+196,Time-based Menu,Weared Menu
+198,Split Menu with Scrollbar,Blurring Menu
+198,Bolding Menu,Bowing Menu
+198,Bolding Menu,Highlighting Menu
+198,Bolding Menu,Weared Menu
+198,Bowing Menu,Bubbling Menu
+198,Bowing Menu,Hyperbolic Menu
+198,Bowing Menu,Prediction-by-line Menu
+198,Bowing Menu,Probability-based Menu
+198,Bubbling Menu,In-context Appearing Menu
+198,Cloud Menu,Italiczing Menu
+198,Probability-based Menu,Ephemeral Menu
+198,Font-changing Menu,Evanescent Menu
+198,Prediction-by-line Menu,Evanescent Menu
+198,Glowing Menu,Fish-eye Menu
+198,Fish-eye colored menu,Prediction-by-bar Menu
+198,Prediction-by-line Menu,Flower Menu
+198,Flower Menu,Split Menu without replication
+198,Morphing Menu,Font-changing Menu
+198,Font-changing Menu,Out-context Disappearing Menu
+198,Font-changing Menu,Rotating Menu
+198,Font-changing Menu,Tree Menu
+198,Frequency-based Menu,Heatmap Menu
+198,Pulsing Menu,Frequency-based Menu
+198,Frequency-based Menu,Rainbow menu
+198,Glowing Menu,Heatmap Menu
+198,Transparency Menu,Glowing Menu
+198,Greyscaling Menu,Tree Menu
+198,Highlighting Menu,Prediction-by-line Menu
+198,Highlighting Menu,Split Menu with Scrollbar
+198,Hyperbolic Menu,Rotating Menu
+198,Rating Menu,In-context Appearing Menu
+198,In-context Appearing Menu,Weared Menu
+198,Step-by-step Menu,Italiczing Menu
+198,Patined Menu,Prediction-by-color Menu
+198,Patined Menu,Pulsing Menu
+198,Patined Menu,Split Menu with Arrowbar
+198,Polymodal Menu,Temporal Menu
+198,Polymodal Menu,Tree Menu
+198,Rating Menu,Prediction-by-bar Menu
+198,Transparency Menu,Prediction-by-bar Menu
+198,Probability-based Menu,Prediction-by-color Menu
+198,Split Menu with Scrollbar,Prediction-by-color Menu
+198,Transparency Menu,Prediction-by-line Menu
+198,Transparency Menu,Prediction-by-scale Menu
+198,Rating Menu,Probability-based Menu
+198,Probability-based Menu,Rotating Menu
+198,Pulsing Menu,Split Menu with Replication
+198,Square Menu,Rainbow menu
+198,Weared Menu,Rainbow menu
+198,Smart Menu,Weared Menu
+203,Blinking Menu,Smart Menu
+203,Underlying Menu,Blinking Menu
+203,Prediction-by-bar Menu,Blurring Menu
+203,Split Menu with Scrollbar,Blurring Menu
+203,Twisting Menu,Blurring Menu
+203,Bolding Menu,Smart Menu
+203,Twisting Menu,Bolding Menu
+203,Bolding Menu,Weared Menu
+203,Bubbling Menu,Hyperbolic Menu
+203,Twisting Menu,Bubbling Menu
+203,Bubbling Menu,Weared Menu
+203,Cloud Menu,Prediction-by-color Menu
+203,Ephemeral Menu,Rainbow menu
+203,Evanescent Menu,Weared Menu
+203,Fish-eye Menu,Smart Menu
+203,Out-context Disappearing Menu,Fish-eye colored menu
+203,Split Menu with Scrollbar,Fish-eye colored menu
+203,Highlighting Menu,Font-changing Menu
+203,Patined Menu,Frequency-based Menu
+203,Smart Menu,Frequency-based Menu
+203,Underlying Menu,Frequency-based Menu
+203,Glowing Menu,Prediction-by-bar Menu
+203,Greyscaling Menu,Hyperbolic Menu
+203,Heatmap Menu,Hyperbolic Menu
+203,Patined Menu,Heatmap Menu
+203,Split Menu with Scrollbar,Hyperbolic Menu
+203,In-context Appearing Menu,Polymodal Menu
+203,Transparency Menu,In-context Appearing Menu
+203,In-context Appearing Menu,Tree Menu
+203,Polymodal Menu,Italiczing Menu
+203,Probability-based Menu,Italiczing Menu
+203,Transparency Menu,Italiczing Menu
+203,Morphing Menu,Rotating Menu
+203,Out-context Disappearing Menu,Prediction-by-bar Menu
+203,Prediction-by-scale Menu,Out-context Disappearing Menu
+203,Polymodal Menu,Prediction-by-rainbow Menu
+203,Rating Menu,Polymodal Menu
+203,Transparency Menu,Polymodal Menu
+203,Prediction-by-bar Menu,Probability-based Menu
+203,Prediction-by-line Menu,Split Menu with Arrowbar
+203,Split Menu with Scrollbar,Prediction-by-rainbow Menu
+203,Prediction-by-scale Menu,Split Menu with Scrollbar
+203,Prediction-by-scale Menu,Weared Menu
+203,Probability-based Menu,Split Menu without replication
+203,Pushpin Menu,Transparency Menu
+203,Rating Menu,Temporal Menu
+203,Split Menu with Arrowbar,Rotating Menu
+203,Split Menu with Arrowbar,Square Menu
+203,Transparency Menu,Split Menu without replication
+204,Tree Menu,Blinking Menu
+204,Cloud Menu,Blurring Menu
+204,Morphing Menu,Blurring Menu
+204,Prediction-by-line Menu,Blurring Menu
+204,Bolding Menu,Bubbling Menu
+204,Rating Menu,Bolding Menu
+204,Underlying Menu,Bowing Menu
+204,Bubbling Menu,Prediction-by-scale Menu
+204,Bubbling Menu,Pulsing Menu
+204,Split Menu with Scrollbar,Bubbling Menu
+204,Cloud Menu,In-context Appearing Menu
+204,Split Menu with Arrowbar,Cloud Menu
+204,Cloud Menu,Split Menu with Replication
+204,Font-changing Menu,Ephemeral Menu
+204,Ephemeral Menu,Prediction-by-bar Menu
+204,Twisting Menu,Evanescent Menu
+204,Fish-eye Menu,Square Menu
+204,Fish-eye colored menu,Polymodal Menu
+204,Fish-eye colored menu,Prediction-by-scale Menu
+204,Split Menu with Replication,Fish-eye colored menu
+204,Step-by-step Menu,Fish-eye colored menu
+204,Font-changing Menu,Twisting Menu
+204,Frequency-based Menu,Heatmap Menu
+204,Smart Menu,Glowing Menu
+204,Smart Menu,Greyscaling Menu
+204,Pushpin Menu,Hyperbolic Menu
+204,Hyperbolic Menu,Tree Menu
+204,Prediction-by-rainbow Menu,Italiczing Menu
+204,Split Menu with Scrollbar,Italiczing Menu
+204,Probability-based Menu,Out-context Disappearing Menu
+204,Prediction-by-rainbow Menu,Patined Menu
+204,Patined Menu,Prediction-by-scale Menu
+204,Split Menu with Arrowbar,Patined Menu
+204,Patined Menu,Weared Menu
+204,Polymodal Menu,Rainbow menu
+204,Split Menu with Scrollbar,Prediction-by-bar Menu
+204,Split Menu without replication,Prediction-by-bar Menu
+204,Prediction-by-color Menu,Time-based Menu
+204,Rating Menu,Prediction-by-line Menu
+204,Split Menu without replication,Prediction-by-line Menu
+204,Prediction-by-line Menu,Temporal Menu
+204,Prediction-by-line Menu,Weared Menu
+204,Prediction-by-rainbow Menu,Rotating Menu
+204,Pulsing Menu,Temporal Menu
+204,Pushpin Menu,Time-based Menu
+204,Rainbow menu,Temporal Menu
+204,Rating Menu,Split Menu without replication
+204,Rating Menu,Step-by-step Menu
+204,Underlying Menu,Temporal Menu
+207,Bowing Menu,Heatmap Menu
+207,Rating Menu,Fish-eye colored menu
+207,Tree Menu,Flower Menu
+207,Transparency Menu,Font-changing Menu
+207,Glowing Menu,Smart Menu
+208,Patined Menu,Cloud Menu
+208,Prediction-by-bar Menu,Ephemeral Menu
+208,Step-by-step Menu,Evanescent Menu
+208,Time-based Menu,Highlighting Menu
+208,Split Menu with Scrollbar,Polymodal Menu
+209,Greyscaling Menu,Bolding Menu
+209,Italiczing Menu,Bowing Menu
+209,Bowing Menu,Smart Menu
+209,Bubbling Menu,Prediction-by-line Menu
+209,Bubbling Menu,Square Menu
+209,Morphing Menu,Ephemeral Menu
+209,Square Menu,Evanescent Menu
+209,Fish-eye Menu,Patined Menu
+209,Fish-eye colored menu,Hyperbolic Menu
+209,Fish-eye colored menu,Italiczing Menu
+209,Transparency Menu,Fish-eye colored menu
+209,Patined Menu,Font-changing Menu
+209,Highlighting Menu,Twisting Menu
+209,Smart Menu,Hyperbolic Menu
+209,Morphing Menu,Prediction-by-scale Menu
+209,Smart Menu,Out-context Disappearing Menu
+209,Out-context Disappearing Menu,Weared Menu
+209,Polymodal Menu,Prediction-by-line Menu
+209,Smart Menu,Prediction-by-color Menu
+209,Rainbow menu,Split Menu with Scrollbar
+209,Transparency Menu,Rainbow menu
+209,Underlying Menu,Square Menu
+209,Transparency Menu,Twisting Menu
+211,Blinking Menu,Fish-eye colored menu
+211,Underlying Menu,Blinking Menu
+211,Smart Menu,Blurring Menu
+211,Bolding Menu,Rainbow menu
+211,Bowing Menu,Prediction-by-line Menu
+211,Pulsing Menu,Cloud Menu
+211,Cloud Menu,Temporal Menu
+211,Italiczing Menu,Ephemeral Menu
+211,Twisting Menu,Evanescent Menu
+211,Fish-eye Menu,Prediction-by-color Menu
+211,Morphing Menu,Fish-eye colored menu
+211,Italiczing Menu,Font-changing Menu
+211,Frequency-based Menu,Rainbow menu
+211,Frequency-based Menu,Step-by-step Menu
+211,Frequency-based Menu,Twisting Menu
+211,Square Menu,Glowing Menu
+211,Split Menu without replication,Greyscaling Menu
+211,Highlighting Menu,Weared Menu
+211,Prediction-by-bar Menu,Hyperbolic Menu
+211,Split Menu with Arrowbar,Hyperbolic Menu
+211,Split Menu with Scrollbar,Hyperbolic Menu
+211,Morphing Menu,Italiczing Menu
+211,Polymodal Menu,Italiczing Menu
+211,Pulsing Menu,Italiczing Menu
+211,Morphing Menu,Time-based Menu
+211,Twisting Menu,Patined Menu
+211,Rating Menu,Polymodal Menu
+211,Prediction-by-bar Menu,Prediction-by-scale Menu
+211,Split Menu with Replication,Prediction-by-bar Menu
+211,Prediction-by-color Menu,Square Menu
+211,Prediction-by-line Menu,Prediction-by-scale Menu
+211,Prediction-by-line Menu,Split Menu with Scrollbar
+211,Prediction-by-scale Menu,Probability-based Menu
+211,Probability-based Menu,Rotating Menu
+211,Pulsing Menu,Rainbow menu
+211,Split Menu without replication,Rainbow menu
+211,Twisting Menu,Rainbow menu
+211,Step-by-step Menu,Rotating Menu
+211,Underlying Menu,Tree Menu
+212,Bowing Menu,Blinking Menu
+212,Fish-eye Menu,Blinking Menu
+212,Flower Menu,Blinking Menu
+212,Blinking Menu,Prediction-by-color Menu
+212,Transparency Menu,Blinking Menu
+212,Bolding Menu,Blurring Menu
+212,Blurring Menu,Out-context Disappearing Menu
+212,Underlying Menu,Blurring Menu
+212,Tree Menu,Bowing Menu
+212,Glowing Menu,Bubbling Menu
+212,Bubbling Menu,Out-context Disappearing Menu
+212,Cloud Menu,Glowing Menu
+212,Cloud Menu,Smart Menu
+212,Cloud Menu,Split Menu with Scrollbar
+212,Hyperbolic Menu,Ephemeral Menu
+212,Tree Menu,Ephemeral Menu
+212,Pushpin Menu,Evanescent Menu
+212,Fish-eye Menu,Smart Menu
+212,Font-changing Menu,Prediction-by-color Menu
+212,Font-changing Menu,Weared Menu
+212,Hyperbolic Menu,Glowing Menu
+212,Glowing Menu,Italiczing Menu
+212,Polymodal Menu,Glowing Menu
+212,Rating Menu,Glowing Menu
+212,Transparency Menu,Glowing Menu
+212,Glowing Menu,Weared Menu
+212,Greyscaling Menu,Smart Menu
+212,Greyscaling Menu,Square Menu
+212,Greyscaling Menu,Temporal Menu
+212,Underlying Menu,Heatmap Menu
+212,Split Menu with Replication,Highlighting Menu
+212,Highlighting Menu,Split Menu with Scrollbar
+212,Hyperbolic Menu,Pushpin Menu
+212,Hyperbolic Menu,Split Menu without replication
+212,Italiczing Menu,Square Menu
+212,Step-by-step Menu,Italiczing Menu
+212,Split Menu with Replication,Morphing Menu
+212,Out-context Disappearing Menu,Rotating Menu
+212,Prediction-by-line Menu,Patined Menu
+212,Polymodal Menu,Probability-based Menu
+212,Rainbow menu,Prediction-by-color Menu
+212,Rating Menu,Pulsing Menu
+212,Step-by-step Menu,Pulsing Menu
+212,Pushpin Menu,Smart Menu
+212,Rating Menu,Rotating Menu
+212,Rating Menu,Square Menu
+212,Split Menu with Replication,Split Menu with Arrowbar
+212,Split Menu with Replication,Split Menu without replication
+212,Split Menu with Replication,Step-by-step Menu
+212,Split Menu without replication,Twisting Menu
+213,Blinking Menu,Evanescent Menu
+213,In-context Appearing Menu,Blurring Menu
+213,Ephemeral Menu,Polymodal Menu
+213,Pushpin Menu,Flower Menu
+213,Split Menu with Arrowbar,Font-changing Menu
+213,Step-by-step Menu,Font-changing Menu
+213,Greyscaling Menu,Transparency Menu
+213,Morphing Menu,Hyperbolic Menu
+213,In-context Appearing Menu,Prediction-by-color Menu
+213,Rating Menu,Out-context Disappearing Menu
+213,Split Menu with Replication,Prediction-by-bar Menu
+213,Pulsing Menu,Step-by-step Menu
+213,Transparency Menu,Temporal Menu

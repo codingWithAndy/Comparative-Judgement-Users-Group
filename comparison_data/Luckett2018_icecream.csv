@@ -1,0 +1,436 @@
+judge,candidate_chosen,candidate_not_chosen
+session1_subject1,Breyer's,Mayfield
+session1_subject1,Blue Bell,Private Selection
+session1_subject1,Blue Bell,Turkey Hill
+session1_subject1,Turkey Hill,Private Selection
+session1_subject1,Turkey Hill,Breyer's
+session1_subject2,Breyer's,Mayfield
+session1_subject2,Breyer's,Blue Bell
+session1_subject2,Turkey Hill,Blue Bell
+session1_subject2,Breyer's,Turkey Hill
+session1_subject2,Private Selection,Turkey Hill
+session1_subject3,Turkey Hill,Mayfield
+session1_subject3,Private Selection,Mayfield
+session1_subject3,Private Selection,Breyer's
+session1_subject3,Mayfield,Blue Bell
+session1_subject3,Blue Bell,Private Selection
+session1_subject4,Private Selection,Breyer's
+session1_subject4,Private Selection,Blue Bell
+session1_subject4,Breyer's,Mayfield
+session1_subject4,Breyer's,Turkey Hill
+session1_subject4,Turkey Hill,Blue Bell
+session1_subject5,Mayfield,Private Selection
+session1_subject5,Blue Bell,Mayfield
+session1_subject5,Private Selection,Breyer's
+session1_subject5,Blue Bell,Breyer's
+session1_subject5,Mayfield,Turkey Hill
+session1_subject6,Mayfield,Private Selection
+session1_subject6,Mayfield,Blue Bell
+session1_subject6,Blue Bell,Breyer's
+session1_subject6,Turkey Hill,Mayfield
+session1_subject6,Private Selection,Turkey Hill
+session1_subject7,Turkey Hill,Mayfield
+session1_subject7,Breyer's,Private Selection
+session1_subject7,Private Selection,Blue Bell
+session1_subject7,Mayfield,Breyer's
+session1_subject7,Turkey Hill,Breyer's
+session1_subject8,Mayfield,Private Selection
+session1_subject8,Private Selection,Turkey Hill
+session1_subject8,Blue Bell,Breyer's
+session1_subject8,Blue Bell,Turkey Hill
+session1_subject8,Breyer's,Turkey Hill
+session1_subject9,Blue Bell,Mayfield
+session1_subject9,Mayfield,Breyer's
+session1_subject9,Private Selection,Blue Bell
+session1_subject9,Breyer's,Private Selection
+session1_subject9,Mayfield,Turkey Hill
+session1_subject10,Mayfield,Private Selection
+session1_subject10,Private Selection,Turkey Hill
+session1_subject10,Blue Bell,Mayfield
+session1_subject10,Breyer's,Blue Bell
+session1_subject10,Turkey Hill,Blue Bell
+session1_subject11,Private Selection,Mayfield
+session1_subject11,Blue Bell,Mayfield
+session1_subject11,Blue Bell,Private Selection
+session1_subject11,Breyer's,Blue Bell
+session1_subject11,Blue Bell,Turkey Hill
+session1_subject12,Private Selection,Mayfield
+session1_subject12,Mayfield,Blue Bell
+session1_subject12,Blue Bell,Private Selection
+session1_subject12,Mayfield,Turkey Hill
+session1_subject12,Blue Bell,Turkey Hill
+session1_subject13,Mayfield,Turkey Hill
+session1_subject13,Breyer's,Mayfield
+session1_subject13,Breyer's,Private Selection
+session1_subject13,Private Selection,Turkey Hill
+session1_subject13,Turkey Hill,Breyer's
+session1_subject14,Breyer's,Mayfield
+session1_subject14,Blue Bell,Private Selection
+session1_subject14,Private Selection,Breyer's
+session1_subject14,Blue Bell,Breyer's
+session1_subject14,Turkey Hill,Breyer's
+session1_subject15,Mayfield,Private Selection
+session1_subject15,Blue Bell,Private Selection
+session1_subject15,Blue Bell,Turkey Hill
+session1_subject15,Blue Bell,Breyer's
+session1_subject15,Turkey Hill,Breyer's
+session1_subject16,Private Selection,Blue Bell
+session1_subject16,Breyer's,Private Selection
+session1_subject16,Blue Bell,Breyer's
+session1_subject16,Turkey Hill,Blue Bell
+session1_subject16,Breyer's,Turkey Hill
+session1_subject17,Turkey Hill,Mayfield
+session1_subject17,Private Selection,Mayfield
+session1_subject17,Blue Bell,Mayfield
+session1_subject17,Blue Bell,Turkey Hill
+session1_subject17,Turkey Hill,Private Selection
+session1_subject18,Mayfield,Turkey Hill
+session1_subject18,Blue Bell,Mayfield
+session1_subject18,Breyer's,Mayfield
+session1_subject18,Private Selection,Breyer's
+session1_subject18,Turkey Hill,Private Selection
+session1_subject19,Mayfield,Breyer's
+session1_subject19,Breyer's,Private Selection
+session1_subject19,Private Selection,Turkey Hill
+session1_subject19,Breyer's,Blue Bell
+session1_subject19,Turkey Hill,Breyer's
+session1_subject20,Mayfield,Blue Bell
+session1_subject20,Mayfield,Breyer's
+session1_subject20,Mayfield,Private Selection
+session1_subject20,Private Selection,Turkey Hill
+session1_subject20,Turkey Hill,Mayfield
+session1_subject21,Mayfield,Breyer's
+session1_subject21,Mayfield,Private Selection
+session1_subject21,Private Selection,Turkey Hill
+session1_subject21,Mayfield,Blue Bell
+session1_subject21,Private Selection,Breyer's
+session1_subject22,Mayfield,Blue Bell
+session1_subject22,Breyer's,Blue Bell
+session1_subject22,Private Selection,Breyer's
+session1_subject22,Mayfield,Turkey Hill
+session1_subject22,Breyer's,Turkey Hill
+session1_subject23,Blue Bell,Mayfield
+session1_subject23,Private Selection,Breyer's
+session1_subject23,Blue Bell,Breyer's
+session1_subject23,Breyer's,Turkey Hill
+session1_subject23,Private Selection,Turkey Hill
+session1_subject24,Private Selection,Mayfield
+session1_subject24,Private Selection,Turkey Hill
+session1_subject24,Mayfield,Breyer's
+session1_subject24,Breyer's,Private Selection
+session1_subject24,Blue Bell,Turkey Hill
+session1_subject25,Turkey Hill,Mayfield
+session1_subject25,Blue Bell,Private Selection
+session1_subject25,Blue Bell,Mayfield
+session1_subject25,Breyer's,Blue Bell
+session1_subject25,Turkey Hill,Breyer's
+session1_subject26,Mayfield,Private Selection
+session1_subject26,Mayfield,Breyer's
+session1_subject26,Blue Bell,Private Selection
+session1_subject26,Blue Bell,Turkey Hill
+session1_subject26,Private Selection,Turkey Hill
+session1_subject27,Private Selection,Blue Bell
+session1_subject27,Blue Bell,Turkey Hill
+session1_subject27,Blue Bell,Breyer's
+session1_subject27,Breyer's,Turkey Hill
+session1_subject27,Mayfield,Turkey Hill
+session1_subject28,Mayfield,Blue Bell
+session1_subject28,Private Selection,Breyer's
+session1_subject28,Mayfield,Breyer's
+session1_subject28,Breyer's,Blue Bell
+session1_subject28,Turkey Hill,Private Selection
+session1_subject29,Mayfield,Private Selection
+session1_subject29,Mayfield,Breyer's
+session1_subject29,Mayfield,Turkey Hill
+session1_subject29,Blue Bell,Private Selection
+session1_subject29,Turkey Hill,Blue Bell
+session1_subject30,Mayfield,Private Selection
+session1_subject30,Private Selection,Blue Bell
+session1_subject30,Breyer's,Turkey Hill
+session1_subject30,Mayfield,Turkey Hill
+session1_subject30,Turkey Hill,Blue Bell
+session1_subject31,Mayfield,Private Selection
+session1_subject31,Private Selection,Blue Bell
+session1_subject31,Private Selection,Turkey Hill
+session1_subject31,Mayfield,Breyer's
+session1_subject31,Turkey Hill,Mayfield
+session1_subject32,Mayfield,Blue Bell
+session1_subject32,Turkey Hill,Mayfield
+session1_subject32,Mayfield,Private Selection
+session1_subject32,Private Selection,Turkey Hill
+session1_subject32,Turkey Hill,Blue Bell
+session1_subject33,Mayfield,Breyer's
+session1_subject33,Mayfield,Turkey Hill
+session1_subject33,Breyer's,Private Selection
+session1_subject33,Private Selection,Blue Bell
+session1_subject33,Breyer's,Blue Bell
+session1_subject34,Breyer's,Private Selection
+session1_subject34,Blue Bell,Mayfield
+session1_subject34,Blue Bell,Turkey Hill
+session1_subject34,Private Selection,Turkey Hill
+session1_subject34,Breyer's,Turkey Hill
+session1_subject35,Private Selection,Mayfield
+session1_subject35,Mayfield,Blue Bell
+session1_subject35,Turkey Hill,Blue Bell
+session1_subject35,Turkey Hill,Private Selection
+session1_subject35,Breyer's,Turkey Hill
+session1_subject36,Private Selection,Mayfield
+session1_subject36,Turkey Hill,Mayfield
+session1_subject36,Private Selection,Blue Bell
+session1_subject36,Turkey Hill,Blue Bell
+session1_subject36,Private Selection,Turkey Hill
+session1_subject37,Blue Bell,Private Selection
+session1_subject37,Breyer's,Private Selection
+session1_subject37,Breyer's,Blue Bell
+session1_subject37,Breyer's,Mayfield
+session1_subject37,Turkey Hill,Breyer's
+session1_subject38,Private Selection,Mayfield
+session1_subject38,Blue Bell,Private Selection
+session1_subject38,Mayfield,Breyer's
+session1_subject38,Blue Bell,Breyer's
+session1_subject38,Turkey Hill,Mayfield
+session1_subject39,Mayfield,Blue Bell
+session1_subject39,Breyer's,Blue Bell
+session1_subject39,Breyer's,Private Selection
+session1_subject39,Turkey Hill,Breyer's
+session1_subject39,Blue Bell,Turkey Hill
+session1_subject40,Blue Bell,Mayfield
+session1_subject40,Mayfield,Breyer's
+session1_subject40,Private Selection,Breyer's
+session1_subject40,Blue Bell,Breyer's
+session1_subject40,Breyer's,Turkey Hill
+session1_subject41,Mayfield,Blue Bell
+session1_subject41,Private Selection,Breyer's
+session1_subject41,Private Selection,Blue Bell
+session1_subject41,Blue Bell,Breyer's
+session1_subject41,Breyer's,Mayfield
+session1_subject42,Breyer's,Private Selection
+session1_subject42,Blue Bell,Private Selection
+session1_subject42,Breyer's,Blue Bell
+session1_subject42,Breyer's,Mayfield
+session1_subject42,Mayfield,Turkey Hill
+session1_subject43,Mayfield,Breyer's
+session1_subject43,Turkey Hill,Mayfield
+session1_subject43,Private Selection,Blue Bell
+session1_subject43,Breyer's,Blue Bell
+session1_subject43,Breyer's,Turkey Hill
+session1_subject44,Private Selection,Mayfield
+session1_subject44,Mayfield,Blue Bell
+session1_subject44,Breyer's,Private Selection
+session1_subject44,Private Selection,Turkey Hill
+session1_subject44,Blue Bell,Turkey Hill
+session1_subject45,Breyer's,Mayfield
+session1_subject45,Private Selection,Mayfield
+session1_subject45,Blue Bell,Mayfield
+session1_subject45,Turkey Hill,Blue Bell
+session1_subject45,Private Selection,Breyer's
+session1_subject46,Mayfield,Turkey Hill
+session1_subject46,Private Selection,Turkey Hill
+session1_subject46,Private Selection,Blue Bell
+session1_subject46,Blue Bell,Breyer's
+session1_subject46,Breyer's,Turkey Hill
+session1_subject47,Mayfield,Turkey Hill
+session1_subject47,Private Selection,Mayfield
+session1_subject47,Blue Bell,Turkey Hill
+session1_subject47,Private Selection,Turkey Hill
+session1_subject47,Turkey Hill,Breyer's
+session1_subject48,Private Selection,Mayfield
+session1_subject48,Mayfield,Blue Bell
+session1_subject48,Turkey Hill,Private Selection
+session1_subject48,Turkey Hill,Breyer's
+session1_subject48,Turkey Hill,Blue Bell
+session1_subject49,Turkey Hill,Blue Bell
+session1_subject49,Breyer's,Blue Bell
+session1_subject49,Turkey Hill,Mayfield
+session1_subject49,Private Selection,Turkey Hill
+session1_subject49,Turkey Hill,Breyer's
+session1_subject50,Mayfield,Private Selection
+session1_subject50,Mayfield,Breyer's
+session1_subject50,Private Selection,Blue Bell
+session1_subject50,Mayfield,Blue Bell
+session1_subject50,Private Selection,Breyer's
+session1_subject51,Private Selection,Mayfield
+session1_subject51,Breyer's,Mayfield
+session1_subject51,Private Selection,Breyer's
+session1_subject51,Blue Bell,Breyer's
+session1_subject51,Blue Bell,Turkey Hill
+session1_subject52,Private Selection,Mayfield
+session1_subject52,Turkey Hill,Blue Bell
+session1_subject52,Mayfield,Breyer's
+session1_subject52,Blue Bell,Breyer's
+session1_subject52,Private Selection,Turkey Hill
+session1_subject53,Private Selection,Mayfield
+session1_subject53,Blue Bell,Mayfield
+session1_subject53,Blue Bell,Private Selection
+session1_subject53,Private Selection,Breyer's
+session1_subject53,Turkey Hill,Mayfield
+session1_subject54,Mayfield,Turkey Hill
+session1_subject54,Mayfield,Blue Bell
+session1_subject54,Private Selection,Blue Bell
+session1_subject54,Private Selection,Breyer's
+session1_subject54,Breyer's,Turkey Hill
+session1_subject55,Mayfield,Breyer's
+session1_subject55,Turkey Hill,Private Selection
+session1_subject55,Breyer's,Blue Bell
+session1_subject55,Breyer's,Turkey Hill
+session1_subject55,Turkey Hill,Blue Bell
+session1_subject56,Private Selection,Blue Bell
+session1_subject56,Breyer's,Blue Bell
+session1_subject56,Breyer's,Turkey Hill
+session1_subject56,Turkey Hill,Mayfield
+session1_subject56,Turkey Hill,Private Selection
+session1_subject57,Private Selection,Mayfield
+session1_subject57,Blue Bell,Mayfield
+session1_subject57,Private Selection,Blue Bell
+session1_subject57,Private Selection,Breyer's
+session1_subject57,Blue Bell,Turkey Hill
+session1_subject58,Mayfield,Blue Bell
+session1_subject58,Private Selection,Blue Bell
+session1_subject58,Turkey Hill,Breyer's
+session1_subject58,Turkey Hill,Mayfield
+session1_subject58,Private Selection,Turkey Hill
+session1_subject59,Mayfield,Turkey Hill
+session1_subject59,Private Selection,Turkey Hill
+session1_subject59,Breyer's,Blue Bell
+session1_subject59,Mayfield,Breyer's
+session1_subject59,Breyer's,Turkey Hill
+session1_subject60,Private Selection,Mayfield
+session1_subject60,Blue Bell,Mayfield
+session1_subject60,Mayfield,Breyer's
+session1_subject60,Private Selection,Breyer's
+session1_subject60,Turkey Hill,Blue Bell
+session1_subject61,Mayfield,Blue Bell
+session1_subject61,Breyer's,Private Selection
+session1_subject61,Breyer's,Blue Bell
+session1_subject61,Breyer's,Turkey Hill
+session1_subject61,Mayfield,Turkey Hill
+session1_subject62,Private Selection,Mayfield
+session1_subject62,Blue Bell,Private Selection
+session1_subject62,Private Selection,Breyer's
+session1_subject62,Turkey Hill,Private Selection
+session1_subject62,Blue Bell,Turkey Hill
+session1_subject63,Private Selection,Mayfield
+session1_subject63,Blue Bell,Private Selection
+session1_subject63,Mayfield,Breyer's
+session1_subject63,Private Selection,Turkey Hill
+session1_subject63,Blue Bell,Turkey Hill
+session1_subject64,Private Selection,Breyer's
+session1_subject64,Turkey Hill,Private Selection
+session1_subject64,Blue Bell,Mayfield
+session1_subject64,Mayfield,Turkey Hill
+session1_subject64,Turkey Hill,Breyer's
+session1_subject65,Mayfield,Turkey Hill
+session1_subject65,Private Selection,Mayfield
+session1_subject65,Private Selection,Blue Bell
+session1_subject65,Private Selection,Breyer's
+session1_subject65,Turkey Hill,Private Selection
+session1_subject66,Mayfield,Private Selection
+session1_subject66,Mayfield,Breyer's
+session1_subject66,Private Selection,Blue Bell
+session1_subject66,Blue Bell,Breyer's
+session1_subject66,Blue Bell,Turkey Hill
+session1_subject67,Blue Bell,Mayfield
+session1_subject67,Mayfield,Turkey Hill
+session1_subject67,Blue Bell,Breyer's
+session1_subject67,Breyer's,Mayfield
+session1_subject67,Breyer's,Turkey Hill
+session1_subject68,Blue Bell,Mayfield
+session1_subject68,Mayfield,Breyer's
+session1_subject68,Blue Bell,Breyer's
+session1_subject68,Blue Bell,Turkey Hill
+session1_subject68,Turkey Hill,Breyer's
+session1_subject69,Breyer's,Mayfield
+session1_subject69,Private Selection,Blue Bell
+session1_subject69,Blue Bell,Breyer's
+session1_subject69,Turkey Hill,Blue Bell
+session1_subject69,Turkey Hill,Breyer's
+session1_subject70,Blue Bell,Mayfield
+session1_subject70,Turkey Hill,Mayfield
+session1_subject70,Private Selection,Mayfield
+session1_subject70,Breyer's,Private Selection
+session1_subject70,Turkey Hill,Private Selection
+session1_subject71,Blue Bell,Mayfield
+session1_subject71,Turkey Hill,Blue Bell
+session1_subject71,Breyer's,Private Selection
+session1_subject71,Blue Bell,Breyer's
+session1_subject71,Turkey Hill,Private Selection
+session1_subject72,Private Selection,Mayfield
+session1_subject72,Mayfield,Breyer's
+session1_subject72,Private Selection,Blue Bell
+session1_subject72,Breyer's,Turkey Hill
+session1_subject72,Mayfield,Turkey Hill
+session1_subject73,Blue Bell,Mayfield
+session1_subject73,Private Selection,Breyer's
+session1_subject73,Turkey Hill,Private Selection
+session1_subject73,Blue Bell,Private Selection
+session1_subject73,Blue Bell,Breyer's
+session1_subject74,Private Selection,Mayfield
+session1_subject74,Blue Bell,Mayfield
+session1_subject74,Blue Bell,Turkey Hill
+session1_subject74,Breyer's,Blue Bell
+session1_subject74,Turkey Hill,Mayfield
+session1_subject75,Private Selection,Blue Bell
+session1_subject75,Breyer's,Mayfield
+session1_subject75,Breyer's,Private Selection
+session1_subject75,Private Selection,Turkey Hill
+session1_subject75,Breyer's,Turkey Hill
+session1_subject76,Private Selection,Mayfield
+session1_subject76,Private Selection,Blue Bell
+session1_subject76,Private Selection,Turkey Hill
+session1_subject76,Breyer's,Mayfield
+session1_subject76,Breyer's,Turkey Hill
+session1_subject77,Mayfield,Turkey Hill
+session1_subject77,Mayfield,Private Selection
+session1_subject77,Blue Bell,Breyer's
+session1_subject77,Turkey Hill,Blue Bell
+session1_subject77,Breyer's,Mayfield
+session1_subject78,Mayfield,Private Selection
+session1_subject78,Breyer's,Mayfield
+session1_subject78,Turkey Hill,Breyer's
+session1_subject78,Mayfield,Turkey Hill
+session1_subject78,Blue Bell,Turkey Hill
+session1_subject79,Mayfield,Blue Bell
+session1_subject79,Private Selection,Breyer's
+session1_subject79,Turkey Hill,Private Selection
+session1_subject79,Blue Bell,Private Selection
+session1_subject79,Breyer's,Turkey Hill
+session1_subject80,Mayfield,Blue Bell
+session1_subject80,Mayfield,Turkey Hill
+session1_subject80,Private Selection,Breyer's
+session1_subject80,Blue Bell,Breyer's
+session1_subject80,Blue Bell,Turkey Hill
+session1_subject81,Private Selection,Mayfield
+session1_subject81,Mayfield,Blue Bell
+session1_subject81,Private Selection,Blue Bell
+session1_subject81,Turkey Hill,Blue Bell
+session1_subject81,Breyer's,Turkey Hill
+session1_subject82,Private Selection,Turkey Hill
+session1_subject82,Breyer's,Mayfield
+session1_subject82,Breyer's,Private Selection
+session1_subject82,Blue Bell,Breyer's
+session1_subject82,Mayfield,Turkey Hill
+session1_subject83,Private Selection,Mayfield
+session1_subject83,Breyer's,Private Selection
+session1_subject83,Blue Bell,Mayfield
+session1_subject83,Turkey Hill,Blue Bell
+session1_subject83,Breyer's,Turkey Hill
+session1_subject84,Private Selection,Mayfield
+session1_subject84,Breyer's,Blue Bell
+session1_subject84,Private Selection,Breyer's
+session1_subject84,Turkey Hill,Breyer's
+session1_subject84,Turkey Hill,Blue Bell
+session1_subject85,Blue Bell,Mayfield
+session1_subject85,Private Selection,Mayfield
+session1_subject85,Blue Bell,Private Selection
+session1_subject85,Turkey Hill,Private Selection
+session1_subject85,Breyer's,Mayfield
+session1_subject86,Blue Bell,Breyer's
+session1_subject86,Private Selection,Breyer's
+session1_subject86,Breyer's,Turkey Hill
+session1_subject86,Mayfield,Turkey Hill
+session1_subject86,Blue Bell,Turkey Hill
+session1_subject87,Mayfield,Blue Bell
+session1_subject87,Private Selection,Mayfield
+session1_subject87,Private Selection,Blue Bell
+session1_subject87,Turkey Hill,Private Selection
+session1_subject87,Breyer's,Turkey Hill

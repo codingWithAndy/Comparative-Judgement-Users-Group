@@ -1,0 +1,381 @@
+judge,candidate_chosen,candidate_not_chosen
+1,DiGiorno,Freschetta
+1,Tombstone,Red Barron
+1,DiGiorno,Red Barron
+1,Kroger,Freschetta
+2,Freschetta,Tombstone
+2,Kroger,Red Barron
+2,DiGiorno,Kroger
+2,DiGiorno,Tombstone
+3,Red Barron,Freschetta
+3,DiGiorno,Freschetta
+3,Tombstone,Red Barron
+3,Kroger,Freschetta
+4,Freschetta,Red Barron
+4,Freschetta,Tombstone
+4,Kroger,Red Barron
+4,Tombstone,Kroger
+5,Freschetta,Kroger
+5,Freschetta,Red Barron
+5,Tombstone,Kroger
+5,Freschetta,Tombstone
+6,Freschetta,DiGiorno
+6,DiGiorno,Red Barron
+6,DiGiorno,Kroger
+6,Tombstone,DiGiorno
+7,Freschetta,Kroger
+7,Red Barron,Freschetta
+7,Red Barron,Tombstone
+7,Tombstone,Kroger
+8,Tombstone,Red Barron
+8,Tombstone,DiGiorno
+8,Freschetta,DiGiorno
+8,Red Barron,DiGiorno
+9,Red Barron,Kroger
+9,Tombstone,Kroger
+9,DiGiorno,Kroger
+9,Tombstone,Freschetta
+10,Kroger,Red Barron
+10,Red Barron,DiGiorno
+10,DiGiorno,Kroger
+10,DiGiorno,Tombstone
+11,Freschetta,Kroger
+11,Tombstone,Red Barron
+11,DiGiorno,Red Barron
+11,DiGiorno,Tombstone
+12,Freschetta,Red Barron
+12,Freschetta,DiGiorno
+12,Kroger,DiGiorno
+12,Tombstone,DiGiorno
+13,Freschetta,Red Barron
+13,Freschetta,Tombstone
+13,Kroger,Tombstone
+13,DiGiorno,Freschetta
+14,Tombstone,Freschetta
+14,DiGiorno,Freschetta
+14,Red Barron,Kroger
+14,Tombstone,Kroger
+15,Freschetta,Kroger
+15,Kroger,Red Barron
+15,Tombstone,Red Barron
+15,Red Barron,DiGiorno
+16,Freschetta,Kroger
+16,Red Barron,Kroger
+16,Tombstone,Kroger
+16,Tombstone,Freschetta
+17,Tombstone,Red Barron
+17,DiGiorno,Red Barron
+17,DiGiorno,Kroger
+17,DiGiorno,Tombstone
+18,Red Barron,Freschetta
+18,Tombstone,Kroger
+18,DiGiorno,Freschetta
+18,DiGiorno,Kroger
+19,Red Barron,Freschetta
+19,Red Barron,DiGiorno
+19,DiGiorno,Kroger
+19,Tombstone,DiGiorno
+20,Freschetta,Tombstone
+20,Red Barron,Kroger
+20,Tombstone,Red Barron
+20,Freschetta,Kroger
+21,Kroger,Freschetta
+21,Freschetta,Tombstone
+21,Tombstone,Kroger
+21,DiGiorno,Kroger
+22,Freschetta,Kroger
+22,Freschetta,Tombstone
+22,Freschetta,Red Barron
+22,Kroger,DiGiorno
+23,Freschetta,DiGiorno
+23,Freschetta,Kroger
+23,Tombstone,Kroger
+23,Tombstone,DiGiorno
+24,Red Barron,Tombstone
+24,Tombstone,Kroger
+24,DiGiorno,Tombstone
+24,DiGiorno,Freschetta
+25,Freschetta,DiGiorno
+25,Kroger,Freschetta
+25,Kroger,Tombstone
+25,DiGiorno,Kroger
+26,Red Barron,Kroger
+26,Tombstone,Red Barron
+26,DiGiorno,Red Barron
+26,DiGiorno,Tombstone
+27,Red Barron,DiGiorno
+27,Red Barron,Tombstone
+27,DiGiorno,Tombstone
+27,Freschetta,DiGiorno
+28,Freschetta,Red Barron
+28,Kroger,Red Barron
+28,Tombstone,Freschetta
+28,Red Barron,DiGiorno
+29,Red Barron,Freschetta
+29,Red Barron,Kroger
+29,Tombstone,Freschetta
+29,DiGiorno,Kroger
+30,Freschetta,Red Barron
+30,Tombstone,Red Barron
+30,DiGiorno,Red Barron
+30,Red Barron,Kroger
+31,Kroger,Freschetta
+31,Freschetta,Tombstone
+31,Red Barron,Tombstone
+31,DiGiorno,Red Barron
+32,Red Barron,Kroger
+32,Freschetta,Kroger
+32,Tombstone,Red Barron
+32,Red Barron,DiGiorno
+33,Freschetta,Red Barron
+33,DiGiorno,Freschetta
+33,Red Barron,Kroger
+33,Red Barron,Tombstone
+34,Freschetta,DiGiorno
+34,Tombstone,Kroger
+34,Tombstone,DiGiorno
+34,DiGiorno,Kroger
+35,DiGiorno,Freschetta
+35,Red Barron,Freschetta
+35,Kroger,Tombstone
+35,DiGiorno,Kroger
+36,Freschetta,Tombstone
+36,DiGiorno,Kroger
+36,Kroger,Tombstone
+36,DiGiorno,Tombstone
+37,Kroger,DiGiorno
+37,Freschetta,Tombstone
+37,DiGiorno,Tombstone
+37,DiGiorno,Red Barron
+38,Kroger,Freschetta
+38,Freschetta,Tombstone
+38,Red Barron,DiGiorno
+38,DiGiorno,Tombstone
+39,Kroger,Freschetta
+39,Red Barron,Freschetta
+39,Red Barron,Kroger
+39,Tombstone,Red Barron
+40,Freschetta,Red Barron
+40,Red Barron,Kroger
+40,Tombstone,Kroger
+40,DiGiorno,Freschetta
+41,Red Barron,Freschetta
+41,Freschetta,DiGiorno
+41,Tombstone,Kroger
+41,Kroger,DiGiorno
+42,Tombstone,Red Barron
+42,Kroger,Red Barron
+42,Freschetta,Tombstone
+42,Red Barron,DiGiorno
+43,Freschetta,Kroger
+43,Tombstone,Kroger
+43,Red Barron,Tombstone
+43,Red Barron,DiGiorno
+44,Freschetta,Red Barron
+44,Kroger,Red Barron
+44,Tombstone,DiGiorno
+44,DiGiorno,Kroger
+45,Freschetta,Kroger
+45,Red Barron,Freschetta
+45,Kroger,Tombstone
+45,Freschetta,DiGiorno
+46,Freschetta,Kroger
+46,Red Barron,Tombstone
+46,Tombstone,Kroger
+46,Freschetta,DiGiorno
+47,Red Barron,Kroger
+47,Freschetta,Tombstone
+47,Red Barron,DiGiorno
+47,DiGiorno,Tombstone
+48,Tombstone,Freschetta
+48,Red Barron,Kroger
+48,Kroger,DiGiorno
+48,Tombstone,DiGiorno
+49,Tombstone,Freschetta
+49,Red Barron,DiGiorno
+49,Freschetta,Kroger
+49,Red Barron,Tombstone
+50,Freschetta,DiGiorno
+50,Freschetta,Red Barron
+50,Kroger,DiGiorno
+50,DiGiorno,Tombstone
+51,Freschetta,Red Barron
+51,Kroger,Freschetta
+51,Kroger,Tombstone
+51,Freschetta,DiGiorno
+52,DiGiorno,Kroger
+52,Freschetta,Tombstone
+52,Kroger,Tombstone
+52,DiGiorno,Tombstone
+53,Freschetta,Kroger
+53,Red Barron,Freschetta
+53,Kroger,Tombstone
+53,DiGiorno,Tombstone
+54,Red Barron,Freschetta
+54,Kroger,Tombstone
+54,DiGiorno,Kroger
+54,DiGiorno,Tombstone
+55,DiGiorno,Kroger
+55,Tombstone,Freschetta
+55,Tombstone,DiGiorno
+55,DiGiorno,Red Barron
+56,Red Barron,Freschetta
+56,Freschetta,Kroger
+56,Red Barron,Tombstone
+56,Freschetta,DiGiorno
+57,Freschetta,Kroger
+57,DiGiorno,Freschetta
+57,Red Barron,Tombstone
+57,Red Barron,Kroger
+58,Red Barron,DiGiorno
+58,Red Barron,Kroger
+58,Freschetta,Tombstone
+58,Red Barron,Tombstone
+59,Tombstone,Freschetta
+59,Red Barron,Kroger
+59,DiGiorno,Red Barron
+59,DiGiorno,Kroger
+60,Red Barron,Kroger
+60,Red Barron,Tombstone
+60,Freschetta,DiGiorno
+60,DiGiorno,Red Barron
+61,Freschetta,Kroger
+61,Red Barron,Kroger
+61,DiGiorno,Tombstone
+61,Freschetta,DiGiorno
+62,Red Barron,Freschetta
+62,DiGiorno,Red Barron
+62,Kroger,Red Barron
+62,DiGiorno,Tombstone
+63,Kroger,Freschetta
+63,Tombstone,Freschetta
+63,DiGiorno,Freschetta
+63,DiGiorno,Kroger
+64,Red Barron,Freschetta
+64,Red Barron,DiGiorno
+64,Kroger,Red Barron
+64,Tombstone,Kroger
+65,Kroger,Red Barron
+65,Kroger,Freschetta
+65,DiGiorno,Tombstone
+65,DiGiorno,Red Barron
+66,Freschetta,DiGiorno
+66,Tombstone,Red Barron
+66,Kroger,DiGiorno
+66,Freschetta,Tombstone
+67,Red Barron,Freschetta
+67,Tombstone,Freschetta
+67,Tombstone,Kroger
+67,Red Barron,Tombstone
+68,Tombstone,Red Barron
+68,DiGiorno,Kroger
+68,Tombstone,Freschetta
+68,Tombstone,Kroger
+69,DiGiorno,Freschetta
+69,Kroger,Freschetta
+69,DiGiorno,Kroger
+69,DiGiorno,Tombstone
+70,Red Barron,Freschetta
+70,Red Barron,Tombstone
+70,Kroger,Tombstone
+70,DiGiorno,Red Barron
+71,Red Barron,Freschetta
+71,DiGiorno,Freschetta
+71,Tombstone,Kroger
+71,DiGiorno,Kroger
+72,Red Barron,Freschetta
+72,Freschetta,DiGiorno
+72,Red Barron,Tombstone
+72,DiGiorno,Red Barron
+73,Tombstone,Freschetta
+73,Kroger,Red Barron
+73,DiGiorno,Red Barron
+73,Tombstone,Red Barron
+74,Kroger,Freschetta
+74,Red Barron,Kroger
+74,Tombstone,Kroger
+74,Tombstone,DiGiorno
+75,Red Barron,Freschetta
+75,Red Barron,DiGiorno
+75,Kroger,DiGiorno
+75,DiGiorno,Freschetta
+76,Freschetta,Tombstone
+76,Red Barron,Tombstone
+76,Red Barron,Kroger
+76,Tombstone,DiGiorno
+77,Kroger,Freschetta
+77,Kroger,Tombstone
+77,DiGiorno,Tombstone
+77,Kroger,DiGiorno
+78,Freschetta,Red Barron
+78,Kroger,Freschetta
+78,Kroger,Tombstone
+78,Kroger,DiGiorno
+79,Freschetta,Kroger
+79,Red Barron,Kroger
+79,Freschetta,Tombstone
+79,DiGiorno,Tombstone
+80,DiGiorno,Freschetta
+80,Red Barron,Tombstone
+80,Tombstone,Freschetta
+80,Red Barron,DiGiorno
+81,Tombstone,Freschetta
+81,Freschetta,Red Barron
+81,Tombstone,Red Barron
+81,Kroger,Tombstone
+82,Freschetta,Kroger
+82,Red Barron,Kroger
+82,DiGiorno,Tombstone
+82,Kroger,DiGiorno
+83,Freschetta,Red Barron
+83,Kroger,Tombstone
+83,DiGiorno,Kroger
+83,Freschetta,Tombstone
+84,Red Barron,Kroger
+84,DiGiorno,Red Barron
+84,Tombstone,DiGiorno
+84,Freschetta,DiGiorno
+85,Freschetta,Tombstone
+85,Freschetta,Kroger
+85,Kroger,Red Barron
+85,DiGiorno,Kroger
+86,Freschetta,Kroger
+86,Kroger,Red Barron
+86,DiGiorno,Red Barron
+86,DiGiorno,Tombstone
+87,Red Barron,Freschetta
+87,Red Barron,Tombstone
+87,DiGiorno,Freschetta
+87,Red Barron,DiGiorno
+88,Freschetta,Kroger
+88,Tombstone,Kroger
+88,DiGiorno,Kroger
+88,Freschetta,Tombstone
+89,DiGiorno,Freschetta
+89,Red Barron,Tombstone
+89,DiGiorno,Red Barron
+89,DiGiorno,Tombstone
+90,Freschetta,DiGiorno
+90,Freschetta,Red Barron
+90,Red Barron,Tombstone
+90,Tombstone,Kroger
+91,DiGiorno,Freschetta
+91,Kroger,DiGiorno
+91,Tombstone,Kroger
+91,DiGiorno,Tombstone
+92,Freschetta,Tombstone
+92,DiGiorno,Kroger
+92,Kroger,Tombstone
+92,Tombstone,DiGiorno
+93,Kroger,Red Barron
+93,Kroger,Tombstone
+93,Freschetta,DiGiorno
+93,Kroger,DiGiorno
+94,Freschetta,Red Barron
+94,Red Barron,Tombstone
+94,Freschetta,Kroger
+94,Red Barron,DiGiorno
+95,Freschetta,Kroger
+95,Kroger,Tombstone
+95,Tombstone,Freschetta
+95,DiGiorno,Tombstone
