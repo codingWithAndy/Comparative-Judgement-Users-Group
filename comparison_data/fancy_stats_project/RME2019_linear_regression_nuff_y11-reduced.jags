@@ -1,0 +1,19 @@
+model {
+
+	for (i in 1:N) {
+
+		DerivCJ[i] ~ dnorm(alpha 
+				        + beta.Num_op * Num_op[i] 
+   			        	+ beta.group * group[i],
+				   tau)
+
+	}
+
+	alpha ~ dnorm(0, 1.0e-3)
+	beta.Num_op ~ dnorm(0, 1.0e-3)
+	beta.group ~ dnorm(0, 1.0e-3)
+
+        tau ~ dgamma(1.0E-3, 1.0E-3)
+        sigma <- sqrt(1/tau)
+
+}
