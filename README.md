@@ -66,7 +66,9 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Date | Location | Focus | Host |
 | --- | :---: |  --- | --- |
-| X-X-2024 | Birmingham University | | <a href="https://www.birmingham.ac.uk/staff/profiles/maths/seymour-rowland.aspx">Rowland Seymour</a> |
+| 19-09-2025 | De Montfort University | | <a href="https://www.dmu.ac.uk/about-dmu/academic-staff/health-and-life-sciences/marie-josee-bisson/marie-josee-bisson.aspx">Marie-Josee Bisson</a> |
+| 25-04-2025 | Bath Spa University | | <a href="https://www.bathspa.ac.uk/our-people/andy-gray/">Anyd Gray</a> |
+| 19-01-2025 | Birmingham University | | <a href="https://www.birmingham.ac.uk/staff/profiles/maths/seymour-rowland.aspx">Rowland Seymour</a> |
 | 16-01-2024 | Loughborough University | Research Method User Group initialtion | <a href="https://www.lboro.ac.uk/departments/maths-education/staff/ian-jones/">Ian Jones</a> |
 
 
