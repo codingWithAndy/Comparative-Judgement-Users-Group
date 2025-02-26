@@ -100,6 +100,7 @@ Thanks for your valuable contribution to the research community. 😃
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 <!--
+|Scalable Bayesian inference for Bradley–Terry models with ties: an application to honour based abuse|AAAI 2024|[Paper]([https://arxiv.org/abs/2312.14126](https://www.tandfonline.com/doi/full/10.1080/02664763.2024.2436608)|[Code](https://github.com/bardisafa/EOAL) | |  |
 |Entropic Open-Set Active Learning|AAAI 2024|[Paper](https://arxiv.org/abs/2312.14126)|[Code](https://github.com/bardisafa/EOAL) | Pool.| Open-world AL |
 -->
 
