@@ -99,7 +99,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
-|Scalable Bayesian inference for Bradley–Terry models with ties: an application to honour based abuse|Journal of Applied Statistics|[Paper](https://www.tandfonline.com/doi/full/10.1080/02664763.2024.2436608)|| |  |
+|Scalable Bayesian inference for Bradley–Terry models with ties: an application to honour based abuse|Journal of Applied Statistics|[Paper](https://www.tandfonline.com/doi/full/10.1080/02664763.2024.2436608)|[speedyBBT R Pakcage](https://cran.r-project.org/package=speedyBBT) [Data Collection Interface](https://github.com/HiddenHarmsHub/comparison-interface)| |  |
 <!--
 |Entropic Open-Set Active Learning|AAAI 2024|[Paper](https://arxiv.org/abs/2312.14126)|[Code](https://github.com/bardisafa/EOAL) | Pool.| Open-world AL |
 -->
@@ -127,6 +127,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
+| The Bayesian Spatial Bradley–Terry model: Urban deprivation modelling in Tanzania | Journal of the Royal Statistical Society: Series C| [Paper](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssc.12532)  |[BSBT R Package](https://github.com/rowlandseymour/BSBT) | | |
 | Improving Self-Reflection Assessment Practices: Comparative Judgment as an Alternative to Rubrics. | |   | | | |
 | What do mathematicians mean by proof? A comparative-judgement study of students’ and mathematicians’ views. | |   | | | |
 
