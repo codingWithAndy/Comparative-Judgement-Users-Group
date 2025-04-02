@@ -1,0 +1,18 @@
+title: Comparative Judgement Research Consortium
+remote_theme: HiddenHarmsHub/jekyll-theme-zendesk-garden@main
+search_enabled: true
+auto_page_title: true
+sidebar:
+    - index
+    - label: Meetings
+      children:
+        - 2024-january
+        - 2024-september
+        - 2025-january
+        - 2025-april
+    - label: Resources
+      children:
+        - articles
+        - software
+        - repo
+    - reading_group
